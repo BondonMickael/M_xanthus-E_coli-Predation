@@ -27,14 +27,21 @@ for i in M_xanthus.reactions:
         i.lower_bound = -1000
     
     for k in M_xanthus.reactions:
-        if k.id in exchange_id:
-            j.lower_bound = 0
+        if i.id in exchange_id and k.id in exchange_id:
+            i.lower_bound = 0
             k.lower_bound = 0
             FBA = M_xanthus.optimize()
-            Objective_value[str(j.id)+ ' + ' + str(k.id)] = FBA.objective_value
-            j.lower_bound = -1000
+            Objective_value[str(i.id)+ ' + ' + str(k.id)] = FBA.objective_value
+            i.lower_bound = -1000
             k.lower_bound = -1000
     x += 1
     print(x)
 
-Objective_value
+no_sol = []
+for l in Objective_value:
+    if Objective_value[l] == 0:
+        no_sol.append(l)
+
+with open('no_solution_V2.txt', 'w') as f:
+    for line in no_sol:
+        f.write(f"{line}\n")
