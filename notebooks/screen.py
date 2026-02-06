@@ -1,47 +1,45 @@
+import numpy as np
+import matplotlib.pyplot as plt
+import pandas as pd
 import cobra
-from cobra.io import (
-    load_json_model,
-    save_json_model,
-    load_matlab_model,
-    save_matlab_model,
-    read_sbml_model,
-    write_sbml_model,
-)
+from cobra.core.configuration import Configuration
+from cobra.io import read_sbml_model, write_sbml_model
 from cobra.flux_analysis import flux_variability_analysis
+from tqdm import tqdm
 
-M_xanthus = read_sbml_model("../M_xanthus_model.sbml")
+from imatpy.model_utils import read_model
+from imatpy.parse_gpr import gene_to_rxn_weights
+from imatpy.imat import imat
 
-exchange_id = []
-for i in M_xanthus.exchanges:
-    for j in i.metabolites:
-        if "C" in j.formula:
-            exchange_id.append(i.id)
+# Read in the model
+M_xanthus = read_model("../M_xanthus_model.sbml")
 
-Objective_value = {}
-x = 0
-for i in M_xanthus.reactions:
-    if i.id in exchange_id:
-        i.lower_bound = 0
-        FBA = M_xanthus.optimize()
-        Objective_value[i.id] = FBA.objective_value
-        i.lower_bound = -1000
+# Set the solver to glpk
+Configuration().solver = "glpk"
 
-    for k in M_xanthus.reactions:
-        if i.id in exchange_id and k.id in exchange_id:
-            i.lower_bound = 0
-            k.lower_bound = 0
-            FBA = M_xanthus.optimize()
-            Objective_value[str(i.id) + " + " + str(k.id)] = FBA.objective_value
-            i.lower_bound = -1000
-            k.lower_bound = -1000
-    x += 1
-    print(x)
+# Read in the table
+Table = pd.read_csv("../data/iMat_modified/WT_vs_Ecol_ratio1_3.csv")
 
-no_sol = []
-for l in Objective_value:
-    if Objective_value[l] == 0:
-        no_sol.append(l)
+# Create a pandas Series representing gene expression weights
+iMatDic = {}
 
-with open("no_solution_V2.txt", "w") as f:
-    for line in no_sol:
-        f.write(f"{line}\n")
+for i in range(len(Table.index)): # take the genes from the experimental data
+    iMatDic[Table['orgdb_old_MXAN'][i]] = int(Table['iMat'][i])
+
+for i in M_xanthus.genes._dict: # take the genes from the model
+    if i not in iMatDic:
+        iMatDic[i] = 0
+
+iMatWeights = pd.Series(iMatDic)
+
+# Convert the gene weights into reaction weights
+reaction_weights = gene_to_rxn_weights(model=M_xanthus, gene_weights=iMatWeights, fill_val= 0)
+
+# Run iMAT
+imat_results = imat(model=M_xanthus, rxn_weights=reaction_weights, epsilon=1, threshold=0.01)
+
+# Print the imat objective
+print(f"iMAT Objective: {imat_results.objective_value}")
+
+# Print the imat flux distribution
+print(f"iMAT Flux Distribution: \n{imat_results.fluxes}")
