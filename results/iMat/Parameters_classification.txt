@@ -1,0 +1,14 @@
+==== iMAT Parameters ====
+
+Mean Discretization
+Mean: 0.3191780552619632
+Standard Deviation: 0.9951775795805654
+Upper Threshold: 0.8167668450522458
+Lower Threshold: -0.17841073452831951
+
+Parameters:
+Epsilon: 1.0
+
+Linear Programming Problem information:
+Solver status:	Optimal
+Objective Value:	441.0
