@@ -1,0 +1,1368 @@
+;reaction_id;flux_value;classification;y_f;y_r;c_value
+0;2-amino-4-hydroxy-6-hydroxymethyl-7,8-dihydropteridine-diphosphate:4-aminobenzoate 2-amino-4-hydroxydihydropteridine-6-methenyltransferase [c];0.0;moderate;0.0;0.0;0.233094125260299
+1;gamma-L-glutamyl-L-cysteine:glycine ligase (ADP-forming) [c];1.0;high;1.0;0.0;1.0544450472430098
+2;R07600 [c];0.0;low;1.0;0.0;
+3;IMP:diphosphate phospho-D-ribosyltransferase [c];-3.0;moderate;0.0;1.0;0.3898677690208935
+4;2,3-dihydro-2,3-dihydroxybenzoate:NAD+ oxidoreductase [c];0.0;low;1.0;0.0;
+5;acetyl-CoA:L-serine O-acetyltransferase [c];0.0;moderate;0.0;0.0;0.2623549140553988
+6;palmitoyl-lipoteichoic acid synthesis (n=24), linked, glucose substituted [c];0.0;high;0.0;0.0;1.1015221062842442
+7;ATP:CMP phosphotransferase [c];0.0;low;1.0;0.0;
+8;Transport of dicarboxylates, extracellular [c];0.0;low;1.0;0.0;
+9;UDP-N-acetyl-D-glucosamine:undecaprenyl-diphospho-N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine 4-beta-N-acetylglucosaminlytransferase [c];0.0;;;;
+10;Isochorismate pyruvate-hydrolase [c];0.0;low;1.0;0.0;
+11;FACOAL160(ISO) [c];0.0;low;1.0;0.0;
+12;L-glutamate:L-cysteine gamma-ligase (ADP-forming) [c];1.0;high;1.0;0.0;1.015925618852851
+13;7-methyl-trans-oct-2-enoyl-ACP:NAD+ oxidoreductase (A-specific) [c];0.0;low;1.0;0.0;
+14;ATP:dCDP phosphotransferase [c];1.0;high;1.0;0.0;1.1253177243083452
+15;trans-4-Hydroxy-L-proline 2-epimerase [c];0.0;high;0.0;0.0;1.0514793715510988
+16;R03270 [c];871.18182;moderate;1.0;0.0;0.7638885827863641
+17;ornithine transport via ABC system [c];1.0;moderate;1.0;0.0;0.5811005947650799
+18;(S)-3-Hydroxybutanoyl-CoA:NADP+ oxidoreductase [c];0.0;low;1.0;0.0;
+19;GDP-mannose 4,6-hydro-lyase (GDP-4-dehydro-6-deoxy-D-mannose-forming) [c];0.0;moderate;0.0;0.0;0.6556886209597967
+20;dTDP-4-dehydro-6-deoxy-D-glucose 3,5-epimerase [c];0.0;moderate;0.0;0.0;0.3649257225199009
+21;(S)-3-Hydroxyhexadecanoyl-CoA:NAD+ oxidoreductase [c];0.0;high;0.0;0.0;1.3645114190594982
+22;[Acyl-carrier-protein] acetyltransferase [c];0.0;low;1.0;0.0;
+23;ATP:2'-deoxy-5-hydroxymethylcytidine-5'-diphosphate phosphotransferase [c];0.0;high;0.0;0.0;1.1253177243083452
+24;R05611 [c];0.0;high;0.0;0.0;1.0722930193361673
+25;pyridoxine 5'-phosphate synthase [c];0.0;high;0.0;0.0;1.009636449715145
+26;oxalosuccinate carboxy-lyase (2-oxoglutarate-forming) [c];1.0;moderate;1.0;0.0;0.7530851935698668
+27;inosine:phosphate alpha-D-ribosyltransferase [c];1.0;moderate;1.0;0.0;0.9850810312058436
+28;(S)-3-Hydroxyisobutyryl-CoA hydrolase [c];0.0;moderate;0.0;0.0;0.0151603208546958
+29;isohexadecanoyl-CDPdiacylglycerol-serine O-phosphatidyltransferase [c];0.0;low;1.0;0.0;
+30;RXN0-6987.c [c];0.0;moderate;0.0;0.0;0.4029379144930443
+31;Sulfate adenyltransferase [c];1.0;high;1.0;0.0;1.0724717614510946
+32;Acetate:CoA ligase (ADP-forming) [c];0.0;;;;
+33;ATP:dCMP phosphotransferase [c];0.0;low;1.0;0.0;
+34;(3R)-3-Hydroxybutanoyl-CoA hydro-lyase [c];1.0;low;0.0;0.0;
+35;N6-(1,2-dicarboxyethyl)AMP AMP-lyase (fumarate-forming) [c];3.0;moderate;1.0;0.0;0.1059945583309918
+36;1,4-dihydroxy-2-naphthoate octaprenyltransferase [c];0.0;high;0.0;0.0;1.1176166899414048
+37;L-allo-threonine dehydrogenase [c];0.0;low;1.0;0.0;
+38;dCTP:cytidine 5'-phosphotransferase [c];1.0;low;0.0;0.0;
+39;(R)-4'-Phosphopantothenate:L-cysteine ligase [c];0.0;moderate;0.0;0.0;0.5354313608234286
+40;UDP-glucose:NAD+ 6-oxidoreductase [c];0.0;moderate;0.0;0.0;0.474703750837916
+41;ATP:L-glutamate 5-phosphotransferase [c];0.0;low;1.0;0.0;
+42;prephytoene diphosphate:geranylgeranyl-diphosphate geranylgeranyltransferase [c];0.0;moderate;0.0;0.0;0.0752048691387205
+43;10-Formyltetrahydrofolate:L-glutamate ligase (ADP-forming) [c];0.0;low;1.0;0.0;
+44;acetyl-CoA:L-glutamate N-acetyltransferase [c];35.636364;low;0.0;0.0;
+45;2'-Deoxycytidine 5'-monophosphate phosphohydrolase [c];0.0;low;1.0;0.0;
+46;O-Succinylbenzoyl-CoA 1,4-dihydroxy-2-naphthoate-lyase [c];0.0;high;0.0;0.0;1.0259921110176964
+47;Transport of succinate, extracellular [c];0.0;low;1.0;0.0;
+48;4-Hydroxybenzoate transport via proton symport [c];0.0;low;1.0;0.0;
+49;ATP:D-fructose-6-phosphate 1-phosphotransferase [c];0.0;low;1.0;0.0;
+50;Lysophospholipase L1 (2-acylglycerophosphoethanolamine, n-C16:1) (periplasm) [c];0.0;low;1.0;0.0;
+51;L-methionine R-oxide transport via ABC system [c];0.0;high;0.0;0.0;1.155985643212354
+52;UTP:D-Tagatose 6-phosphate 1-phosphotransferase [c];0.0;low;1.0;0.0;
+53;3-Oxopropanoate:NAD+ oxidoreductase (decarboxylating, CoA-acetylating) [c];0.0;low;1.0;0.0;
+54;Lead (Pb+2) ABC transporter [c];0.0;low;1.0;0.0;
+55;stearoyl-cardiolipin synthase [c];0.0;;;;
+56;5-Amino-2-oxopentanoate:2-oxoglutarate aminotransferase [c];0.0;low;1.0;0.0;
+57;Uroporphyrinogen I carboxy-lyase [c];0.0;high;0.0;0.0;1.117201245006666
+58;2-amino-4-hydroxy-6-(D-erythro-1,2,3-trihydroxypropyl)-7,8-dihydropteridine glycolaldehyde-lyase [c];0.0;high;0.0;0.0;1.0489439961927671
+59;L-Aspartic acid:oxygen oxidoreductase (deaminating) [c];1.0;moderate;1.0;0.0;0.8457270081610712
+60;R04638 [c];0.0;moderate;0.0;0.0;0.4045280154962657
+61;1-(5'-Phosphoribosyl)-5-amino-4-imidazolecarboxamide:pyrophosphate phosphoribosyltransferase [c];0.0;low;1.0;0.0;
+62;isopentadecanoyl-CDPdiacylglycerol:sn-glycerol-3-phosphate 3-phosphatidyltransferase [c];0.0;low;1.0;0.0;
+63;succinate dehyrdogenase [c];1.0;high;1.0;0.0;1.0026091584958114
+64;anteisopentadecanoyl-glycerol-3-phosphate O-acyltransferase [c];0.0;low;1.0;0.0;
+65;1-tetradecanoyl-sn-glycerol 3-phosphate O-acyltransferase (n-C14:0) [c];0.0;low;1.0;0.0;
+66;isohexadecanoyl-phosphatidate cytidylyltransferase [c];0.0;low;1.0;0.0;
+67;trans,trans-Farnesyl-diphosphate:isopentenyl-diphosphate farnesyltranstransferase [c];0.0;low;1.0;0.0;
+68;15-methyl-trans-hexa-dec-2-enoyl-ACP:NAD+ oxidoreductase (A-specific) [c];0.0;low;1.0;0.0;
+69;(3R)-3-Hydroxybutanoyl-[acyl-carrier-protein] hydro-lyase [c];0.0;moderate;0.0;0.0;0.1172338659109856
+70;isoheptadecanoyl-glycerol-3-phosphate O-acyltransferase [c];0.0;low;1.0;0.0;
+71;D-ribulose 5-phosphate formate-lyase (L-3,4-dihydroxybutan-2-one 4-phosphate-forming) [c];0.0;low;1.0;0.0;
+72;Creatinine iminohydrolase [c];0.0;high;0.0;0.0;1.0069602280805614
+73;2-phenylacetamide amidohydrolase [c];0.0;low;1.0;0.0;
+74;Lactose galactohydrolase [c];-1.0;moderate;0.0;1.0;0.4945861772423126
+75;glycerone phosphate:iminosuccinate alkyltransferase (cyclizing) [c];0.0;high;0.0;0.0;1.0360315276409984
+76;S-(hydroxymethyl)glutathione dehydrogenase [c];-1000.0;high;0.0;1.0;1.113553008440311
+77;L-serine ammonia-lyase [c];117.81818;moderate;1.0;0.0;0.6261118320733925
+78;isotetradecanoyl-CDPdiacylglycerol-serine O-phosphatidyltransferase [c];0.0;low;1.0;0.0;
+79;D-arabinose-5-phosphate aldose-ketose-isomerase [c];0.0;low;1.0;0.0;
+80;diphosphate phosphohydrolase [c];0.0;low;1.0;0.0;
+81;murein D,D-endopeptidase (murein4px4p) (periplasm) [c];0.0;low;1.0;0.0;
+82;2-Methyl-3-oxopropanoate:NAD+ oxidoreductase (CoA-propanoylating) [c];0.0;low;1.0;0.0;
+83;phosphate ABC transporter permease protein [c];-22.0;high;0.0;1.0;1.1356342739874374
+84;orotidine-5'-phosphate carboxy-lyase (UMP-forming) [c];0.0;low;1.0;0.0;
+85;2-methyl-4-amino-5-hydroxymethylpyrimidine-diphosphate:4-methyl-5-(2-phosphoethyl)-thiazole 2-methyl-4-aminopyridine-5-methenyltransferase [c];0.0;high;0.0;0.0;1.037978490786371
+86;R04134 [c];0.0;moderate;0.0;0.0;0.6624121773192764
+87;Lysophospholipase L2 (2-acylglycerophosphotidate, n-C12:0) [c];0.0;low;1.0;0.0;
+88;5-methyltetrahydrofolate:NADP+ oxidoreductase [c];1.0;moderate;1.0;0.0;0.3566681491297549
+89;L-Serine hydro-lyase (adding homocysteine) [c];0.0;moderate;0.0;0.0;0.791274106781563
+90;dATP:uridine 5'-phosphotransferase [c];0.0;low;1.0;0.0;
+91;diacylglycerol kinase (n-C14:1) [c];0.0;moderate;0.0;0.0;0.1463420475613635
+92;Cytosine aminohydrolase [c];2.0;high;1.0;0.0;1.0069602280805614
+93;salicin transport via PEP:Pyr PTS [c];0.0;moderate;0.0;0.0;0.0772462869039078
+94;hypoxanthine:NAD+ oxidoreductase [c];-1.0;low;0.0;0.0;
+95;XTP pyrophosphohydrolase [c];0.0;moderate;0.0;0.0;0.4673437517167507
+96;anteisoheptadecanoyl-Diacylglycerol kinase [c];0.0;moderate;0.0;0.0;0.1463420475613635
+97;(1S,2R)-1-C-(indol-3-yl)glycerol 3-phosphate D-glyceraldehyde-3-phosphate-lyase [c];0.0;low;1.0;0.0;
+98;Lysophospholipase L1 (2-acylglycerophosphotidate, n-C12:0) (periplasm) [c];0.0;low;1.0;0.0;
+99;nitrous-oxide:NAD+ oxidoreductase [c];0.0;;;;
+100;Maltodextrin phosphorylase (maltopentaose) [c];0.0;low;1.0;0.0;
+101;ATP:2,3,2',3'-tetrakis(3-hydroxytetradecanoyl)-D-glucosaminyl-beta-D-1,6-glucosaminyl-alpha-phosphate 4-O'-phosphotransferase [c];0.0;low;1.0;0.0;
+102;UDP-N-acetylmuramate:L-alanyl-gamma-D-glutamyl-meso-diaminopimelate-D-alanine ligase [c];0.0;moderate;0.0;0.0;0.1899084138927937
+103;phosphoenolpyruvate:D-arabinose-5-phosphate C-(1-carboxyvinyl)transferase (phosphate-hydrolysing, 2-carboxy-2-oxoethyl-forming) [c];0.0;moderate;0.0;0.0;0.8592900826977188
+104;dihydrolipoylprotein:NAD+ oxidoreductase [c];116.81818;high;1.0;0.0;1.0653648559494668
+105;Gly-Phe aminopeptidase [c];0.0;moderate;0.0;0.0;0.4029379144930443
+106;ATP:L-aspartate 4-phosphotransferase [c];1.0;low;0.0;0.0;
+107;CDP-diacylglycerol synthetase (n-C14:1) [c];0.0;low;1.0;0.0;
+108;3-Hydroxy-L-kynurenine hydrolase [c];0.0;moderate;0.0;0.0;0.0267473089258885
+109;Pyridoxamine-5'-phosphate:oxygen oxidoreductase (deaminating) [c];0.0;low;1.0;0.0;
+110;Lysophospholipase L2 (2-acylglycerophosphotidate, n-C18:1) [c];0.0;low;1.0;0.0;
+111;prephytoene diphosphate:geranylgeranyl-diphosphate geranylgeranyltransferase [c];0.0;moderate;0.0;0.0;0.0752048691387205
+112;6-methyl-trans-oct-2-enoyl-ACP:NAD+ oxidoreductase (A-specific) [c];0.0;low;1.0;0.0;
+113;butyryl-[acyl-carrier protein]:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating) [c];0.0;moderate;0.0;0.0;0.6920181288816155
+114;L-histidine ammonia-lyase (urocanate-forming) [c];0.0;low;1.0;0.0;
+115;Hexanoyl-CoA:acetyl-CoA C-acyltransferase [c];0.0;high;0.0;0.0;1.2417356207204766
+116;Amylomaltase (maltotetraose) [c];0.0;low;1.0;0.0;
+117;5-methyl-3-hydroxy-hexanoyl-ACP hydro-lyase [c];0.0;moderate;0.0;0.0;0.1172338659109856
+118;Cadmium-translocating P-type ATPase [c];0.0;low;1.0;0.0;
+119;O3-acetyl-L-serine:thiosulfate 2-amino-2-carboxyethyltransferase (reducing, L-cysteine-forming) [c];0.0;low;1.0;0.0;
+120;L-aspartate:L-glutamine amido-ligase (AMP-forming) [c];1.0;high;1.0;0.0;1.1224271777103696
+121;Phosphatidylserine syntase (n-C14:0) [c];0.0;low;1.0;0.0;
+122;glutarate-semialdehyde:NAD+ oxidoreductase [c];0.0;low;1.0;0.0;
+123;Maltose alpha-D-glucosylmutase [c];0.0;low;1.0;0.0;
+124;R03316 [c];1.0;high;1.0;0.0;1.0692722367738767
+125;acyl-[acyl-carrier-protein] synthetase  (n-C16:1) [c];0.0;low;1.0;0.0;
+126;Phosphatidylserine syntase (n-C16:1) [c];0.0;low;1.0;0.0;
+127;(R)-4'-Phosphopantothenate:L-cysteine ligase [c];0.0;moderate;0.0;0.0;0.5354313608234286
+128;Glycerophosphodiester phosphodiesterase [c];0.0;low;1.0;0.0;
+129;biotin-carboxyl-carrier-protein:carbon-dioxide ligase (ADP-forming) [c];0.0;low;1.0;0.0;
+130;O3-acetyl-L-serine:hydrogen-sulfide 2-amino-2-carboxyethyltransferase [c];0.0;low;1.0;0.0;
+131;ATP:shikimate 3-phosphotransferase [c];3.0;;;;
+132;Nicotinate D-ribonucleotide phosphohydrolase [c];0.0;low;1.0;0.0;
+133;Prephenate:NAD+ oxidoreductase(decarboxylating) [c];1.0;moderate;1.0;0.0;0.9422787830552546
+134;GTP:alpha-D-mannose-1-phosphate guanylyltransferase [c];0.0;high;0.0;0.0;1.015241536884968
+135;ATP:adenylylsulfate 3'-phosphotransferase [c];1.0;high;1.0;0.0;1.1129406710601508
+136;Octanoyl-CoA:oxygen 2-oxidoreductase [c];1.0;moderate;1.0;0.0;0.5276378124934911
+137;R07603 [c];0.0;low;1.0;0.0;
+138;LL-2,6-Diaminoheptanedioate 2-epimerase [c];0.0;high;0.0;0.0;1.097821676767034
+139;N-Formimino-L-glutamate iminohydrolase [c];0.0;low;1.0;0.0;
+140;guanosine-3',5'-bis(diphosphate) 3'-diphosphohydrolase [c];0.0;low;1.0;0.0;
+141;RXN0-6977.c [c];0.0;moderate;0.0;0.0;0.4029379144930443
+142;NADH dehydrogenase (menaquinone-8 & 0 protons) [c];1.0;high;1.0;0.0;1.0566126502594884
+143;copper transport out via proton antiport [c];1.0;high;1.0;0.0;1.1248687347135538
+144;1-Pyrroline-4-hydroxy-2-carboxylate aminohydrolase (decyclizing) [c];0.0;high;0.0;0.0;1.1513803756174954
+145;5-Methylthio-5-deoxy-D-ribose-1-phosphate ketol-isomerase [c];0.0;low;1.0;0.0;
+146;porphobilinogen:(4-[2-carboxyethyl]-3-[carboxymethyl]pyrrol-2-yl)methyltransferase (hydrolysing) [c];0.0;low;1.0;0.0;
+147;hexanoyl-[acyl-carrier protein]:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating) [c];0.0;moderate;0.0;0.0;0.6920181288816155
+148;Phosphatidylserine decarboxylase (n-C14:0) [c];0.0;low;1.0;0.0;
+149;Lysophospholipase L2 (2-acylglycerophosphoethanolamine, n-C12:0) [c];0.0;low;1.0;0.0;
+150;ATP:pyruvate 2-O-phosphotransferase [c];0.0;low;1.0;0.0;
+151;ATP:(R)-glycerate 3-phosphotransferase [c];0.0;high;0.0;0.0;1.0003788391807555
+152;D-glucosamine transport via PEP:Pyr PTS [c];2.0;moderate;1.0;0.0;0.0772462869039078
+153;ATP:dephospho-CoA 3'-phosphotransferase [c];0.0;low;1.0;0.0;
+154;Inosine 5'-triphosphate pyrophosphohydrolase [c];1.0;moderate;1.0;0.0;0.4673437517167507
+155;1-(5-phospho-D-ribosyl)-ATP:diphosphate phospho-alpha-D-ribosyl-transferase [c];0.0;low;1.0;0.0;
+156;7-methyl-3-hydroxy-octanoyl-ACP hydro-lyase [c];0.0;moderate;0.0;0.0;0.1172338659109856
+157;D-fructose transport via PEP:Pyr PTS [c];0.0;moderate;0.0;0.0;0.0772462869039078
+158;12-methyl-trans-tetra-dec-2-enoyl-ACP:NAD+ oxidoreductase (A-specific) [c];0.0;low;1.0;0.0;
+159;quinone reductase [c];1.0;high;1.0;0.0;1.0566126502594884
+160;D-glyceraldehyde-3-phosphate:NAD+ oxidoreductase (phosphorylating) [c];-4.0;high;0.0;1.0;1.0631619665723653
+161;TRANS-RXNBWI-115401.ce.maizeexp.OH_OH [c];0.0;low;1.0;0.0;
+162;1D-myo-Inositol 1-phosphate phosphohydrolase [c];0.0;low;1.0;0.0;
+163;Na+/glutamate symport [c];-2.0;high;0.0;1.0;1.0223984767284808
+164;Protein-N(pai)-phosphohistidine:sugar N(pai)-phosphotransferase [c];0.0;low;1.0;0.0;
+165;Propanoyl-CoA:carbon-dioxide ligase (ADP-forming) [c];0.0;low;1.0;0.0;
+166;isoheptadecanoyl-cardiolipin synthase [c];0.0;;;;
+167;UDP-N-acetyl-D-glucosamine 2-epimerase [c];0.0;moderate;0.0;0.0;0.3576907889418632
+168;dihydroorotic acid (menaquinone-8) [c];0.0;low;1.0;0.0;
+169;13-methyl-3-oxo-tetra-decanoyl-ACP:NADP+ oxidoreductase [c];0.0;low;1.0;0.0;
+170;Hydroxymethylbilane hydro-lyase(cyclizing) [c];0.0;low;1.0;0.0;
+171;anteisoheptadecanoyl-cardiolipin synthase [c];0.0;;;;
+172;Phosphatidylserine decarboxylase (n-C18:0) [c];0.0;low;1.0;0.0;
+173;(S)-3-Hydroxybutanoyl-CoA:NAD+ oxidoreductase [c];-1.0;high;0.0;1.0;1.3645114190594982
+174;UDPMurAc(oyl-L-Ala-D-gamma-Glu-L-Lys-D-Ala-D-Ala):undecaprenyl-phosphate phospho-N-acetylmuramoyl-pentapeptide-transferase [c];0.0;moderate;0.0;0.0;0.9056369821224096
+175;ATP:AMP phosphotransferase [c];-1.0;high;0.0;1.0;1.0352504054927616
+176;dCMP aminohydrolase [c];0.0;low;1.0;0.0;
+177;2-Dehydro-3-deoxy-D-arabino-heptonate 7-phosphate phosphate-lyase (cyclyzing) [c];3.0;low;0.0;0.0;
+178;ATP:alpha-D-glucose-1-phosphate adenylyltransferase [c];0.0;low;1.0;0.0;
+179;Pyruvate:carbon-dioxide ligase (ADP-forming) [c];0.0;moderate;0.0;0.0;0.6912990744719477
+180;Dodecanoyl-[acyl-carrier protein]:malonyl-CoA C-acyltransferase(decarboxylating, oxoacyl- and enoyl-reducing) [c];0.0;low;1.0;0.0;
+181;Copper transport via ABC system [c];1.0;low;0.0;0.0;
+182;ATP:cob(I)yrinic acid-a,c-diamide Cobeta-adenosyltransferase [c];0.0;moderate;0.0;0.0;0.5336239398573442
+183;5,10-Methylenetetrahydrofolate:glycine hydroxymethyltransferase [c];116.81818;low;0.0;0.0;
+184;ATP:D-fructose-1-phosphate 6-phosphotransferase [c];0.0;low;1.0;0.0;
+185;2-(Nomega-L-arginino)succinate arginine-lyase (fumarate-forming) [c];1.0;high;1.0;0.0;1.1974690320114094
+186;lauroyl-CoA hydrolase [c];0.0;moderate;0.0;0.0;0.0561541555000128
+187;L-Histidinol-phosphate phosphohydrolase [c];0.0;low;1.0;0.0;
+188;Lysophospholipase L1 (2-acylglycerophosphotidate, n-C18:1) (periplasm) [c];0.0;low;1.0;0.0;
+189;CTP:D-Tagatose 6-phosphate 1-phosphotransferase [c];0.0;low;1.0;0.0;
+190;Homogentisate:oxygen 1,2-oxidoreductase (decyclizing) [c];3.0;low;0.0;0.0;
+191;anteisopentadecanoyl-CDPdiacylglycerol-serine O-phosphatidyltransferase [c];0.0;low;1.0;0.0;
+192;Lauroyl-CoA:(acceptor) 2,3-oxidoreductase [c];1.0;moderate;1.0;0.0;0.5276378124934911
+193;Guanosine 5'-monophosphate phosphohydrolase [c];2.0;low;0.0;0.0;
+194;dTDPglucose 4,6-hydro-lyase [c];0.0;moderate;0.0;0.0;0.7405346130392608
+195;Lysophospholipase L1 (2-acylglycerophosphoethanolamine, n-C18:1) (periplasm) [c];0.0;low;1.0;0.0;
+196;UTP:pyruvate 2-O-phosphotransferase [c];0.0;low;1.0;0.0;
+197;acetaldehyde:NAD+ oxidoreductase (CoA-acetylating) [c];0.0;low;1.0;0.0;
+198;TRANS-RXNBWI-115531.ce [c];0.0;low;1.0;0.0;
+199;Acetyl-CoA:acetyl-CoA C-acetyltransferase [c];417.27273;high;1.0;0.0;1.0743434530046867
+200;ATP:L-selenomethione S-adenosyltransferase [c];0.0;high;0.0;0.0;1.0023686722853544
+201;Orotidine-5'-phosphate:diphosphate phospho-alpha-D-ribosyl-transferase [c];0.0;low;1.0;0.0;
+202;(3R)-3-Hydroxybutanoyl-[acyl-carrier-protein] hydro-lyase [c];0.0;moderate;0.0;0.0;0.1172338659109856
+203;2-Amino-4-hydroxy-6-(erythro-1,2,3-trihydroxypropyl) dihydropteridine triphosphate hydrolase [c];0.0;low;1.0;0.0;
+204;ATP:D-glycero-beta-D-manno-heptose 7-phosphate 1-phosphotransferase [c];0.0;moderate;0.0;0.0;0.0650703694975807
+205;nonpolar-amino-acid-transporting ATPase [c];0.0;low;1.0;0.0;
+206;D-Fructose-1,6-bisphosphate 1-phosphohydrolase [c];1.0;moderate;1.0;0.0;0.8247704299458507
+207;NAD-dependent threonine 4-phosphate dehydrogenase [c];0.0;low;1.0;0.0;
+208;S-methyl-5'-thioadenosine:phosphate S-methyl-5-thio-alpha-D-ribosyl-transferase [c];0.0;moderate;0.0;0.0;0.3095367757702174
+209;8-methyl-3-oxo-nonanoyl-ACP:NADP+ oxidoreductase [c];0.0;low;1.0;0.0;
+210;Acetaldehyde:NAD+ oxidoreductase [c];0.0;low;1.0;0.0;
+211;4-Oxalocrotonate carboxy-lyase [c];0.0;moderate;0.0;0.0;0.0838765202504649
+212;NAD kinase (dTTP) [c];0.0;low;1.0;0.0;
+213;(2S,3S)-3-hydroxy-2-methylbutanoyl-CoA:NAD+ oxidoreductase [c];0.0;high;0.0;0.0;1.0011985901462528
+214;Chorismate pyruvate-lyase (amino-accepting) [c];0.0;low;1.0;0.0;
+215;palmitoyl-lipoteichoic acid synthesis (n=24), linked, N-acetylglucosamine substituted [c];0.0;high;0.0;0.0;1.0579979408010238
+216;mannitol transport via PEP:Pyr PTS [c];0.0;moderate;0.0;0.0;0.0772462869039078
+217;UDP-N-acetyl-D-mannosamine:N-acetyl-beta-D-glucosaminyldiphosphoundecaprenol beta-1,4-N-acetylmannosaminyltransferase [c];0.0;moderate;0.0;0.0;0.3242509481565034
+218;methionyl aminopeptidase [c];0.0;moderate;0.0;0.0;0.4029379144930443
+219;dGTP:pyruvate 2-O-phosphotransferase [c];0.0;low;1.0;0.0;
+220;(S)-2-methylbutanoyl-CoA:oxygen 2,3-oxidoreductase [c];0.0;moderate;0.0;0.0;0.5276378124934911
+221;"GTP:oxaloacetate carboxy-lyase (adding GTP;phosphoenolpyruvate-forming) [c]";4.0;high;1.0;0.0;1.135915047241065
+222;2'-Deoxyguanosine 5'-monophosphate phosphohydrolase [c];0.0;low;1.0;0.0;
+223;FACOAL150(anteiso) [c];0.0;low;1.0;0.0;
+224;sn-Glycerol-3-phosphate:NADP+ 2-oxidoreductase [c];0.0;low;1.0;0.0;
+225;FabH [c];0.0;low;1.0;0.0;
+226;oligopeptide-transporting ATPase [c];0.0;low;1.0;0.0;
+227;Lysophospholipase L2 (2-acylglycerophosphoethanolamine, n-C16:0) [c];0.0;low;1.0;0.0;
+228;3-Hydroxyoctodecanoyl-ACP:NADP+ oxidoreductase [c];0.0;low;1.0;0.0;
+229;vanillate:oxygen oxidoreductase (demethylating) [c];0.0;low;1.0;0.0;
+230;L-Histidinol:NAD+ oxidoreductase [c];0.0;low;1.0;0.0;
+231;isotetradecanoyl-phosphatidate cytidylyltransferase [c];0.0;low;1.0;0.0;
+232;glycine:oxygen oxidoreductase (deaminating) [c];1.0;high;1.0;0.0;1.1957634559623151
+233;anteisopentadecanoyl-CDPdiacylglycerol:sn-glycerol-3-phosphate 3-phosphatidyltransferase [c];0.0;low;1.0;0.0;
+234;(5-Glutamyl)-peptide:amino-acid 5-glutamyltransferase [c];0.0;moderate;0.0;0.0;0.5925016958464195
+235;TRANS-RXN-173.ce [c];-471.27273;moderate;0.0;1.0;0.8539340603491536
+236;Lysophospholipase L1 (2-acylglycerophosphoglycerol, n-C16:1) (periplasm) [c];0.0;low;1.0;0.0;
+237;Xanthosine-5'-phosphate:L-glutamine amido-ligase (AMP-forming) [c];1.0;moderate;1.0;0.0;0.8443248085608969
+238;Lysophospholipase L2 (2-acylglycerophosphoglycerol, n-C12:0) [c];0.0;low;1.0;0.0;
+239;L-Arginine iminohydrolase [c];1.0;high;1.0;0.0;1.262830524989821
+240;L-Kynurenine,NADPH:oxygen oxidoreductase (3-hydroxylating) [c];0.0;moderate;0.0;0.0;0.3837282667147607
+241;GTP 7,8-8,9-dihydrolase (diphosphate-forming) [c];0.0;low;1.0;0.0;
+242;2-methylpropanoyl-CoA:enzyme N6-(dihydrolipoyl)lysine S-(2-methylpropanoyl)transferase [c];0.0;low;1.0;0.0;
+243;Estrone 3-sulfate sulfohydrolase [c];0.0;moderate;0.0;0.0;0.4776566614722892
+244;Phenylpyruvate:oxygen oxidoreductase (hydroxylating,decarboxylating) [c];0.0;moderate;0.0;0.0;0.2523277766240366
+245;nickel transport via ABC system [c];0.0;;;;
+246;Lysophospholipase L1 (2-acylglycerophosphotidate, n-C16:0) (periplasm) [c];0.0;low;1.0;0.0;
+247;sarcosine:oxygen oxidoreductase (demethylating) [c];0.0;;;;
+248;O4-succinyl-L-homoserine:hydrogen sulfide S-(3-amino-3-carboxypropyl)transferase [c];0.0;low;1.0;0.0;
+249;(3R)-3-Hydroxypalmitoyl-[acyl-carrier-protein] hydro-lyase [c];0.0;moderate;0.0;0.0;0.1172338659109856
+250;formamidopyrimidine nucleoside triphosphate amidohydrolase [c];0.0;low;1.0;0.0;
+251;glycerol-3-phosphate acyltransferase (C18:0) [c];0.0;low;1.0;0.0;
+252;isopentadecanoyl-Diacylglycerol kinase [c];0.0;moderate;0.0;0.0;0.1463420475613635
+253;propanoyl-CoA:oxaloacetate C-propanoyltransferase (thioester-hydrolysing, 1-carboxyethyl-forming) [c];0.0;high;0.0;0.0;1.0107935788858915
+254;dTTP:uridine 5'-phosphotransferase [c];0.0;low;1.0;0.0;
+255;sn-Glycero-3-phosphocholine glycerophosphohydrolase [c];0.0;low;1.0;0.0;
+256;anteisopentadecanoyl-lipoteichoic acid synthesis (n=24), linked, N-acetylglucosamine substituted [c];0.0;high;0.0;0.0;1.0579979408010238
+257;Phosphatidylglycerol synthase (n-C16:0) [c];0.0;low;1.0;0.0;
+258;O-acetyl-L-homoserine acetate-lyase (L-homocysteine forming) [c];0.0;low;1.0;0.0;
+259;"L-ornithine ammonia-lyase (cyclizing; L-proline-forming) [c]";0.0;low;1.0;0.0;
+260;maltose transport via PEP:Pyr PTS [c];0.0;moderate;0.0;0.0;0.0772462869039078
+261;TRANS-RXN-3.ce [c];1.0;moderate;1.0;0.0;0.0400306375458489
+262;Decanoyl-[acyl-carrier protein]:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating) [c];0.0;moderate;0.0;0.0;0.6920181288816155
+263;8-methyl-trans-dec-2-enoyl-ACP:NAD+ oxidoreductase (A-specific) [c];0.0;low;1.0;0.0;
+264;(S)-Hydroxydecanoyl-CoA hydro-lyase [c];0.0;low;1.0;0.0;
+265;(S)-3-Hydroxy-3-methylglutaryl-CoA hydro-lyase (trans-3-methylglutaconyl-CoA-forming) [c];0.0;low;1.0;0.0;
+266;5,10-methylenetetrahydrofolate:NADP+ oxidoreductase [c];0.0;low;1.0;0.0;
+267;[Acyl-carrier-protein] acetyltransferase [c];0.0;low;1.0;0.0;
+268;diacylglycerol kinase (n-C18:1) [c];0.0;moderate;0.0;0.0;0.1463420475613635
+269;3-Deoxy-D-manno-octulosonate-8-phosphate 8-phosphohydrolase [c];0.0;low;1.0;0.0;
+270;L-Aspartate-4-semialdehyde hydro-lyase (adding pyruvate and cyclizing) [c];0.0;low;1.0;0.0;
+271;diacylglycerol kinase (n-C16:0) [c];0.0;moderate;0.0;0.0;0.1463420475613635
+272;(S)-3-Hydroxydodecanoyl-CoA hydro-lyase [c];0.0;low;1.0;0.0;
+273;14-methyl-trans-pentadec-2-enoyl-ACP:NAD+ oxidoreductase (A-specific) [c];0.0;low;1.0;0.0;
+274;Gly-Try aminopeptidase [c];0.0;moderate;0.0;0.0;0.4029379144930443
+275;4-methyl-3-oxo-pentanoyl-ACP:NADP+ oxidoreductase [c];0.0;low;1.0;0.0;
+276;13-methyl-trans-tetra-dec-2-enoyl-ACP:NAD+ oxidoreductase (A-specific) [c];0.0;low;1.0;0.0;
+277;Phosphatidylglycerol synthase (n-C18:1) [c];0.0;low;1.0;0.0;
+278;Proline dehydrogenase [c];-4.0;high;0.0;1.0;1.1328847608934438
+279;Lysophospholipase L2 (2-acylglycerophosphotidate, n-C18:0) [c];0.0;low;1.0;0.0;
+280;di-trans,poly-cis-decaprenyl-diphosphate:isopentenyl-diphosphate undecaprenylcistransferase [c];0.0;low;1.0;0.0;
+281;isopentadecanoyl-glycerol-3-phosphate O-acyltransferase [c];0.0;low;1.0;0.0;
+282;L-Fuculose-1-phosphate lactaldehyde-lyase [c];0.0;low;1.0;0.0;
+283;dodecanoyl-[acyl-carrier-protein]:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating) [c];0.0;moderate;0.0;0.0;0.6920181288816155
+284;D-Proline:oxygen oxidoreductase [c];0.0;high;0.0;0.0;1.1957634559623151
+285;xanthine:NAD+ oxidoreductase [c];0.0;low;1.0;0.0;
+286;isocitrate glyoxylate-lyase (succinate-forming) [c];1.0;high;1.0;0.0;1.009872312247985
+287;10-methyl-3-oxo-undecanoyl-ACP:NADP+ oxidoreductase [c];0.0;low;1.0;0.0;
+288;R05612 [c];0.0;high;0.0;0.0;1.0722930193361673
+289;(S)-dihydroorotate amidohydrolase [c];0.0;moderate;0.0;0.0;0.8236150080258733
+290;acyl-CoA:sn-glycerol-3-phosphate 1-O-acyltransferase [c];0.0;low;1.0;0.0;
+291;aminoacetone:oxygen oxidoreductase(deaminating) [c];0.0;moderate;0.0;0.0;0.1131887146968423
+292;phosphate-transporting ATPase [c];45.0;low;0.0;0.0;
+293;succinyl-CoA:enzyme N6-(dihydrolipoyl)lysine S-succinyltransferase [c];-1.0;high;0.0;1.0;1.0607403865721794
+294;L-Homoserine:NAD+ oxidoreductase [c];-10.0;moderate;0.0;1.0;0.8150208892567992
+295;L-Aspartate-4-semialdehyde:NADP+ oxidoreductase (phosphorylating) [c];-1.0;moderate;0.0;1.0;0.6478957997194335
+296;(S)-malate:NAD+ oxidoreductase [c];11.0;high;1.0;0.0;1.0070494753585244
+297;Lysophospholipase L2 (2-acylglycerophosphoethanolamine, n-C18:1) [c];0.0;low;1.0;0.0;
+298;5-methyl-3-oxo-hexanoyl-ACP:NADP+ oxidoreductase [c];0.0;low;1.0;0.0;
+299;ITP:cytidine 5'-phosphotransferase [c];-3.0;low;0.0;0.0;
+300;GTP:cytidine 5'-phosphotransferase [c];0.0;low;1.0;0.0;
+301;N2-Acetyl-L-ornithine:2-oxoglutarate aminotransferase [c];-35.636364;moderate;0.0;1.0;0.622092919846324
+302;"L-Cysteine hydrogen-sulfide-lyase (deaminating; pyruvate-forming) [c]";234.63636;high;1.0;0.0;1.025955778056246
+303;Uridine 5'-monophosphate phosphohydrolase [c];0.0;low;1.0;0.0;
+304;R07602 [c];0.0;low;1.0;0.0;
+305;Prephenate:NADP+ oxidoreductase(decarboxylating) [c];2.0;moderate;1.0;0.0;0.9422787830552546
+306;ATP:riboflavin 5'-phosphotransferase [c];0.0;low;1.0;0.0;
+307;D-glyceraldehyde-3-phosphate aldose-ketose-isomerase [c];1.0;moderate;1.0;0.0;0.2101737389409534
+308;Sedoheptulose 1,7-bisphosphate D-glyceraldehyde-3-phosphate-lyase [c];0.0;moderate;0.0;0.0;0.2800563942349243
+309;Isopentenyl-diphosphate delta3-delta2-isomerase [c];0.0;moderate;0.0;0.0;0.3834034901405525
+310;beta-D-Glucose:NAD+ 1-oxoreductase [c];1.0;high;1.0;0.0;1.0566126502594884
+311;nonpolar-amino-acid-transporting ATPase [c];4.0;moderate;1.0;0.0;0.6742547558652063
+312;Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)- [c];0.0;moderate;0.0;0.0;0.72725114796525
+313;"5-aminolevulinate hydro-lyase (adding 5-aminolevulinate and cyclizing; porphobilinogen-forming) [c]";0.0;low;1.0;0.0;
+314;myo-Inositol-1-phosphate synthase [c];0.0;high;0.0;0.0;1.3131768074582804
+315;Acetyl-CoA:carbon-dioxide ligase (ADP-forming) [c];0.0;low;1.0;0.0;
+316;RXN0-6983.c [c];0.0;moderate;0.0;0.0;0.4029379144930443
+317;(S)-3-Hydroxytetradecanoyl-CoA:NAD+ oxidoreductase [c];0.0;high;0.0;0.0;1.3645114190594982
+318;Acylamide aminohydrolase [c];0.0;low;1.0;0.0;
+319;AMP,sulfite:thioredoxin-disulfide oxidoreductase(adenosine-5'-phosphosulfate-forming) [c];1.0;high;1.0;0.0;1.1188071244522702
+320;10-methyl-trans-undec-2-enoyl-ACP:NAD+ oxidoreductase (A-specific) [c];0.0;low;1.0;0.0;
+321;6-methyl-trans-hept-2-enoyl-ACP:NAD+ oxidoreductase (A-specific) [c];0.0;low;1.0;0.0;
+322;ATP:pantetheine-4'-phosphate adenylyltransferase [c];0.0;low;1.0;0.0;
+323;1-(5-phospho-D-ribosyl)-AMP 1,6-hydrolase [c];0.0;low;1.0;0.0;
+324;S-Adenosyl-L-methionine:uroporphyrin-III C-methyltransferase [c];0.0;;;;
+325;dTTP:alpha-D-glucose-1-phosphate thymidylyltransferase [c];0.0;high;0.0;0.0;1.0393942944941776
+326;Lysophospholipase L2 (2-acylglycerophosphoethanolamine, n-C14:0) [c];0.0;low;1.0;0.0;
+327;L-Isoleucine:2-oxoglutarate aminotransferase [c];0.0;moderate;0.0;0.0;0.1164336739075209
+328;acetyl-CoA:acetoacetyl-CoA C-acetyltransferase (thioester-hydrolysing, carboxymethyl-forming) [c];0.0;low;1.0;0.0;
+329;zinc transport via ABC system [c];0.0;low;1.0;0.0;
+330;myristoyl-cardiolipin synthase [c];0.0;;;;
+331;11-methyl-3-hydroxy-dodecanoyl-ACP hydro-lyase [c];0.0;moderate;0.0;0.0;0.1172338659109856
+332;L-Phenylalanine,tetrahydrobiopterin:oxygen oxidoreductase (4-hydroxylating) [c];0.0;;;;
+333;(S)-3-Hydroxyhexadecanoyl-CoA hydro-lyase [c];0.0;low;1.0;0.0;
+334;Guanylate kinase [c];2.0;moderate;1.0;0.0;0.8527012222056509
+335;(R)-Mevalonate:NADP+ oxidoreductase (CoA acylating) [c];0.0;moderate;0.0;0.0;0.0572643892963629
+336;L-glutamine:D-fructose-6-phosphate isomerase (deaminating) [c];0.0;low;1.0;0.0;
+337;5-amino-6-(D-ribitylamino)uracil butanedionetransferase [c];0.0;moderate;0.0;0.0;0.1153357227425514
+338;isohexadecanoyl-phosphatidylserine decarboxylase [c];0.0;low;1.0;0.0;
+339;acyl-CoA dehydrogenase (octanoyl-CoA) [c];-1.0;moderate;0.0;1.0;0.5276378124934911
+340;methionyl aminopeptidase [c];0.0;moderate;0.0;0.0;0.4029379144930443
+341;ATP:pyruvate,water phosphotransferase [c];7.0;;;;
+342;L-threonine ammonia-lyase (2-oxobutanoate-forming) [c];0.0;moderate;0.0;0.0;0.6261118320733925
+343;Lysophospholipase L2 (2-acylglycerophosphoethanolamine, n-C18:0) [c];0.0;low;1.0;0.0;
+344;Chorismate pyruvatemutase [c];3.0;low;0.0;0.0;
+345;UTP:alpha-D-glucose-1-phosphate uridylyltransferase [c];1.0;moderate;1.0;0.0;0.542971308026965
+346;(S)-4-Amino-5-oxopentanoate 4,5-aminomutase [c];0.0;low;1.0;0.0;
+347;D-ribose-5-phosphate aldose-ketose-isomerase [c];-1.0;low;0.0;0.0;
+348;ATP phosphohydrolase (polar-amino-acid-importing) [c];0.0;moderate;0.0;0.0;0.5811005947650799
+349;Shikimate:NADP+ 3-oxidoreductase [c];-3.0;;;;
+350;Deamido-NAD+:L-glutamine amido-ligase (AMP-forming) [c];1.0;high;1.0;0.0;1.0393862367974311
+351;Decanoyl-[acyl-carrier protein]:malonyl-CoA C-acyltransferase(decarboxylating, oxoacyl- and enoyl-reducing) [c];0.0;low;1.0;0.0;
+352;ATP:deoxyguanosine 5'-phosphotransferase [c];0.0;low;1.0;0.0;
+353;sucrose transport via PEP:Pyr PTS [c];0.0;moderate;0.0;0.0;0.0772462869039078
+354;ATP:D-tagatose-6-phosphate 1-phosphotransferase [c];0.0;low;1.0;0.0;
+355;Lysophospholipase L1 (2-acylglycerophosphotidate, n-C18:0) (periplasm) [c];0.0;low;1.0;0.0;
+356;4-Guanidinobutanamide amidohydrolase [c];0.0;low;1.0;0.0;
+357;"phosphate:oxaloacetate carboxy-lyase (adding phosphate;phosphoenolpyruvate-forming) [c]";0.0;low;1.0;0.0;
+358;AMP:diphosphate phospho-D-ribosyltransferase [c];0.0;low;1.0;0.0;
+359;5-phosphoribosylamine:diphosphate phospho-alpha-D-ribosyltransferase (glutamate-amidating) [c];0.0;low;1.0;0.0;
+360;3-hydroxyacyl-[acyl-carrier-protein] dehydratase (n-C12:1) [c];0.0;moderate;0.0;0.0;0.1172338659109856
+361;ATP:GDP phosphotransferase [c];10.0;high;1.0;0.0;1.1253177243083452
+362;Uridine triphosphate pyrophosphohydrolase [c];1.0;moderate;1.0;0.0;0.8170763302387419
+363;Geranylgeranyl-diphosphate:geranylgeranyl-diphosphate geranylgeranyltransferase [c];0.0;moderate;0.0;0.0;0.0752048691387205
+364;isohexadecanoyl-cardiolipin synthase [c];0.0;;;;
+365;CDP-diacylglycerol synthetase (n-C18:0) [c];0.0;low;1.0;0.0;
+366;N-(5'-Phospho-D-ribosylformimino)-5-amino-1- (5''-phospho-D-ribosyl)-4-imidazolecarboxamide ketol-isomerase [c];0.0;low;1.0;0.0;
+367;isohexadecanoyl-CDPdiacylglycerol:sn-glycerol-3-phosphate 3-phosphatidyltransferase [c];0.0;low;1.0;0.0;
+368;2,5-Diaminopyrimidine nucleoside triphosphate mutase [c];0.0;low;1.0;0.0;
+369;anteisoheptadecanoyl-CDPdiacylglycerol-serine O-phosphatidyltransferase [c];0.0;low;1.0;0.0;
+370;thymidine:phosphate deoxy-alpha-D-ribosyltransferase [c];0.0;high;0.0;0.0;1.006478319868326
+371;(3R)-3-Hydroxypalmitoyl-[acyl-carrier-protein]:NADP+ oxidoreductase [c];0.0;low;1.0;0.0;
+372;Phosphatidylserine syntase (n-C18:0) [c];0.0;low;1.0;0.0;
+373;Succinate:CoA ligase (ADP-forming) [c];-415.27273;high;0.0;1.0;1.0134162609959811
+374;L-glutamate:NAD+ oxidoreductase (deaminating) [c];0.0;low;1.0;0.0;
+375;Galactitol transport via PEP:Pyr PTS [c];0.0;moderate;0.0;0.0;0.0772462869039078
+376;4-imidazolone-5-propanoate amidohydrolase [c];0.0;low;1.0;0.0;
+377;Adenosine 5'-monophosphate phosphohydrolase [c];2.0;low;0.0;0.0;
+378;L-Valine:NAD+ oxidoreductase(deaminating) [c];0.0;low;1.0;0.0;
+379;murein D,D-carboxypeptidase (murein5p4p) (periplasm) [c];0.0;low;1.0;0.0;
+380;Biotinyl-5'-AMP:apo-[carboxylase] ligase (AMP-forming) [c];0.0;moderate;0.0;0.0;0.0107809095562142
+381;UTP:uridine 5'-phosphotransferase [c];0.0;low;1.0;0.0;
+382;glycogen synthase (ADPGlc) [c];0.0;low;1.0;0.0;
+383;Lysophospholipase L1 (2-acylglycerophosphoglycerol, n-C18:0) (periplasm) [c];0.0;low;1.0;0.0;
+384;ATP:L-methionine S-adenosyltransferase [c];0.0;high;0.0;0.0;1.0023686722853544
+385;ATP:deoxyuridine 5'-phosphotransferase [c];0.0;moderate;0.0;0.0;0.0593556005632458
+386;Gly-Cys aminopeptidase [c];234.63636;moderate;1.0;0.0;0.4029379144930443
+387;Lysophospholipase L1 (2-acylglycerophosphotidate, n-C14:1) (periplasm) [c];0.0;low;1.0;0.0;
+388;apolipoprotein N-acyltransferase (phosphatidylethanolamine, periplasm) [c];0.0;moderate;0.0;0.0;0.0609153238697856
+389;CDP-diacylglycerol synthetase (n-C12:0) [c];0.0;low;1.0;0.0;
+390;Lysophospholipase L2 (2-acylglycerophosphotidate, n-C16:1) [c];0.0;low;1.0;0.0;
+391;superoxide:superoxide oxidoreductase [c];0.0;high;0.0;0.0;1.0492697074716535
+392;14-methyl-3-hydroxy-hexa-decanoyl-ACP hydro-lyase [c];0.0;moderate;0.0;0.0;0.1172338659109856
+393;acetyl-CoA:enzyme N6-(dihydrolipoyl)lysine S-acetyltransferase [c];-871.18182;low;0.0;0.0;
+394;(3R)-3-Hydroxydodecanoyl-[acyl-carrier-protein]:NADP+ oxidoreductase [c];0.0;low;1.0;0.0;
+395;Succinyl-CoA:3-oxoadipate CoA-transferase [c];0.0;moderate;0.0;0.0;0.7080632937215048
+396;L-arginine carboxy-lyase (agmatine-forming) [c];0.0;high;0.0;0.0;1.0490703260432537
+397;coproporphyrinogen-III:S-adenosyl-L-methionine oxidoreductase(decarboxylating) [c];0.0;high;0.0;0.0;1.2381585096959735
+398;GTP 7,8-8,9-dihydrolase [c];0.0;low;1.0;0.0;
+399;glycerol-3-phosphate acyltransferase (C12:0) [c];0.0;low;1.0;0.0;
+400;Choline sulfate sulfohydrolase [c];0.0;low;1.0;0.0;
+401;7-methyl-3-oxo-octanoyl-ACP:NADP+ oxidoreductase [c];0.0;low;1.0;0.0;
+402;aldehyde dehydrogenase (aminoacetaldehyde, NAD) [c];0.0;low;1.0;0.0;
+403;ATP:4-amino-5-hydroxymethyl-2-methylpyrimidine 5-phosphotransferase [c];0.0;moderate;0.0;0.0;0.1218518918899405
+404;Acetyl-CoA:maltose O-acetyltransferase [c];0.0;high;0.0;0.0;1.0659144570126586
+405;RXN0-6976.c [c];0.0;moderate;0.0;0.0;0.393883688328182
+406;UDP-2,3-bis(3-hydroxytetradecanoyl)glucosamine:2,3-bis-(3-hydroxytetradecanoyl)-alpha-D-glucosaminyl-1-phosphate 2,3-bis(3-hydroxytetradecanoyl)-glucosaminyltransferase [c];0.0;low;1.0;0.0;
+407;Butanoyl-CoA:acetate CoA-transferase [c];2.0;moderate;1.0;0.0;0.5124047861592694
+408;"prephenate hydro-lyase (decarboxylating; phenylpyruvate-forming) [c]";0.0;low;1.0;0.0;
+409;L-Cysteine:2-oxoglutarate aminotransferase [c];0.0;low;1.0;0.0;
+410;UDP-L-rhamnose:flavonol-3-O-D-glucoside L-rhamnosyltransferase [c];0.0;high;0.0;0.0;1.021121908947215
+411;apolipoprotein N-acyltransferase (phosphatidylglycerol, periplasm) [c];0.0;moderate;0.0;0.0;0.0609153238697856
+412;Cytidine-5'-monophosphate phosphohydrolase [c];0.0;low;1.0;0.0;
+413;Amylomaltase (maltopentaose) [c];0.0;low;1.0;0.0;
+414;ferrichrome transport via ABC system [c];0.0;low;1.0;0.0;
+415;Nicotinamide ribonucleotide phosphohydrolase [c];0.0;low;1.0;0.0;
+416;RXN0-6979.c [c];0.0;moderate;0.0;0.0;0.4029379144930443
+417;D-methionine transport via ABC system [c];0.0;high;0.0;0.0;1.155985643212354
+418;dUTP:cytidine 5'-phosphotransferase [c];0.0;low;1.0;0.0;
+419;5-carboxymethyl-2-hydroxymuconic-semialdehyde:NAD+ oxidoreductase [c];0.0;low;1.0;0.0;
+420;UDP-N-acetylmuramoyl-L-alanyl-D-gamma-glutamyl-meso-2,6-diaminopimelate-D-alanine L,D-carboxypeptidase [c];0.0;low;1.0;0.0;
+421;2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase [c];0.0;high;0.0;0.0;1.064641173873817
+422;ATP:L-homoserine O-phosphotransferase [c];0.0;low;1.0;0.0;
+423;succinyl-CoA:L-arginine N2-succinyltransferase [c];0.0;moderate;0.0;0.0;0.3532616372808992
+424;CTP:pyruvate 2-O-phosphotransferase [c];1.0;low;0.0;0.0;
+425;L-Lysine 2,3-aminomutase [c];0.0;moderate;0.0;0.0;0.274874271267583
+426;D-fructose-1,6-bisphosphate D-glyceraldehyde-3-phosphate-lyase (glycerone-phosphate-forming) [c];-1.0;moderate;0.0;1.0;0.2800563942349243
+427;Phosphatidylserine decarboxylase (n-C12:0) [c];0.0;low;1.0;0.0;
+428;"O-Succinyl-L-homoserine succinate-lyase (deaminating; 2-oxobutanoate-forming) [c]";0.0;low;1.0;0.0;
+429;ATP:3-phospho-D-glycerate 1-phosphotransferase [c];4.0;high;1.0;0.0;1.0285566301751616
+430;IMP:L-aspartate ligase (GDP-forming) [c];3.0;low;0.0;0.0;
+431;carbonate hydro-lyase (carbon-dioxide-forming) [c];0.0;low;1.0;0.0;
+432;Inosine 5'-monophosphate phosphohydrolase [c];0.0;low;1.0;0.0;
+433;methionyl aminopeptidase [c];0.0;moderate;0.0;0.0;0.4029379144930443
+434;1D-myo-Inositol 3-phosphate phosphohydrolase [c];0.0;low;1.0;0.0;
+435;5-O-(1-Carboxyvinyl)-3-phosphoshikimate phosphate-lyase (chorismate-forming) [c];3.0;moderate;1.0;0.0;0.4136569330936196
+436;acyl-CoA dehydrogenase (tetradecanoyl-CoA) [c];0.0;moderate;0.0;0.0;0.5276378124934911
+437;15-methyl-3-hydroxy-hexa-decanoyl-ACP hydro-lyase [c];0.0;moderate;0.0;0.0;0.1172338659109856
+438;myristoyl-lipoteichoic acid synthesis (n=24), linked, glucose substituted [c];0.0;high;0.0;0.0;1.1015221062842442
+439;Protein synthesis;0.0;low;1.0;0.0;
+440;"uracil hydro-lyase (adding D-ribose 5-phosphate;pseudouridine-5'-phosphate-forming) [c]";0.0;moderate;0.0;0.0;0.9085116285139188
+441;FACOAL170(anteiso) [c];0.0;low;1.0;0.0;
+442;Coenzyme B:coenzyme M:methanophenazine oxidoreductase [c];0.0;low;1.0;0.0;
+443;N-Acetyl-D-glucosamine transport via PEP:Pyr PTS [c];0.0;moderate;0.0;0.0;0.0772462869039078
+444;UDP-glucose 4-epimerase [c];0.0;low;1.0;0.0;
+445;5,10-Methenyltetrahydrofolate 5-hydrolase (decyclizing) [c];0.0;low;1.0;0.0;
+446;L-tyrosine:2-oxoglutarate aminotransferase [c];0.0;low;1.0;0.0;
+447;Butyryl-[acyl-carrier protein]:malonyl-CoA C-acyltransferase(decarboxylating, oxoacyl- and enoyl-reducing) [c];0.0;low;1.0;0.0;
+448;Butyro-betaine ABC transport [c];0.0;high;0.0;0.0;1.2004691145508488
+449;Gly-Cys ABC transporters [c];234.63636;low;0.0;0.0;
+450;ATP phosphohydrolase (polar-amino-acid-importing) [c];0.0;moderate;0.0;0.0;0.5811005947650799
+451;biotin:CoA ligase (AMP-forming) [c];0.0;moderate;0.0;0.0;0.0107809095562142
+452;Lysophospholipase L1 (2-acylglycerophosphoethanolamine, n-C14:0) (periplasm) [c];0.0;low;1.0;0.0;
+453;fatty-acid-CoA thioesterase (tetradecenoate) [c];0.0;moderate;0.0;0.0;0.0561541555000128
+454;14-methyl-3-oxo-pentadecanoyl-ACP:NADP+ oxidoreductase [c];0.0;low;1.0;0.0;
+455;ATP:N-acetyl-L-glutamate 5-phosphotransferase [c];35.636364;high;1.0;0.0;1.2469438300143807
+456;anteisopentadecanoyl-phosphatidylserine decarboxylase [c];0.0;low;1.0;0.0;
+457;fumarate reductase [c];-1.0;high;0.0;1.0;1.1127416630843
+458;arbutin transport via PEP:Pyr PTS [c];0.0;moderate;0.0;0.0;0.0772462869039078
+459;Decanoyl-CoA:(acceptor) 2,3-oxidoreductase [c];1.0;moderate;1.0;0.0;0.5276378124934911
+460;ATP:dGMP phosphotransferase [c];1.0;moderate;1.0;0.0;0.8527012222056509
+461;UDP-N-acetylmuramoyl-L-alanyl-D-glutamate:(L)-meso-2,6-diaminoheptanedioate gamma-ligase (ADP-forming) [c];0.0;high;0.0;0.0;1.050184631051418
+462;guanosine:phosphate alpha-D-ribosyltransferase [c];2.0;moderate;1.0;0.0;0.9850810312058436
+463;fumarate reductase [c];1.0;high;1.0;0.0;1.1127416630843
+464;Thymidylate 5'-phosphohydrolase [c];0.0;low;1.0;0.0;
+465;polyphosphate kinase [c];0.0;low;1.0;0.0;
+466;Phosphatidylserine syntase (n-C12:0) [c];0.0;low;1.0;0.0;
+467;dTDP-6-deoxy-L-mannose:NADP+ 4-oxidoreductase [c];0.0;low;1.0;0.0;
+468;ATP:D-glycero-beta-D-manno-heptose 1-phosphate adenylyltransferase [c];0.0;moderate;0.0;0.0;0.0650703694975807
+469;6-methyl-3-oxo-octanoyl-ACP:NADP+ oxidoreductase [c];0.0;low;1.0;0.0;
+470;Phosphatidylserine decarboxylase (n-C16:1) [c];0.0;low;1.0;0.0;
+471;Nicotinamide-D-ribonucleotide amidohydrolase [c];2.0;low;0.0;0.0;
+472;Succinate-semialdehyde:NAD+ oxidoreductase [c];0.0;moderate;0.0;0.0;0.7969907151915673
+473;NADH dehydrogenase (ubiquinone-8 & 3.5 protons) [c];0.0;low;1.0;0.0;
+474;L-Glutamate:ammonia ligase (ADP-forming) [c];5.0;moderate;1.0;0.0;0.72725114796525
+475;L-Kynurenine hydrolase [c];0.0;moderate;0.0;0.0;0.0267473089258885
+476;Lysophospholipase L2 (2-acylglycerophosphoglycerol, n-C18:0) [c];0.0;low;1.0;0.0;
+477;(R)-Lactate:NAD+ oxidoreductase [c];21.0;high;1.0;0.0;1.349696089588361
+478;aldehyde dehydrogenase (glyoxylate, NAD) [c];0.0;low;1.0;0.0;
+479;ATP:D-ribose 5-phosphotransferase [c];4.0;low;0.0;0.0;
+480;Lysophospholipase L1 (2-acylglycerophosphoglycerol, n-C14:1) (periplasm) [c];0.0;low;1.0;0.0;
+481;hydrogen-peroxide:hydrogen-peroxide oxidoreductase [c];-582.15909;high;0.0;1.0;1.4472658136980656
+482;ATP:2-amino-4-hydroxy-6-hydroxymethyl-7,8-dihydropteridine 6'-pyrophosphotransferase [c];0.0;low;1.0;0.0;
+483;(3R)-3-Hydroxydecanoyl-[acyl-carrier-protein]:NADP+ oxidoreductase [c];0.0;low;1.0;0.0;
+484;R04558 [c];0.0;low;1.0;0.0;
+485;CDP-diacylglycerol synthetase (n-C16:1) [c];0.0;low;1.0;0.0;
+486;GMP:diphosphate 5-phospho-alpha-D-ribosyltransferase [c];-1.0;moderate;0.0;1.0;0.3898677690208935
+487;Imidazole acetaldehyde:NAD+ oxidoreductase [c];0.0;low;1.0;0.0;
+488;beta-D-Glucose 1-phosphate 1,6-phosphomutase [c];0.0;moderate;0.0;0.0;0.968809751732624
+489;dTTP:cytidine 5'-phosphotransferase [c];0.0;low;1.0;0.0;
+490;3-Hydroxyanthranilate:oxygen 3,4-oxidoreductase (decyclizing) [c];0.0;low;1.0;0.0;
+491;anteisopentadecanoyl-phosphatidate cytidylyltransferase [c];0.0;low;1.0;0.0;
+492;(3R)-3-Hydroxyhexanoyl-[acyl-carrier-protein]:NADP+ oxidoreductase [c];0.0;low;1.0;0.0;
+493;Butanoyl-CoA:acetoacetate CoA-transferase [c];-1.0;moderate;0.0;1.0;0.5124047861592694
+494;5-Formyltetrahydrofolate cyclo-ligase (ADP-forming) [c];0.0;low;1.0;0.0;
+495;"L-serine hydro-lyase (adding indole; L-tryptophan-forming) [c]";0.0;low;1.0;0.0;
+496;1-(5-Phosphoribosyl)-5-amino-4-carboxyimidazole:L-aspartate ligase (ADP-forming) [c];0.0;moderate;0.0;0.0;0.1566086577319195
+497;N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramyl-tripeptide amidase (periplasm) [c];0.0;low;1.0;0.0;
+498;Farnesyl diphosphate:Isopentenyl diphosphate farnesyl cistransferase [c];0.0;low;1.0;0.0;
+499;12-methyl-3-oxo-tetra-decanoyl-ACP:NADP+ oxidoreductase [c];0.0;low;1.0;0.0;
+500;Glutaryl-CoA:(acceptor) 2,3-oxidoreductase (decarboxylating) [c];0.0;low;1.0;0.0;
+501;ITP:D-Tagatose 6-phosphate 1-phosphotransferase [c];0.0;low;1.0;0.0;
+502;D-Ribulose-5-phosphate 3-epimerase [c];-1.0;;;;
+503;3-Isopropylmalate hydro-lyase [c];0.0;moderate;0.0;0.0;0.0990825085519729
+504;3-Isopropylmalate:NAD+ oxidoreductase [c];0.0;moderate;0.0;0.0;0.0280884879399533
+505;isohexadecanoyl-Diacylglycerol kinase [c];0.0;moderate;0.0;0.0;0.1463420475613635
+506;"ATP:(R)-5-diphosphomevalonate carboxy-lyase (adding ATP; isopentenyl-diphosphate-forming) [c]";0.0;moderate;0.0;0.0;0.8690501275855355
+507;Lysophospholipase L2 (2-acylglycerophosphoglycerol, n-C14:1) [c];0.0;low;1.0;0.0;
+508;ATP phosphohydrolase (disaccharide-importing) [c];0.0;low;1.0;0.0;
+509;XMP:pyrophosphate phosphoribosyltransferase [c];0.0;low;1.0;0.0;
+510;L-histidinal:NAD+ oxidoreductase [c];0.0;low;1.0;0.0;
+511;Phosphatidylglycerol synthase (n-C18:0) [c];0.0;low;1.0;0.0;
+512;UMP:diphosphate phospho-alpha-D-ribosyltransferase [c];0.0;low;1.0;0.0;
+513;diacylglycerol kinase (n-C18:0) [c];0.0;moderate;0.0;0.0;0.1463420475613635
+514;RXN0-5061.c [c];0.0;low;1.0;0.0;
+515;Adenosine:phosphate alpha-D-ribosyltransferase [c];1.0;moderate;1.0;0.0;0.9850810312058436
+516;Nicotinate-nucleotide:pyrophosphate phosphoribosyltransferase (carboxylating) [c];0.0;low;1.0;0.0;
+517;ATP:(R)-mevalonate 5-phosphotransferase [c];0.0;moderate;0.0;0.0;0.8242998550924422
+518;Malonyl-CoA:[acyl-carrier-protein] S-malonyltransferase [c];0.0;low;1.0;0.0;
+519;Gly-Leu aminopeptidase [c];0.0;moderate;0.0;0.0;0.4029379144930443
+520;Lysophospholipase L2 (2-acylglycerophosphotidate, n-C16:0) [c];0.0;low;1.0;0.0;
+521;Heme transport via ABC system [c];0.0;low;1.0;0.0;
+522;14-methyl-3-oxo-hexa-decanoyl-ACP:NADP+ oxidoreductase [c];0.0;low;1.0;0.0;
+523;Acyl-[acyl-carrier-protein]:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating) [c];0.0;moderate;0.0;0.0;0.6920181288816155
+524;L-methionine:oxidized-thioredoxin S-oxidoreductase [c];4.0;high;1.0;0.0;1.0566126502594884
+525;Amylomaltase (maltotriose) [c];0.0;low;1.0;0.0;
+526;(3S)-3,6-Diaminohexanoate 5,6-aminomutase [c];0.0;moderate;0.0;0.0;0.4069543781377219
+527;Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-alanyl-gamma-D-glutamyl-L-lysyl-D-alanyl-D-alanine:ammonia ligase (ADP-forming) [c];0.0;moderate;0.0;0.0;0.72725114796525
+528;glycerol-3-phosphate acyltransferase (C14:0) [c];0.0;low;1.0;0.0;
+529;acyl-CoA dehydrogenase (hexadecanoyl-CoA) [c];-1.0;moderate;0.0;1.0;0.5276378124934911
+530;Acetyl-CoA:L-homoserine O-acetyltransferase [c];0.0;low;1.0;0.0;
+531;Carbon-dioxide:ammonia ligase (ADP-forming,carbamate-phosphorylating) [c];0.0;high;0.0;0.0;1.1457030620342332
+532;1,4-dihydroxy-2-naphthoyl-CoA hydrolase [c];0.0;high;0.0;0.0;1.100616466605832
+533;UDP-N-acetyl-D-glucosamine 2-epimerase [c];0.0;moderate;0.0;0.0;0.3576907889418632
+534;Adenosine 3',5'-bisphosphate 3'-phosphohydrolase [c];1.0;low;0.0;0.0;
+535;Phosphoenolpyruvate:glycerone phosphotransferase [c];0.0;low;1.0;0.0;
+536;CoA:apo-[acyl-carrier-protein] pantetheinephosphotransferase [c];0.0;moderate;0.0;0.0;0.2760270919119187
+537;sn-Glycerol-3-phosphate:NAD+ 2-oxidoreductase [c];0.0;low;1.0;0.0;
+538;R07604 [c];0.0;low;1.0;0.0;
+539;ATP:dUDP phosphotransferase [c];2.0;high;1.0;0.0;1.1253177243083452
+540;UDP-N-acetylmuramate:L-alanine ligase (ADP-forming) [c];0.0;moderate;0.0;0.0;0.1521779128465207
+541;Butanoyl-CoA:oxygen 2-oxidoreductase [c];-1.0;moderate;0.0;1.0;0.5276378124934911
+542;IMP 1,2-hydrolase (decyclizing) [c];0.0;low;1.0;0.0;
+543;3'-Phospho-5'-adenylyl sulfate 3'-phosphohydrolase [c];0.0;low;1.0;0.0;
+544;2-Phospho-D-glycerate 2,3-phosphomutase [c];5.0;moderate;1.0;0.0;0.2106865181503799
+545;Poly(glycerol-phosphate) alpha-glucosyltransferase [c];0.0;high;0.0;0.0;1.1015221062842442
+546;methionyl aminopeptidase [c];0.0;moderate;0.0;0.0;0.4029379144930443
+547;Formate:tetrahydrofolate ligase (ADP-forming) [c];0.0;moderate;0.0;0.0;0.3754384743826193
+548;NADH:hydrogen-peroxide oxidoreductase [c];1.0;high;1.0;0.0;1.160154173688453
+549;acyl-CoA dehydrogenase (decanoyl-CoA) [c];-1.0;moderate;0.0;1.0;0.5276378124934911
+550;fatty-acid--CoA ligase (hexadecenoate), peroxisomal [c];0.0;low;1.0;0.0;
+551;Nicotinamide amidohydrolase [c];0.0;low;1.0;0.0;
+552;S-(hydroxymethyl)glutathione:NADP+ oxidoreductase [c];1000.0;high;1.0;0.0;1.113553008440311
+553;5-carboxyamino-1-(5-phospho-D-ribosyl)imidazole carboxymutase [c];0.0;low;1.0;0.0;
+554;UTP:L-glutamine amido-ligase (ADP-forming) [c];1.0;high;1.0;0.0;1.1457030620342332
+555;L-Isoleucine:NAD+ oxidoreductase(deaminating) [c];0.0;low;1.0;0.0;
+556;L-cysteinylglycine dipeptidase [c];1.0;low;0.0;0.0;
+557;2-Amino-4-hydroxy-6-(erythro-1,2,3-trihydroxypropyl) dihydropteridine triphosphate phosphohydrolase (alkaline optimum) [c];0.0;low;1.0;0.0;
+558;GDP:D-mannose-1-phosphate guanylyltransferase [c];0.0;high;0.0;0.0;1.015241536884968
+559;3-Phospho-D-glyceroyl phosphate phosphohydrolase [c];0.0;low;1.0;0.0;
+560;ATP:IDP phosphotransferase [c];-3.0;high;0.0;1.0;1.1253177243083452
+561;Lysophospholipase L2 (2-acylglycerophosphoglycerol, n-C14:0) [c];0.0;low;1.0;0.0;
+562;11-methyl-3-oxo-dodecanoyl-ACP:NADP+ oxidoreductase [c];0.0;low;1.0;0.0;
+563;R04326 [c];0.0;low;1.0;0.0;
+564;carbamoyl-phosphate:N2-acetyl-L-ornithine carbamoyltransferase [c];0.0;high;0.0;0.0;1.2120369559081934
+565;ATP:dGDP phosphotransferase [c];1.0;high;1.0;0.0;1.1253177243083452
+566;isopentadecanoyl-phosphatidylserine decarboxylase [c];0.0;low;1.0;0.0;
+567;RXN0-6975.c [c];0.0;moderate;0.0;0.0;0.4029379144930443
+568;1D-myo-Inositol 4-phosphate phosphohydrolase [c];0.0;low;1.0;0.0;
+569;(S)-hydroxydecanoyl-CoA:NAD+ oxidoreductase [c];0.0;high;0.0;0.0;1.3645114190594982
+570;D-glucosamine-6-phosphate aminohydrolase (ketol isomerizing) [c];2.0;moderate;1.0;0.0;0.6760098812583472
+571;(3R)-3-hydroxymyristoyl-[acyl-carrier protein]:UDP-3-O-[(3R)-3-hydroxymyristoyl]-alpha-D-glucosamine N-acetyltransferase [c];0.0;moderate;0.0;0.0;0.0505965002439225
+572;meso-2,6-diaminoheptanedioate carboxy-lyase (L-lysine-forming) [c];0.0;moderate;0.0;0.0;0.3430152168581846
+573;(S)-3-Hydroxyisobutyryl-CoA hydro-lyase [c];0.0;low;1.0;0.0;
+574;(2R,3S)-3-methylmalate:NAD+ oxidoreductase [c];0.0;moderate;0.0;0.0;0.0280884879399533
+575;ADP-ribose ribophosphohydrolase [c];0.0;low;1.0;0.0;
+576;Octanoyl-CoA:acetyl-CoA C-acyltransferase [c];0.0;high;0.0;0.0;1.2417356207204766
+577;15-methyl-3-oxo-hexa-decanoyl-ACP:NADP+ oxidoreductase [c];0.0;low;1.0;0.0;
+578;L-leucine:NAD+ oxidoreductase (deaminating) [c];0.0;low;1.0;0.0;
+579;2,5-dioxopentanoate:NADP+ 5-oxidoreductase [c];0.0;;;;
+580;ATP:D-fructose 6-phosphotransferase [c];0.0;high;0.0;0.0;1.029864608882069
+581;(S)-3-hydroxyacyl-CoA:NAD+ oxidoreductase [c];0.0;high;0.0;0.0;1.0011985901462528
+582;ATP phosphohydrolase (molybdate-importing) [c];0.0;high;0.0;0.0;1.059632778583942
+583;laurate-[acyl-carrier-protein] ligase [c];0.0;low;1.0;0.0;
+584;Octanoyl-[acyl-carrier protein]:malonyl-CoA C-acyltransferase(decarboxylating, oxoacyl- and enoyl-reducing) [c];0.0;low;1.0;0.0;
+585;RXN-3341.c [c];0.0;moderate;0.0;0.0;0.1185998262733575
+586;D-mannose transport via PEP:Pyr PTS [c];0.0;low;1.0;0.0;
+587;myristoyl-CoA hydrolase [c];0.0;moderate;0.0;0.0;0.0561541555000128
+588;Lysophospholipase L1 (2-acylglycerophosphoethanolamine, n-C12:0) (periplasm) [c];0.0;low;1.0;0.0;
+589;3-hydroxy-3-(4-methylpent-3-en-1-yl)glutaryl-CoA acetate-lyase (7-methyl-3-oxooct-6-enoyl-CoA-forming) [c];0.0;moderate;0.0;0.0;0.0961581284912735
+590;S-Adenosyl-L-methionine:8-amino-7-oxononanoate aminotransferase [c];0.0;moderate;0.0;0.0;0.8270818008676171
+591;5-Phospho-D-ribosylamine:glycine ligase (ADP-forming) [c];0.0;low;1.0;0.0;
+592;glycine oxidase [c];0.0;low;1.0;0.0;
+593;(2S,3S)-3-Hydroxy-2-methylbutanoyl-CoA hydro-liase [c];0.0;low;1.0;0.0;
+594;1-octadec-7-enoyl-sn-glycerol 3-phosphate O-acyltransferase (n-C18:1) [c];0.0;low;1.0;0.0;
+595;L-Glutamine amidohydrolase [c];1.0;high;1.0;0.0;1.0088962889803683
+596;ATP:deoxyadenosine 5'-phosphotransferase [c];0.0;low;1.0;0.0;
+597;N-(5-Phospho-beta-D-ribosyl)anthranilate ketol-isomerase [c];0.0;moderate;0.0;0.0;0.7325891242795615
+598;11-methyl-trans-dodec-2-enoyl-ACP:NAD+ oxidoreductase (A-specific) [c];0.0;low;1.0;0.0;
+599;ethanol:NAD+ oxidoreductase [c];0.0;low;1.0;0.0;
+600;Methylmalonyl-CoA epimerase [c];0.0;moderate;0.0;0.0;0.6314846561353517
+601;isopentadecanoyl-cardiolipin synthase [c];0.0;;;;
+602;O-phospho-L-serine phosphohydrolase [c];1.0;low;0.0;0.0;
+603;isoheptadecanoyl-Diacylglycerol kinase [c];0.0;moderate;0.0;0.0;0.1463420475613635
+604;isotetradecanoyl-glycerol-3-phosphate O-acyltransferase [c];0.0;low;1.0;0.0;
+605;anteisoheptadecanoyl-phosphatidate cytidylyltransferase [c];0.0;low;1.0;0.0;
+606;gamma-glutamyltranspeptidase family protein [c];0.0;moderate;0.0;0.0;0.5925016958464195
+607;ditrans,tricis-hexaprenyl-diphosphate:isopentenyl-diphosphate hexaprenylcistransferase [c];0.0;low;1.0;0.0;
+608;3-hydroxyacyl-[acyl-carrier-protein] dehydratase (n-C18:0) [c];0.0;moderate;0.0;0.0;0.1172338659109856
+609;4-fumarylacetoacetate fumarylhydrolase [c];-3.0;moderate;0.0;1.0;0.0248866323580615
+610;N2-Acetyl-L-ornithine amidohydrolase [c];35.636364;high;1.0;0.0;1.2268237198425267
+611;myristoyl-CoA:acetylCoA C-myristoyltransferase [c];0.0;high;0.0;0.0;1.2417356207204766
+612;S-adenosyl-L-methionine:uroporphyrinogen-III C-methyltransferase [c];0.0;high;0.0;0.0;1.1125117549550685
+613;myristoyl-glycerol-3-phosphate O-acyltransferase [c];0.0;low;1.0;0.0;
+614;6,7-Dimethyl-8-(1-D-ribityl)lumazine:6,7-dimethyl-8-(1-D-ribityl)lumazine 2,3-butanediyltransferase [c];0.0;high;0.0;0.0;1.0384643632525783
+615;2'-Deoxyadenosine 5'-diphosphate:oxidized-thioredoxin 2'-oxidoreductase [c];0.0;moderate;0.0;0.0;0.2621914746903948
+616;Phosphatidylserine decarboxylase (n-C16:0) [c];0.0;low;1.0;0.0;
+617;alanine racemase [c];0.0;high;0.0;0.0;1.0197075306810657
+618;10-methyl-3-hydroxy-dodecanoyl-ACP hydro-lyase [c];0.0;moderate;0.0;0.0;0.1172338659109856
+619;"chorismate pyruvate-lyase (amino-accepting; anthranilate-forming) [c]";0.0;low;1.0;0.0;
+620;L-Glutamate:NADP+ oxidoreductase (deaminating) [c];-6.0;moderate;0.0;1.0;0.5588114771975896
+621;ATP:sulfate adenylyltransferase [c];1.0;high;1.0;0.0;1.0724717614510946
+622;5-Methylcytosine aminohydrolase [c];0.0;high;0.0;0.0;1.0069602280805614
+623;Lysophospholipase L2 (2-acylglycerophosphoglycerol, n-C18:1) [c];0.0;low;1.0;0.0;
+624;(3R)-3-Hydroxybutanoyl-[acyl-carrier-protein] hydro-lyase [c];0.0;moderate;0.0;0.0;0.1172338659109856
+625;ATP:nicotinamide-nucleotide adenylyltransferase [c];2.0;low;0.0;0.0;
+626;3-methylbutanoyl-CoA:(acceptor) 2,3-oxidoreductase [c];0.0;low;1.0;0.0;
+627;GTP:pyruvate 2-O-phosphotransferase [c];0.0;low;1.0;0.0;
+628;glycerol-3-phosphate acyltransferase (C18:1) [c];0.0;low;1.0;0.0;
+629;TRANS-RXNAVI-26732.ce.brachyexp.CPD-3609_CPD-3609 [c];0.0;low;1.0;0.0;
+630;2,5-Diamino-6-hydroxy-4-(5-phosphoribosylamino)-pyrimidine 2-aminohydrolase [c];0.0;moderate;0.0;0.0;0.2610180660405382
+631;(3R)-3-Hydroxybutanoyl-[acyl-carrier protein]:NADP+ oxidoreductase [c];0.0;low;1.0;0.0;
+632;3-Oxooctodecanoyl-ACP:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating) [c];0.0;moderate;0.0;0.0;0.6920181288816155
+633;acetoacetate transport via proton symport [c];-419.27273;moderate;0.0;1.0;0.4667979980472165
+634;ATP:4-amino-2-methyl-5-phosphomethylpyrimidine phosphotransferase [c];0.0;;;;
+635;isopentadecanoyl-lipoteichoic acid synthesis (n=24), linked, N-acetylglucosamine substituted [c];0.0;high;0.0;0.0;1.0579979408010238
+636;Propionyladenylate:CoA propionyltransferase [c];0.0;low;1.0;0.0;
+637;carbamoyl-phosphate:L-aspartate carbamoyltransferase [c];0.0;low;1.0;0.0;
+638;P1,P4-bis(5'-uridyl)-tetraphosphate uridylohydrolase [c];0.0;moderate;0.0;0.0;0.8077514328868975
+639;Lysophospholipase L1 (2-acylglycerophosphoglycerol, n-C16:0) (periplasm) [c];0.0;low;1.0;0.0;
+640;Butyrate transport via proton symport, reversible [c];-1.0;moderate;0.0;1.0;0.4667979980472165
+641;Arsenate transporter [c];0.0;high;0.0;0.0;1.0383300569582234
+642;D-Glucitol:NAD+ 2-oxidoreductase [c];0.0;high;0.0;0.0;1.0086368161129526
+643;Palmitate:CoA ligase (AMP-forming) [c];0.0;low;1.0;0.0;
+644;(S)-Hydroxyoctanoyl-CoA hydro-lyase [c];0.0;low;1.0;0.0;
+645;isohexadecanoyl-glycerol-3-phosphate O-acyltransferase [c];0.0;low;1.0;0.0;
+646;L-Alanine:NAD+ oxidoreductase (deaminating) [c];0.0;low;1.0;0.0;
+647;6-Phospho-D-glucono-1,5-lactone lactonohydrolase [c];0.0;low;1.0;0.0;
+648;glutathione:hydrogen-peroxide oxidoreductase [c];1000.0;high;1.0;0.0;1.0566126502594884
+649;UDP-3-O-[(3R)-3-hydroxymyristoyl]-N-acetylglucosamine amidohydrolase [c];0.0;low;1.0;0.0;
+650;2-Isopropylmalate hydro-lyase [c];0.0;moderate;0.0;0.0;0.0990825085519729
+651;dGTP:uridine 5'-phosphotransferase [c];0.0;low;1.0;0.0;
+652;Acetoacetate:CoA ligase (AMP-forming) [c];0.0;low;1.0;0.0;
+653;UTP:ammonia ligase (ADP-forming) [c];1.0;high;1.0;0.0;1.1457030620342332
+654;sedoheptulose-7-phosphate:D-glyceraldehyde-3-phosphate glyceronetransferase [c];1.0;moderate;1.0;0.0;0.5648497368076509
+655;anteisopentadecanoyl-Diacylglycerol kinase [c];0.0;moderate;0.0;0.0;0.1463420475613635
+656;3-methylbutanoyl-CoA:enzyme N6-(dihydrolipoyl)lysine S-(3-methylbutanoyl)transferase [c];0.0;low;1.0;0.0;
+657;ATP:pantothenate 4'-phosphotransferase [c];0.0;moderate;0.0;0.0;0.8369864046210226
+658;UDP-N-acetyl-D-glucosamine:N-acetyl-alpha-D-muramyl(oyl-L-Ala-gamma-D-Glu-L-Lys-D-Ala-D-Ala)-diphosphoundecaprenol 4-beta-N-acetylglucosaminlytransferase [c];0.0;;;;
+659;(3R)-3-Hydroxytetradecanoyl-[acyl-carrier-protein]:NADP+ oxidoreductase [c];0.0;low;1.0;0.0;
+660;1D-myo-inositol-3-phosphate lyase (isomerizing) [c];0.0;high;0.0;0.0;1.3131768074582804
+661;"GTP diphosphate-lyase (cyclizing; 3',5'-cyclic-GMP-forming) [c]";0.0;moderate;0.0;0.0;0.1922113365728478
+662;hydrogen-carbonate:L-glutamine amido-ligase (ADP-forming, carbamate-phosphorylating) [c];0.0;high;0.0;0.0;1.0088962889803683
+663;anhydrous-N-Acetylmuramyl-tripeptide amidase [c];0.0;low;1.0;0.0;
+664;Phosphatidylglycerol synthase (n-C14:1) [c];0.0;low;1.0;0.0;
+665;acetyl-CoA:[acyl-carrier-protein] S-acetyltransferase [c];0.0;low;1.0;0.0;
+666;ATP:GTP 3'-diphosphotransferase [c];0.0;high;0.0;0.0;1.0185138705256989
+667;(S)-malate hydro-lyase (fumarate-forming) [c];-9.0;;;;
+668;L-methionine:thioredoxin-disulfide S-oxidoreductase [L-methionine (R)-S-oxide-forming] [c];0.0;moderate;0.0;0.0;0.3171704326118313
+669;sn-Glycero-3-phosphoethanolamine glycerophosphohydrolase [c];0.0;low;1.0;0.0;
+670;CTP:3-deoxy-D-manno-octulosonate cytidylyltransferase [c];0.0;low;1.0;0.0;
+671;pyruvate:thiamin diphosphate acetaldehydetransferase (decarboxylating) [c];-871.18182;moderate;0.0;1.0;0.7638885827863641
+672;R07599 [c];0.0;low;1.0;0.0;
+673;2-amino-4-hydroxy-6-hydroxymethyl-7,8-dihydropteridine:4-aminobenzoate 2-amino-4-hydroxydihydropteridine-6-methenyltransferase [c];0.0;moderate;0.0;0.0;0.233094125260299
+674;(R)-Methylmalonyl-CoA CoA-carbonylmutase [c];0.0;moderate;0.0;0.0;0.2979440304459099
+675;"O-phospho-L-homoserine phosphate-lyase (adding water;L-threonine-forming) [c]";0.0;moderate;0.0;0.0;0.5060745031603534
+676;Copper-transporting ATPase [c];0.0;low;1.0;0.0;
+677;N-(5-Phospho-D-ribosyl)anthranilate:pyrophosphate phosphoribosyl-transferase [c];0.0;low;1.0;0.0;
+678;R04594 [c];0.0;low;1.0;0.0;
+679;R07396 [c];0.0;moderate;0.0;0.0;0.0819116231427657
+680;"ATP diphosphate-lyase (cyclizing; 3',5'-cyclic-AMP-forming) [c]";0.0;low;1.0;0.0;
+681;ATP:cytidine 5'-phosphotransferase [c];0.0;low;1.0;0.0;
+682;DLACTDEHYDROGFAD-RXN.c.metaexp.CPD-9956_UBIQUINONE-8 [c];1.0;high;1.0;0.0;1.349696089588361
+683;4-Hydroxyphenylpyruvate:oxygen oxidoreductase (hydroxylating,decarboxylating) [c];3.0;moderate;1.0;0.0;0.2523277766240366
+684;Glycine betaine transport via ABC system [c];1.0;high;1.0;0.0;1.2004691145508488
+685;UDP-D-glucuronate carboxy-lyase (UDP-D-xylose-forming) [c];0.0;low;1.0;0.0;
+686;Inorganic phosphate transporter [c];-1.0;high;0.0;1.0;1.1356342739874374
+687;dihydronicotinamide adenine dinucleotide-coenzyme Q reductase [c];1.0;high;1.0;0.0;1.153283924447491
+688;N-Ribosylnicotinamide:orthophosphate ribosyltransferase [c];0.0;moderate;0.0;0.0;0.9850810312058436
+689;ATP:nicotinamide-nucleotide adenylyltransferase [c];0.0;low;1.0;0.0;
+690;nicotinic acid mononucleotide pyrophosphorylase [c];1.0;moderate;1.0;0.0;0.0305602073600459
+691;Decanoyl-CoA:acetyl-CoA C-acyltransferase [c];0.0;high;0.0;0.0;1.2417356207204766
+692;O-Phospho-4-hydroxy-L-threonine phospho-lyase (adding water) [c];0.0;moderate;0.0;0.0;0.5060745031603534
+693;L-homoserine:NADP+ oxidoreductase [c];9.0;moderate;1.0;0.0;0.8150208892567992
+694;2-deoxy-D-ribose-5-phosphate acetaldehyde-lyase (D-glyceraldehyde-3-phosphate-forming) [c];0.0;low;1.0;0.0;
+695;ATP:cobinamide Cobeta-adenosyltransferase [c];0.0;moderate;0.0;0.0;0.5336239398573442
+696;UTP:cytidine 5'-phosphotransferase [c];0.0;low;1.0;0.0;
+697;9-methyl-3-oxo-decanoyl-ACP:NADP+ oxidoreductase [c];0.0;low;1.0;0.0;
+698;N6-(L-1,3-Dicarboxypropyl)-L-lysine:NAD+ oxidoreductase (L-lysine-forming) [c];0.0;high;0.0;0.0;1.2104327393307783
+699;UDP-N-acetylmuramate:NADP+ oxidoreductase [c];0.0;moderate;0.0;0.0;0.0784067271618331
+700;Coproporphyrinogen:oxygen oxidoreductase(decarboxylating) [c];0.0;low;1.0;0.0;
+701;ZN2t4 [c];0.0;low;1.0;0.0;
+702;Acetyl phosphate phosphohydrolase [c];0.0;low;1.0;0.0;
+703;ATP:pantothenate 4'-phosphotransferase [c];0.0;moderate;0.0;0.0;0.8369864046210226
+704;3-Methylcrotonoyl-CoA:carbon-dioxide ligase (ADP-forming) [c];0.0;low;1.0;0.0;
+705;beta-D-Glucose:NADP+ 1-oxoreductase [c];-2.0;high;0.0;1.0;1.0566126502594884
+706;Lysophospholipase L2 (2-acylglycerophosphoglycerol, n-C16:0) [c];0.0;low;1.0;0.0;
+707;DNA synthesis;0.0;low;1.0;0.0;
+708;Lysophospholipase L2 (2-acylglycerophosphoethanolamine, n-C14:1) [c];0.0;low;1.0;0.0;
+709;cis-4-Hydroxy-D-proline:oxygen oxidoreductase (deaminating) [c];0.0;high;0.0;0.0;1.1957634559623151
+710;succinyl-CoA:acetoacetate CoA-transferase [c];-414.27273;moderate;0.0;1.0;0.7080632937215048
+711;R02750 [c];0.0;low;1.0;0.0;
+712;Phosphoribosyl-ATP pyrophosphohydrolase [c];0.0;low;1.0;0.0;
+713;D-Ala-D-Ala dipeptidase [c];0.0;;;;
+714;2-phospho-D-glycerate hydro-lyase (phosphoenolpyruvate-forming) [c];-5.0;moderate;0.0;1.0;0.2526814098380486
+715;4,5-Dihydro-4-oxo-5-imidazolepropanoate hydro-lyase [c];0.0;moderate;0.0;0.0;0.0214073317276509
+716;protoporphyrinogen-IX:oxygen oxidoreductase [c];0.0;moderate;0.0;0.0;0.5564185755261952
+717;ATP:D-ribose-5-phosphate diphosphotransferase [c];4.0;low;0.0;0.0;
+718;palmitoyl-cardiolipin synthase [c];0.0;;;;
+719;sulfate-transporting ATPase [c];1.0;high;1.0;0.0;1.0299644488139432
+720;Lysophospholipase L1 (2-acylglycerophosphoethanolamine, n-C16:0) (periplasm) [c];0.0;low;1.0;0.0;
+721;10-methyl-trans-dodec-2-enoyl-ACP:NAD+ oxidoreductase (A-specific) [c];0.0;low;1.0;0.0;
+722;ATP phosphohydrolase (ferric-ion-transporting) [c];0.0;high;0.0;0.0;1.0581927227745644
+723;NAD+ phosphohydrolase [c];2.0;high;1.0;0.0;1.196416124217698
+724;ditrans,tetracis-heptaprenyl-diphosphate:isopentenyl-diphosphate heptaprenylcistransferase [c];0.0;low;1.0;0.0;
+725;TRANS-RXNBWI-115525.ce.maizeexp.NA+_NA+ [c];2.0;moderate;1.0;0.0;0.4004647314386867
+726;glycine:lipoylprotein oxidoreductase (decarboxylating and acceptor-aminomethylating) [c];116.81818;moderate;1.0;0.0;0.6874654692778501
+727;isotetradecanoyl-phosphatidylserine decarboxylase [c];0.0;low;1.0;0.0;
+728;Stearoyl-CoA hydrolase [c];0.0;moderate;0.0;0.0;0.0561541555000128
+729;Acetate:CoA ligase (AMP-forming) [c];0.0;low;1.0;0.0;
+730;Uridine:phosphate alpha-D-ribosyltransferase [c];-6.0;high;0.0;1.0;1.006478319868326
+731;Glycine betaine transport via proton symport, reversible [c];-1.0;low;0.0;0.0;
+732;ATP:thymidine 5'-phosphotransferase [c];0.0;moderate;0.0;0.0;0.0593556005632458
+733;Nicotinate D-ribonucleoside:orthophosphate ribosyltransferase [c];0.0;moderate;0.0;0.0;0.9850810312058436
+734;L-Aspartate:2-oxoglutarate aminotransferase [c];-6.0;high;0.0;1.0;1.276654515455569
+735;Tetradecanoyl-CoA:(acceptor) 2,3-oxidoreductase [c];0.0;low;1.0;0.0;
+736;arsenobetaine transport in via ABC system [c];0.0;high;0.0;0.0;1.2004691145508488
+737;D-Xylonolactone lactonohydrolase [c];0.0;high;0.0;0.0;1.0934885038157915
+738;Phosphoenolpyruvate:UDP-N-acetyl-D-glucosamine 1-carboxyvinyl-transferase [c];0.0;high;0.0;0.0;1.0133356126519348
+739;L-methionine S-oxide transport via ABC system [c];1.0;high;1.0;0.0;1.155985643212354
+740;R04293 [c];0.0;low;1.0;0.0;
+741;FACOAL140(ISO) [c];0.0;low;1.0;0.0;
+742;isotetradecanoyl-lipoteichoic acid synthesis (n=24), linked, glucose substituted [c];0.0;high;0.0;0.0;1.1015221062842442
+743;Agmatine amidinohydrolase [c];0.0;moderate;0.0;0.0;0.9726074844561872
+744;1-(5'-Phosphoribosyl)-5-amino-4-(N-succinocarboxamide)-imidazole AMP-lyase [c];0.0;moderate;0.0;0.0;0.1059945583309918
+745;cellobiose glucohydrolase [c];0.0;high;0.0;0.0;1.1510428526676064
+746;isopentadecanoyl-CDPdiacylglycerol-serine O-phosphatidyltransferase [c];0.0;low;1.0;0.0;
+747;CTP:sn-glycerol-3-phosphate cytidylyltransferase [c];0.0;high;0.0;0.0;1.0617807880216847
+748;geranylgeranyl-diphosphate:isopentenyl-diphosphate transtransferase [c];0.0;high;0.0;0.0;1.0722930193361673
+749;Isocitrate:NADP+ oxidoreductase [c];1.0;moderate;1.0;0.0;0.7530851935698668
+750;2-(Formamido)-N1-(5-phosphoribosyl)acetamidine cyclo-ligase (ADP-forming) [c];0.0;low;1.0;0.0;
+751;Lysophospholipase L1 (2-acylglycerophosphoglycerol, n-C12:0) (periplasm) [c];0.0;low;1.0;0.0;
+752;S-Aminomethyldihydrolipoylprotein:(6S)-tetrahydrofolate aminomethyltransferase (ammonia-forming) [c];0.0;low;1.0;0.0;
+753;glutathione gamma-glutamylaminopeptidase [c];1.0;moderate;1.0;0.0;0.5925016958464195
+754;10-Formyltetrahydrofolate:5'-phosphoribosyl-5-amino-4-imidazolecarboxamide formyltransferase [c];0.0;low;1.0;0.0;
+755;6-phospho-D-gluconate:NADP+ 2-oxidoreductase (decarboxylating) [c];0.0;moderate;0.0;0.0;0.1185998262733575
+756;trans-Octodec-2-enoyl-ACP hydro-lyase [c];0.0;moderate;0.0;0.0;0.1172338659109856
+757;Lysophospholipase L2 (2-acylglycerophosphotidate, n-C14:0) [c];0.0;low;1.0;0.0;
+758;(R)-3-Hydroxybutanoate:NAD+ oxidoreductase [c];0.0;low;1.0;0.0;
+759;dATP:cytidine 5'-phosphotransferase [c];0.0;low;1.0;0.0;
+760;adenosine 3',5'-bisphosphate,sulfite:oxidized-thioredoxin oxidoreductase (3'-phosphoadenosine-5'-phosphosulfate -forming) [c];1.0;high;1.0;0.0;1.1188071244522702
+761;CDP-diacylglycerol synthetase (n-C18:1) [c];0.0;low;1.0;0.0;
+762;O-acetyl-L-homoserine:hydrogen sulfide S-(3-amino-3-carboxypropyl)transferase [c];0.0;low;1.0;0.0;
+763;Xanthosine 5'-phosphate phosphohydrolase [c];0.0;low;1.0;0.0;
+764;ATP:dUMP phosphotransferase [c];0.0;low;1.0;0.0;
+765;Formate:NAD+ oxidoreductase [c];0.0;low;1.0;0.0;
+766;isoheptadecanoyl-CDPdiacylglycerol-serine O-phosphatidyltransferase [c];0.0;low;1.0;0.0;
+767;beta-glucosidase (methyl-alpha-D-glucoside) [c];0.0;high;0.0;0.0;1.1510428526676064
+768;UDP-N-acetyl-D-glucosamine:undecaprenyl-phosphate N-acetyl-D-glucosamine phosphotransferase [c];0.0;high;0.0;0.0;1.0579979408010238
+769;Phosphatidylserine syntase (n-C18:1) [c];0.0;low;1.0;0.0;
+770;UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-L-lysine:alanyl-D-alanine [c];0.0;moderate;0.0;0.0;0.3440921456452666
+771;S-adenosyl-L-methionine:precorrin-1 C-methyltransferase [c];0.0;high;0.0;0.0;1.1125117549550685
+772;(3R)-3-Hydroxybutanoyl-[acyl-carrier-protein] hydro-lyase [c];0.0;moderate;0.0;0.0;0.1172338659109856
+773;Deoxycytidine aminohydrolase [c];0.0;low;1.0;0.0;
+774;Acetyl-CoA:carbon-dioxide ligase (ADP-forming) [c];0.0;moderate;0.0;0.0;0.6339614504064585
+775;CDP-diacylglycerol synthetase (n-C16:0) [c];0.0;low;1.0;0.0;
+776;Phosphoenolpyruvate:3-phosphoshikimate 5-O-(1-carboxyvinyl)-transferase [c];3.0;low;0.0;0.0;
+777;ATP:dTDP phosphotransferase [c];1.0;high;1.0;0.0;1.1253177243083452
+778;4-amino-4-deoxychorismate pyruvate-lyase [c];0.0;high;0.0;0.0;1.0101961978281069
+779;5-methyltetrahydrofolate:NAD+ oxidoreductase [c];-1.0;moderate;0.0;1.0;0.3566681491297549
+780;R05146 [c];0.0;low;1.0;0.0;
+781;D-Gluconate:(acceptor) 2-oxidoreductase [c];0.0;low;1.0;0.0;
+782;cadminum transport out via antiport [c];0.0;low;1.0;0.0;
+783;(S)-hydroxyhexanoyl-CoA:NAD+ oxidoreductase [c];0.0;high;0.0;0.0;1.3645114190594982
+784;acetyl-CoA:propanoyl-CoA 2-C-acetyltransferase [c];0.0;high;0.0;0.0;1.2417356207204766
+785;GTP:uridine 5'-phosphotransferase [c];0.0;low;1.0;0.0;
+786;D-malate transport in via proton symport [c];0.0;low;1.0;0.0;
+787;chorismate:L-glutamine aminotransferase [c];0.0;moderate;0.0;0.0;0.6286666954837807
+788;fumarate reductase complex (i.e. FRD, involved in anaerobic respiration, repressed in aerobic respiration) [c];1.0;high;1.0;0.0;1.0026091584958114
+789;Palmitoyl-CoA hydrolase [c];0.0;moderate;0.0;0.0;0.0561541555000128
+790;L-Valine:2-oxoglutarate aminotransferase [c];0.0;moderate;0.0;0.0;0.1164336739075209
+791;2-Phosphoglycolate phosphohydrolase [c];0.0;low;1.0;0.0;
+792;chitobiose N-acetylglucosaminohydrolase [c];0.0;moderate;0.0;0.0;0.829844827434557
+793;Cytidine:orthophosphate alpha-D-ribosyltransferase [c];2.0;high;1.0;0.0;1.006478319868326
+794;3-Dehydroquinate hydro-lyase [c];3.0;high;1.0;0.0;1.0248179731052538
+795;9-methyl-trans-dec-2-enoyl-ACP:NAD+ oxidoreductase (A-specific) [c];0.0;low;1.0;0.0;
+796;R05613 [c];0.0;high;0.0;0.0;1.0722930193361673
+797;glutathione:NADP+ oxidoreductase [c];-1000.0;high;0.0;1.0;1.070048418452158
+798;L-phenylalanine,tetrahydrobiopterin:oxygen oxidoreductase(4-hydroxylating) [c];0.0;;;;
+799;Glycerophosphodiester phosphodiesterase (Glycerophosphoserine) [c];0.0;low;1.0;0.0;
+800;ATP:dAMP phosphotransferase [c];0.0;high;0.0;0.0;1.0352504054927616
+801;ATP:selenide, water phosphotransferase [c];0.0;low;1.0;0.0;
+802;D-glucose transport via PEP:Pyr PTS [c];0.0;low;1.0;0.0;
+803;glycerol-3-phosphate acyltransferase (C14:1) [c];0.0;low;1.0;0.0;
+804;ATP:glycerol 3-phosphotransferase [c];0.0;low;1.0;0.0;
+805;4-methyl-trans-pent-2-enoyl-ACP:NAD+ oxidoreductase (A-specific) [c];0.0;low;1.0;0.0;
+806;(3R)-3-Hydroxyoctanoyl-[acyl-carrier-protein]:NADP+ oxidoreductase [c];0.0;low;1.0;0.0;
+807;UDP-N-acetyl-D-glucosamine:NAD+ 6-oxidoreductase [c];0.0;high;0.0;0.0;1.1002246219191227
+808;anhydrous-N-Acetylmuramyl-tetrapeptide amidase [c];0.0;low;1.0;0.0;
+809;12-methyl-trans-tridec-2-enoyl-ACP:NAD+ oxidoreductase (A-specific) [c];0.0;low;1.0;0.0;
+810;anteisoheptadecanoyl-glycerol-3-phosphate O-acyltransferase [c];0.0;low;1.0;0.0;
+811;NADPH:NAD+ oxidoreductase [c];0.0;low;1.0;0.0;
+812;peptide-methionine:thioredoxin-disulfide S-oxidoreductase [c];0.0;high;0.0;0.0;1.0566126502594884
+813;Glycerone phosphate phosphohydrolase [c];0.0;low;1.0;0.0;
+814;glycerol-3-phosphate: acyl-coa acyltransferase (16:0) [c];0.0;low;1.0;0.0;
+815;4a-hydroxytetrahydrobiopterin hydro-lyase [c];0.0;moderate;0.0;0.0;0.092122572329689
+816;Nicotinate D-ribonucleotide:diphosphate phosphoribosyltransferase [c];1.0;moderate;1.0;0.0;0.0305602073600459
+817;butanoyl-CoA:acetyl-CoA C-butanoyltransferase [c];0.0;high;0.0;0.0;1.2417356207204766
+818;IMP:NAD+ oxidoreductase [c];1.0;high;1.0;0.0;1.0229187271014986
+819;alpha-D-Glucose 1-phosphate 1,6-phosphomutase [c];0.0;low;1.0;0.0;
+820;4-Aminobutyraldehyde:NAD+ oxidoreductase [c];0.0;low;1.0;0.0;
+821;FACOAL170(ISO) [c];0.0;low;1.0;0.0;
+822;ATP:(R)-5-phosphomevalonate phosphotransferase [c];0.0;high;0.0;0.0;1.0540220667751783
+823;GTP phosphohydrolase [c];1.0;moderate;1.0;0.0;0.059125589171965
+824;RXN0-6978.c [c];0.0;moderate;0.0;0.0;0.4029379144930443
+825;ADOMET-DMK-METHYLTRANSFER-RXN.c [c];0.0;high;0.0;0.0;1.021121908947215
+826;isotetradecanoyl-cardiolipin synthase [c];0.0;;;;
+827;trans-2-hexenoyl-CoA  reductase (NAD+) [c];1.0;moderate;1.0;0.0;0.5276378124934911
+828;2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase [c];0.0;high;0.0;0.0;1.0204010439336817
+829;Phosphoenolpyruvate:D-erythrose-4-phosphate C-(1-carboxyvinyl)transferase (phosphate hydrolysing, 2-carboxy-2-oxoethyl-forming) [c];3.0;low;0.0;0.0;
+830;dGTP:cytidine 5'-phosphotransferase [c];0.0;low;1.0;0.0;
+831;D-Fructose 6-phosphate:D-glyceraldehyde-3-phosphate glycolaldehyde transferase [c];2.0;moderate;1.0;0.0;0.6454215919948814
+832;5-Methyltetrahydrofolate:L-homocysteine S-methyltransferase [c];0.0;low;1.0;0.0;
+833;2'-Deoxyguanosine 5'-triphosphate diphosphohydrolase [c];1.0;moderate;1.0;0.0;0.8170763302387419
+834;1-Deoxy-D-xylulose-5-phosphate pyruvate-lyase (carboxylating) [c];0.0;high;0.0;0.0;1.0146203822898083
+835;3-Phospho-D-glycerate:NAD+ 2-oxidoreductase [c];1.0;high;1.0;0.0;1.1145541263240668
+836;(2E)-3-(3-hydroxyphenyl)prop-2-enoate,NADH:oxygen oxidoreductase (2-hydroxylating) [c];0.0;low;1.0;0.0;
+837;5'-Phosphoribosylformylglycinamide:L-glutamine amido-ligase (ADP-forming) [c];0.0;low;1.0;0.0;
+838;anteisoheptadecanoyl-phosphatidylserine decarboxylase [c];0.0;low;1.0;0.0;
+839;S-aminomethyldihydrolipoylprotein:(6S)-tetrahydrofolate aminomethyltransferase (ammonia-forming) [c];116.81818;moderate;1.0;0.0;0.4142101352341109
+840;CMP-3-deoxy-D-manno-oct-2-ulosonate:(KDO)-lipid IVA 3-deoxy-D-manno-oct-2-ulosonate transferase [c];0.0;moderate;0.0;0.0;0.3976012344434456
+841;ATP:D-glucose 6-phosphotransferase [c];-1.0;high;0.0;1.0;1.0444127251408413
+842;trehalose transport via PEP:Pyr PTS [c];-1.0;moderate;0.0;1.0;0.0772462869039078
+843;Lysophospholipase L1 (2-acylglycerophosphoethanolamine, n-C18:0) (periplasm) [c];0.0;low;1.0;0.0;
+844;D-glucose-6-phosphate aldose-ketose-isomerase [c];-2.0;moderate;0.0;1.0;0.1993689913421848
+845;RXN0-6974.c [c];0.0;moderate;0.0;0.0;0.4029379144930443
+846;L-aspartate 1-carboxy-lyase (beta-alanine-forming) [c];0.0;low;1.0;0.0;
+847;TRANS-RXNBWI-115637.ce.maizeexp.GLT_GLT [c];1.0;moderate;1.0;0.0;0.1867648744185238
+848;Deoxyadenosine:orthophosphate ribosyltransferase [c];-1.0;moderate;0.0;1.0;0.9850810312058436
+849;L-Leucine:2-oxoglutarate aminotransferase [c];0.0;moderate;0.0;0.0;0.1164336739075209
+850;Hexadecanoyl-[acyl-carrier protein]:malonyl-CoA C-acyltransferase(decarboxylating, oxoacyl- and enoyl-reducing) [c];0.0;low;1.0;0.0;
+851;4-(2-carboxyphenyl)-4-oxobutanoyl-CoA dehydratase (cyclizing) [c];0.0;high;0.0;0.0;1.0259921110176964
+852;4-methyl-3-hydroxy-hexanoyl-ACP hydro-lyase [c];0.0;moderate;0.0;0.0;0.1172338659109856
+853;4-aminobutanal:NAD+ 1-oxidoreductase [c];0.0;low;1.0;0.0;
+854;acyl-coenzyme A ligase [c];0.0;low;1.0;0.0;
+855;Tetradecanoyl-[acyl-carrier protein]:malonyl-CoA C-acyltransferase(decarboxylating, oxoacyl- and enoyl-reducing) [c];0.0;low;1.0;0.0;
+856;Crotono-betaine ABC transport [c];0.0;high;0.0;0.0;1.2004691145508488
+857;TRANS-RXN-141.ce [c];0.0;high;0.0;0.0;1.0566126502594884
+858;isohexadecanoyl-lipoteichoic acid synthesis (n=24), linked, glucose substituted [c];0.0;high;0.0;0.0;1.1015221062842442
+859;Lysophospholipase L1 (2-acylglycerophosphoethanolamine, n-C14:1) (periplasm) [c];0.0;low;1.0;0.0;
+860;2'-Deoxyadenosine 5'-monophosphate phosphohydrolase [c];0.0;low;1.0;0.0;
+861;(R)-Pantoate:NADP+ 2-oxidoreductase [c];0.0;high;0.0;0.0;1.0106462245565302
+862;sulfate transport in via proton symport [c];1.0;high;1.0;0.0;1.0566126502594884
+863;ATP:NAD+ 2'-phosphotransferase [c];0.0;low;1.0;0.0;
+864;isocitrate hydro-lyase (cis-aconitate-forming) [c];-2.0;high;0.0;1.0;1.0712371566436294
+865;Acetyl-CoA:D-glucosamine-1-phosphate N-acetyltransferase [c];0.0;moderate;0.0;0.0;0.1912639966833602
+866;14-methyl-trans-hexa-dec-2-enoyl-ACP:NAD+ oxidoreductase (A-specific) [c];0.0;low;1.0;0.0;
+867;S-adenosylmethioninamine:putrescine 3-aminopropyltransferase [c];0.0;low;1.0;0.0;
+868;Deoxyguanosine:orthophosphate ribosyltransferase [c];0.0;moderate;0.0;0.0;0.9850810312058436
+869;stearoyl-lipoteichoic acid synthesis (n=24), linked, N-acetylglucosamine substituted [c];0.0;high;0.0;0.0;1.0579979408010238
+870;FACOAL150(ISO) [c];0.0;low;1.0;0.0;
+871;R02508 [c];0.0;low;1.0;0.0;
+872;S-Adenosyl-L-methionine:uroporphyrin-III C-methyltransferase [c];0.0;;;;
+873;7,8-Diaminononanoate:carbon-dioxide cyclo-ligase [c];0.0;low;1.0;0.0;
+874;isopentadecanoyl-phosphatidate cytidylyltransferase [c];0.0;low;1.0;0.0;
+875;"L-cystathionine cysteine-lyase (deaminating; 2-oxobutanoate-forming) [c]";0.0;high;0.0;0.0;1.025955778056246
+876;(S)-3-hydroxy-3-methylglutaryl-CoA acetoacetate-lyase (acetyl-CoA-forming) [c];0.0;moderate;0.0;0.0;0.0961581284912735
+877;anteisoheptadecanoyl-CDPdiacylglycerol:sn-glycerol-3-phosphate 3-phosphatidyltransferase [c];0.0;low;1.0;0.0;
+878;(S)-3-hydroxydodecanoyl-CoA:NAD+ oxidoreductase [c];0.0;high;0.0;0.0;1.3645114190594982
+879;L-threonine acetaldehyde-lyase (glycine-forming) [c];0.0;low;1.0;0.0;
+880;Cytidine aminohydrolase [c];0.0;low;1.0;0.0;
+881;D-alanine:D-alanine ligase (ADP-forming) [c];0.0;low;1.0;0.0;
+882;GTP diphosphohydrolase (diphosphate-forming) [c];1.0;moderate;1.0;0.0;0.8170763302387419
+883;Phosphatidylserine decarboxylase (n-C14:1) [c];0.0;low;1.0;0.0;
+884;2'-Deoxyguanosine 5'-diphosphate:oxidized-thioredoxin 2'-oxidoreductase [c];0.0;low;1.0;0.0;
+885;Phosphatidylglycerol synthase (n-C14:0) [c];0.0;low;1.0;0.0;
+886;S-Adenosyl-L-homocysteine hydrolase [c];0.0;low;1.0;0.0;
+887;dTDP-6-deoxy-L-mannose:NADP+ 4-oxidoreductase [c];0.0;low;1.0;0.0;
+888;Sedoheptulose-7-phosphate:D-glyceraldehyde-3-phosphate glycolaldehyde transferase [c];-1.0;moderate;0.0;1.0;0.6454215919948814
+889;S-Formylglutathione hydrolase [c];-3.2003835e-13;high;0.0;0.0;1.088650629027489
+890;Dihydrolipoamide:NAD+ oxidoreductase [c];872.18182;high;1.0;0.0;1.0653648559494668
+891;(3R)-3-Hydroxypalmitoyl-[acyl-carrier-protein] hydro-lyase [c];0.0;moderate;0.0;0.0;0.1172338659109856
+892;ATP:thiamin-phosphate phosphotransferase [c];0.0;moderate;0.0;0.0;0.6321074302951927
+893;Succinate:(acceptor) oxidoreductase [c];1.0;high;1.0;0.0;1.1127416630843
+894;Glycerol:NAD+ oxidoreductase [c];0.0;low;1.0;0.0;
+895;glycerol-3-phosphate acyltransferase (C16:1) [c];0.0;low;1.0;0.0;
+896;thiosulfate transport via ABC system [c];1.0;high;1.0;0.0;1.0299644488139432
+897;Lysophospholipase L1 (2-acylglycerophosphoglycerol, n-C14:0) (periplasm) [c];0.0;low;1.0;0.0;
+898;D-erythro-1-(Imidazol-4-yl)glycerol 3-phosphate hydro-lyase [c];0.0;moderate;0.0;0.0;0.0347881459338014
+899;ATP:D-Gluconate 6-phosphotransferase [c];0.0;low;1.0;0.0;
+900;isohexadecanoyl-lipoteichoic acid synthesis (n=24), linked, N-acetylglucosamine substituted [c];0.0;high;0.0;0.0;1.0579979408010238
+901;L-Citrulline:L-aspartate ligase (AMP-forming) [c];1.0;high;1.0;0.0;1.212159844859327
+902;5,10-Methylenetetrahydrofolate:3-methyl-2-oxobutanoate hydroxymethyltransferase [c];0.0;low;1.0;0.0;
+903;Lysophospholipase L2 (2-acylglycerophosphotidate, n-C14:1) [c];0.0;low;1.0;0.0;
+904;(S)-3-Hydroxybutanoyl-CoA 3-epimerase [c];1.0;high;1.0;0.0;1.1114168912958515
+905;murein D,D-endopeptidase (murein4px4px4p) (periplasm) [c];0.0;low;1.0;0.0;
+906;ATP:FMN adenylyltransferase [c];0.0;low;1.0;0.0;
+907;beta-glucosidase [c];0.0;high;0.0;0.0;1.1510428526676064
+908;2'-Deoxycytidine diphosphate:oxidized-thioredoxin 2'-oxidoreductase [c];0.0;low;1.0;0.0;
+909;murein D,D-carboxypeptidase (murein5px4p) (periplasm) [c];0.0;low;1.0;0.0;
+910;diacylglycerol kinase (n-C12:0) [c];0.0;moderate;0.0;0.0;0.1463420475613635
+911;nonpolar-amino-acid-transporting ATPase [c];0.0;low;1.0;0.0;
+912;isoheptadecanoyl-CDPdiacylglycerol:sn-glycerol-3-phosphate 3-phosphatidyltransferase [c];0.0;low;1.0;0.0;
+913;dihydrofolate:NADP+ oxidoreductase [c];0.0;low;1.0;0.0;
+914;O-Acetyl-L-homoserine succinate-lyase (adding cysteine) [c];0.0;low;1.0;0.0;
+915;Biotin ABC transporter [c];0.0;high;0.0;0.0;1.133024817921393
+916;N2-succinyl-L-arginine iminohydrolase (decarboxylating) [c];0.0;low;1.0;0.0;
+917;4-methyl-trans-hex-2-enoyl-ACP:NAD+ oxidoreductase (A-specific) [c];0.0;low;1.0;0.0;
+918;Tetradecanoyl-[acyl-carrier protein]:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating) [c];0.0;moderate;0.0;0.0;0.6920181288816155
+919;(S)-3-Hydroxytetradecanoyl-CoA hydro-lyase [c];0.0;low;1.0;0.0;
+920;2'-Deoxyuridine 5'-monophosphate phosphohydrolase [c];0.0;low;1.0;0.0;
+921;methionyl aminopeptidase [c];0.0;moderate;0.0;0.0;0.4029379144930443
+922;4-Maleylacetoacetate cis-trans-isomerase [c];3.0;moderate;1.0;0.0;0.7287148314114692
+923;6-methyl-3-oxo-heptanoyl-ACP:NADP+ oxidoreductase [c];0.0;low;1.0;0.0;
+924;L-aspartate:oxygen oxidoreductase [c];0.0;moderate;0.0;0.0;0.8457270081610712
+925;Xanthosine:orthophosphate ribosyltransferase [c];0.0;moderate;0.0;0.0;0.9850810312058436
+926;R05551 [c];0.0;low;1.0;0.0;
+927;L-Glutamate:NADP+ oxidoreductase (transaminating) [c];0.0;low;1.0;0.0;
+928;ATP:UMP phosphotransferase [c];3.0;moderate;1.0;0.0;0.6663562075771687
+929;ATP:uridine 5'-phosphotransferase [c];0.0;low;1.0;0.0;
+930;R07601 [c];0.0;low;1.0;0.0;
+931;ATP diphosphohydrolase (diphosphate-forming) [c];1.0;moderate;1.0;0.0;0.8170763302387419
+932;(R,R)-tartrate carboxy-lyase (D-glycerate-forming) [c];0.0;moderate;0.0;0.0;0.0838765202504649
+933;glycerol-3-phosphate acyltransferase (C16:0) [c];0.0;low;1.0;0.0;
+934;8-methyl-trans-non-2-enoyl-ACP:NAD+ oxidoreductase (A-specific) [c];0.0;low;1.0;0.0;
+935;Geranyl-diphosphate:isopentenyl-diphosphate geranyltrans-transferase [c];0.0;low;1.0;0.0;
+936;Vitamin ABC transport [c];0.0;moderate;0.0;0.0;0.0804006163065216
+937;Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)- [c];0.0;moderate;0.0;0.0;0.72725114796525
+938;dCTP:uridine 5'-phosphotransferase [c];0.0;low;1.0;0.0;
+939;citrate hydro-lyase (cis-aconitate-forming) [c];2.0;high;1.0;0.0;1.0712371566436294
+940;3-(3-hydroxyphenyl)propanoate,NADH:oxygen oxidoreductase (2-hydroxylating) [c];0.0;low;1.0;0.0;
+941;UDP-glucose:D-glucose-6-phosphate 1-alpha-D-glucosyltransferase [c];1.0;moderate;1.0;0.0;0.5131090868402126
+942;L-Allothreonine acetaldehyde-lyase [c];0.0;low;1.0;0.0;
+943;ATP:glycerone phosphotransferase [c];0.0;low;1.0;0.0;
+944;UDP-N-acetylmuramoyl-L-alanine:D-glutamate ligase(ADP-forming) [c];0.0;high;0.0;0.0;1.002728010885613
+945;1,4-alpha-glucan-branching enzyme [c];0.0;low;1.0;0.0;
+946;Phosphatidylserine decarboxylase (n-C18:1) [c];0.0;low;1.0;0.0;
+947;UDP-N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine:undecaprenyl-phosphate phospho-N-acetylmuramoyl-pentapeptide-transferase [c];0.0;moderate;0.0;0.0;0.9056369821224096
+948;Guanine aminohydrolase [c];1.0;high;1.0;0.0;1.141471310509227
+949;dUTP:uridine 5'-phosphotransferase [c];2.0;low;0.0;0.0;
+950;D-glucose 1-epimerase [c];-1.0;moderate;0.0;1.0;0.1856231695960603
+951;Uroporphyrinogen-III carboxy-lyase [c];0.0;high;0.0;0.0;1.117201245006666
+952;Peptidoglycan subunit synthesis [c];0.0;low;1.0;0.0;
+953;ATP:CDP phosphotransferase [c];1.0;high;1.0;0.0;1.1253177243083452
+954;O-Succinylbenzoate:CoA ligase (AMP-forming) [c];0.0;moderate;0.0;0.0;0.6981646324390726
+955;acyl-[acyl-carrier-protein] synthetase  (n-C14:1) [c];0.0;low;1.0;0.0;
+956;chorismate hydroxymutase [c];0.0;high;0.0;0.0;1.0593891903607031
+957;Lysophospholipase L2 (2-acylglycerophosphoethanolamine, n-C16:1) [c];0.0;low;1.0;0.0;
+958;mRNA synthesis;0.0;low;1.0;0.0;
+959;dATP:pyruvate 2-O-phosphotransferase [c];0.0;low;1.0;0.0;
+960;ATP:pantothenate 4'-phosphotransferase [c];0.0;moderate;0.0;0.0;0.8369864046210226
+961;5-oxopent-3-ene-1,2,5-tricarboxylate carboxy-lyase [c];0.0;moderate;0.0;0.0;0.6624121773192764
+962;2'-Deoxyinosine-5'-triphosphate pyrophosphohydrolase [c];0.0;moderate;0.0;0.0;0.4673437517167507
+963;undecaprenyl-diphosphate phosphohydrolase [c];0.0;moderate;0.0;0.0;0.6233683321483787
+964;Deoxyinosine:orthophosphate ribosyltransferase [c];1.0;moderate;1.0;0.0;0.9850810312058436
+965;acyl-CoA dehydrogenase (dodecanoyl-CoA) [c];-1.0;moderate;0.0;1.0;0.5276378124934911
+966;(1R,6R)-6-hydroxy-2-succinylcyclohexa-2,4-diene-1-carboxylate hydrolyase (2-succinylbenzoate-forming) [c];0.0;low;1.0;0.0;
+967;adenylate kinase (Inorganic triphosphate) [c];23.0;high;1.0;0.0;1.0352504054927616
+968;Palmitoyl-CoA:oxygen 2-oxidoreductase [c];1.0;moderate;1.0;0.0;0.5276378124934911
+969;glutamate racemase [c];0.0;low;1.0;0.0;
+970;ATP:dIDP phosphotransferase [c];0.0;high;0.0;0.0;1.1253177243083452
+971;Hexanoyl-[acyl-carrier protein]:malonyl-CoA C-acyltransferase(decarboxylating, oxoacyl- and enoyl-reducing) [c];0.0;low;1.0;0.0;
+972;5-amino-1-(5-phospho-D-ribosyl)imidazole:carbon-dioxide ligase (ADP-forming) [c];0.0;low;1.0;0.0;
+973;3-aminopropanal:NAD+ oxidoreductase [c];0.0;low;1.0;0.0;
+974;arsenite transp or ter via unip or t [c];0.0;high;0.0;0.0;1.0383300569582234
+975;UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminoheptanedioate:D-alanyl-D-alanine ligase(ADP-forming) [c];0.0;moderate;0.0;0.0;0.3440921456452666
+976;Hexanoyl-CoA:(acceptor) 2,3-oxidoreductase [c];1.0;moderate;1.0;0.0;0.5276378124934911
+977;Lysophospholipase L1 (2-acylglycerophosphotidate, n-C16:1) (periplasm) [c];0.0;low;1.0;0.0;
+978;4-Nitrophenyl phosphate phosphohydrolase [c];0.0;low;1.0;0.0;
+979;N6-(L-1,3-Dicarboxypropyl)-L-lysine:NAD+ oxidoreductase [c];0.0;high;0.0;0.0;1.2104327393307783
+980;L-Asparagine amidohydrolase [c];1.0;high;1.0;0.0;1.0476610764493457
+981;acetyl-CoA:oxaloacetate C-acetyltransferase (thioester-hydrolysing) [c];-2.0;moderate;0.0;1.0;0.6043453435202841
+982;(S)-dihydroorotate:quinone oxidoreductase [c];0.0;low;1.0;0.0;
+983;10-Formyltetrahydrofolate:5'-phosphoribosylglycinamide formyltransferase [c];0.0;low;1.0;0.0;
+984;isoheptadecanoyl-phosphatidylserine decarboxylase [c];0.0;low;1.0;0.0;
+985;deamido-NAD+:ammonia ligase (AMP-forming) [c];1.0;high;1.0;0.0;1.0393862367974311
+986;Maltodextrin phosphorylase (maltohexaose) [c];0.0;low;1.0;0.0;
+987;(R)-3-Hydroxytetradecanoly-[acyl-carrier-protein]:UDP-N-acetyl-glucosamine 3-O-(3-hydroxytetradecanoyl)transferase [c];0.0;low;1.0;0.0;
+988;3-hydroxyacyl-[acyl-carrier-protein] dehydratase (n-C14:1) [c];0.0;moderate;0.0;0.0;0.1172338659109856
+989;nonpolar-amino-acid-transporting ATPase [c];0.0;low;1.0;0.0;
+990;L-Aspartate ammonia-lyase [c];0.0;low;1.0;0.0;
+991;(S)-3-Hydroxybutanoyl-CoA hydro-lyase [c];0.0;low;1.0;0.0;
+992;8-methyl-3-oxo-decanoyl-ACP:NADP+ oxidoreductase [c];0.0;low;1.0;0.0;
+993;Deoxyadenosine aminohydrolase [c];1.0;moderate;1.0;0.0;0.4975946173147293
+994;R08557 [c];0.0;low;1.0;0.0;
+995;Nomega,Nomega'-dimethyl-L-arginine dimethylamidohydrolase [c];0.0;low;1.0;0.0;
+996;Acetamide amidohydrolase [c];0.0;low;1.0;0.0;
+997;4-methyl-3-oxo-hexanoyl-ACP:NADP+ oxidoreductase [c];0.0;low;1.0;0.0;
+998;6-Carboxyhexanoyl-CoA:L-alanine C-carboxyhexanoyltransferase (decarboxylating) [c];0.0;low;1.0;0.0;
+999;deoxyuridine:orthophosphate 2-deoxy-D-ribosyltransferase [c];0.0;high;0.0;0.0;1.006478319868326
+1000;(S)-1-pyrroline-5-carboxylate:NADP+ oxidoreductase [c];35.636364;moderate;1.0;0.0;0.6977998032307268
+1001;acyl-[acyl-carrier-protein] synthetase  (n-C10:0) [c];0.0;low;1.0;0.0;
+1002;enoyl-[acyl-carrier-protein] reductase (NADH) (n-C18:0) [c];0.0;low;1.0;0.0;
+1003;D-Glucosamine 1-phosphate 1,6-phosphomutase [c];0.0;high;0.0;0.0;1.0305469977558444
+1004;TRANS-RXN-187.ce [c];-1.0;moderate;0.0;1.0;0.0456563102962677
+1005;Succinyl-CoA:2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase [c];0.0;moderate;0.0;0.0;0.7001776698512728
+1006;Phosphatidylserine syntase (n-C14:1) [c];0.0;low;1.0;0.0;
+1007;hydrogen peroxide reductase (thioredoxin) [c];1.0;moderate;1.0;0.0;0.168393090083273
+1008;ATP:GMP phosphotransferase [c];-1.0;moderate;0.0;1.0;0.8527012222056509
+1009;R00621 [c];1.0;high;1.0;0.0;1.0692722367738767
+1010;GTP 8,9-hydrolase [c];0.0;low;1.0;0.0;
+1011;L-Ornithine:2-oxo-acid aminotransferase [c];36.636364;low;0.0;0.0;
+1012;(S)-Hydroxyhexanoyl-CoA hydro-lyase [c];0.0;low;1.0;0.0;
+1013;N-acetyl-L-glutamate-5-semialdehyde:NADP+ 5-oxidoreductase (phosphrylating) [c];-35.636364;high;0.0;1.0;1.156030188902052
+1014;Indole-3-acetamide amidohydrolase [c];0.0;low;1.0;0.0;
+1015;UDP-2,3-bis[(3R)-3-hydroxymyristoyl]-alpha-D-glucosamine 2,3-bis[(3R)-3-hydroxymyristoyl]-beta-D-glucosaminyl 1-phosphate phosphohydrolase [c];0.0;high;0.0;0.0;1.017914069361959
+1016;(R)-Pantoate:beta-alanine ligase (AMP-forming) [c];0.0;low;1.0;0.0;
+1017;Propane-1,3-diol:NAD+ 1-oxidoreductase [c];0.0;low;1.0;0.0;
+1018;L-Glutamate 5-semialdehyde:NAD+ oxidoreductase [c];1.0;moderate;1.0;0.0;0.6977998032307268
+1019;hydrogen-sulfide:NADP+ oxidoreductase [c];-1.0;high;0.0;1.0;1.028098556014961
+1020;stearoyl-lipoteichoic acid synthesis (n=24), linked, glucose substituted [c];0.0;high;0.0;0.0;1.1015221062842442
+1021;RXN0-5228.c [c];0.0;low;1.0;0.0;
+1022;myristoyl-lipoteichoic acid synthesis (n=24), linked, N-acetylglucosamine substituted [c];0.0;high;0.0;0.0;1.0579979408010238
+1023;protein-dithiol:NADP+ oxidoreductase [c];0.0;moderate;0.0;0.0;0.1142243909858692
+1024;L-cysteate:2-oxoglutarate aminotransferase [c];0.0;low;1.0;0.0;
+1025;D-mannose 6-phosphate 1,6-phosphomutase [c];0.0;low;1.0;0.0;
+1026;Cystathionine L-homocysteine-lyase (deaminating) [c];0.0;low;1.0;0.0;
+1027;urea-1-carboxylate amidohydrolase [c];0.0;low;1.0;0.0;
+1028;1-(2-Carboxyphenylamino)-1-deoxy-D-ribulose-5-phosphate carboxy-lyase(cyclizing) [c];0.0;low;1.0;0.0;
+1029;anteisopentadecanoyl-cardiolipin synthase [c];0.0;;;;
+1030;4-amino-2-methyl-5-phosphomethylpyrimidine synthetase [c];0.0;high;0.0;0.0;1.122806969862871
+1031;isoheptadecanoyl-phosphatidate cytidylyltransferase [c];0.0;low;1.0;0.0;
+1032;trans-Octodec-2-enoyl-ACP:NAD+ oxidoreductase (A-specific) [c];0.0;low;1.0;0.0;
+1033;isotetradecanoyl-CDPdiacylglycerol:sn-glycerol-3-phosphate 3-phosphatidyltransferase [c];0.0;low;1.0;0.0;
+1034;Acetoacetyl-CoA:acetate CoA-transferase [c];1.0;moderate;1.0;0.0;0.5124047861592694
+1035;N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramyl-tetrapeptide amidase (periplasm) [c];0.0;low;1.0;0.0;
+1036;ditrans,dicis-pentaprenyl-diphosphate:isopentenyl-diphosphate pentaprenylcistransferase [c];0.0;low;1.0;0.0;
+1037;"L-serine hydro-lyase [adding 1-C-(indol-3-yl)glycerol 3-phosphate; L-tryptophan and glyceraldehyde-3-phosphate-forming] [c]";0.0;low;1.0;0.0;
+1038;Lysophospholipase L1 (2-acylglycerophosphoglycerol, n-C18:1) (periplasm) [c];0.0;low;1.0;0.0;
+1039;N-[(R)-4'-Phosphopantothenoyl]-L-cysteine carboxy-lyase [c];0.0;moderate;0.0;0.0;0.5354313608234286
+1040;dUTP nucleotidohydrolase [c];0.0;low;1.0;0.0;
+1041;Adenosine aminohydrolase [c];1.0;moderate;1.0;0.0;0.4975946173147293
+1042;CMP-3-deoxy-D-manno-oct-2-ulosonate:lipid IVA 3-deoxy-D-manno-oct-2-ulosonate transferase [c];0.0;moderate;0.0;0.0;0.3976012344434456
+1043;ATP:Sedoheptulose 7-phosphate 1-phosphotransferase [c];0.0;low;1.0;0.0;
+1044;isotetradecanoyl-Diacylglycerol kinase [c];0.0;moderate;0.0;0.0;0.1463420475613635
+1045;Lysophospholipase L1 (2-acylglycerophosphotidate, n-C14:0) (periplasm) [c];0.0;low;1.0;0.0;
+1046;L-tryptophan:oxygen 2,3-oxidoreductase (decyclizing) [c];0.0;low;1.0;0.0;
+1047;Phosphatidylglycerol synthase (n-C12:0) [c];0.0;low;1.0;0.0;
+1048;protoheme ferro-lyase (protoporphyrin-forming) [c];0.0;moderate;0.0;0.0;0.3964882270331201
+1049;ATP:dTMP phosphotransferase [c];1.0;low;0.0;0.0;
+1050;10-methyl-3-oxo-dodecanoyl-ACP:NADP+ oxidoreductase [c];0.0;low;1.0;0.0;
+1051;(3R)-3-Hydroxybutanoyl-[acyl-carrier-protein] hydro-lyase [c];0.0;moderate;0.0;0.0;0.1172338659109856
+1052;Lauroyl-CoA:acetyl-CoA C-acyltransferase [c];0.0;high;0.0;0.0;1.2417356207204766
+1053;S-adenosyl-L-methionine:(E)-prop-1-ene-1,2,3-tricarboxylate 2'-O-methyltransferase [c];0.0;moderate;0.0;0.0;0.0453019259017306
+1054;CDP-diacylglycerol synthetase (n-C14:0) [c];0.0;low;1.0;0.0;
+1055;12-methyl-3-oxo-tridecanoyl-ACP:NADP+ oxidoreductase [c];0.0;low;1.0;0.0;
+1056;Pyridoxine 5-phosphate:oxygen oxidoreductase [c];0.0;low;1.0;0.0;
+1057;(R)-S-Lactoylglutathione hydrolase [c];0.0;low;1.0;0.0;
+1058;5-amino-6-(5-phosphoribitylamino)uracil:NADP+ 1'-oxidoreductase [c];0.0;moderate;0.0;0.0;0.2610180660405382
+1059;(S)-hydroxyoctanoyl-CoA:NAD+ oxidoreductase [c];0.0;high;0.0;0.0;1.3645114190594982
+1060;4-carboxymethylbut-3-en-4-olide enol-lactonohydrolase [c];0.0;low;1.0;0.0;
+1061;D-glucose-6-phosphate:NADP+ 1-oxidoreductase [c];0.0;moderate;0.0;0.0;0.0074186052256372
+1062;methionyl aminopeptidase [c];0.0;moderate;0.0;0.0;0.4029379144930443
+1063;Acetyl-CoA:glycine C-acetyltransferase [c];0.0;high;0.0;0.0;1.0591431160581168
+1064;isotetradecanoyl-lipoteichoic acid synthesis (n=24), linked, N-acetylglucosamine substituted [c];0.0;high;0.0;0.0;1.0579979408010238
+1065;2,3,4,5-Tetrahydrodipicolinate:NADP+ oxidoreductase [c];0.0;low;1.0;0.0;
+1066;polyphosphate kinase [c];23.0;low;0.0;0.0;
+1067;ITP:uridine 5'-phosphotransferase [c];0.0;low;1.0;0.0;
+1068;Carbamoyl-phosphate:L-ornithine carbamoyltransferase [c];0.0;high;0.0;0.0;1.2120369559081934
+1069;(S)-2-methylbutanoyl-CoA:enzyme N6-(dihydrolipoyl)lysine S-(2-methylbutanoyl)transferase [c];0.0;low;1.0;0.0;
+1070;Lysophospholipase L2 (2-acylglycerophosphoglycerol, n-C16:1) [c];0.0;low;1.0;0.0;
+1071;fatty-acid--CoA ligase (octadecenoate) [c];0.0;low;1.0;0.0;
+1072;Phosphatidylserine syntase (n-C16:0) [c];0.0;low;1.0;0.0;
+1073;R03758 [c];0.0;low;1.0;0.0;
+1074;5-methyl-trans-hex-2-enoyl-ACP:NAD+ oxidoreductase (A-specific) [c];0.0;low;1.0;0.0;
+1075;RXN0-5107.c [c];1.0;moderate;1.0;0.0;0.8170763302387419
+1076;ferrocytochrome-c:hydrogen-peroxide oxidoreductase [c];164.31818;low;0.0;0.0;
+1077;acetyl-CoA:2-oxoglutarate C-acetyltransferase (thioester-hydrolysing, carboxymethyl forming) [c];0.0;low;1.0;0.0;
+1078;diacylglycerol kinase (n-C14:0) [c];0.0;moderate;0.0;0.0;0.1463420475613635
+1079;TRANS-RXNBWI-115637.ce.maizeexp.PRO_PRO [c];0.0;low;1.0;0.0;
+1080;3-Phosphoserine:2-oxoglutarate aminotransferase [c];-1.0;moderate;0.0;1.0;0.8768826239177767
+1081;7,8-dihydropteroate:L-glutamate ligase (ADP-forming) [c];0.0;low;1.0;0.0;
+1082;D-glucose:NADP+ 1-oxidoreductase [c];1.0;high;1.0;0.0;1.0566126502594884
+1083;5,6,7,8-tetrahydrofolate:NADP+ oxidoreductase [c];0.0;low;1.0;0.0;
+1084;Phosphatidylglycerol synthase (n-C16:1) [c];0.0;low;1.0;0.0;
+1085;2'-Deoxyuridine 5'-diphosphate:oxidized-thioredoxin 2'-oxidoreductase [c];0.0;low;1.0;0.0;
+1086;Tetrahydrofolate:L-glutamate gamma-ligase (ADP-forming) [c];0.0;low;1.0;0.0;
+1087;Amylomaltase (maltohexaose) [c];0.0;low;1.0;0.0;
+1088;D-Glyceraldehyde:NAD+ oxidoreductase [c];0.0;low;1.0;0.0;
+1089;NADPH:oxidized-thioredoxin oxidoreductase [c];-1.0;moderate;0.0;1.0;0.0220486381645421
+1090;N-Succinyl-LL-2,6-diaminoheptanedioate amidohydrolase [c];0.0;moderate;0.0;0.0;0.7913575443014719
+1091;ATP:UDP phosphotransferase [c];4.0;high;1.0;0.0;1.1253177243083452
+1092;Octanoyl-[acyl-carrier protein]:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating) [c];0.0;moderate;0.0;0.0;0.6920181288816155
+1093;5,10-Methylenetetrahydrofolate:dUMP C-methyltransferase [c];0.0;moderate;0.0;0.0;0.945863774931748
+1094;acetyl-CoA:glyoxylate C-acetyltransferase (thioester-hydrolysing, carboxymethyl-forming) [c];-2.0;high;0.0;1.0;1.14288527829475
+1095;acyl-coenzyme A ligase [c];0.0;low;1.0;0.0;
+1096;O-Phospho-4-hydroxy-L-threonine:2-oxoglutarate aminotransferase [c];0.0;moderate;0.0;0.0;0.8768826239177767
+1097;4-(phosphonooxy)threonine:NAD oxidoreductase [c];0.0;low;1.0;0.0;
+1098;L-Phenylalanine:2-oxoglutarate aminotransferase [c];0.0;low;1.0;0.0;
+1099;diacylglycerol kinase (n-C16:1) [c];0.0;moderate;0.0;0.0;0.1463420475613635
+1100;(R)-S-Lactoylglutathione methylglyoxal-lyase (isomerizing) [c];2.9868718e-13;moderate;0.0;0.0;0.624169912132539
+1101;UTP:N-acetyl-alpha-D-glucosamine-1-phosphate uridylyltransferase [c];0.0;moderate;0.0;0.0;0.1912639966833602
+1102;Palmitoyl-CoA:L-serine C-palmitoyltransferase (decarboxylating) [c];0.0;high;0.0;0.0;1.067882425617052
+1103;CTP diphosphohydrolase (diphosphate-forming) [c];2.0;moderate;1.0;0.0;0.8170763302387419
+1104;ditrans,pentacis-octaprenyl-diphosphate:isopentenyl-diphosphate octaprenylcistransferase [c];0.0;low;1.0;0.0;
+1105;ATP:dADP phosphotransferase [c];2.0;high;1.0;0.0;1.1253177243083452
+1106;3-oxo-glutaryl-[acp] methyl ester reductase [c];0.0;low;1.0;0.0;
+1107;Ferredoxin:NADP+ oxidoreductase [c];0.0;low;1.0;0.0;
+1108;[c];0.0;high;0.0;0.0;1.0346720016083917
+1109;thiazole synthase [c];0.0;moderate;0.0;0.0;0.8563712041563705
+1110;2,5-diamino-6-(5-phospho-D-ribitylamino)pyrimidin-4(3H)-one:NAD+ 1'-oxidoreductase [c];0.0;high;0.0;0.0;1.029371608765576
+1111;[c];0.0;moderate;0.0;0.0;0.5336239398573442
+1112;molybdenum cofactor cytidylyltransferase [c];0.0;low;1.0;0.0;
+1113;3-oxo-glutaryl-[acp] methyl ester synthase [c];0.0;moderate;0.0;0.0;0.6920181288816155
+1114;3-oxo-pimeloyl-[acp] methyl ester reductase [c];0.0;low;1.0;0.0;
+1115;ATP:[ThiS] adenylyltransferase [c];0.0;;;;
+1116;thiamine-phosphate diphosphorylase [c];0.0;high;0.0;0.0;1.037978490786371
+1117;pyruvate:NAD+ 2-oxidoreductase (CoA-acetylating) [c];0.0;low;1.0;0.0;
+1118;ATP:cob(I)alamin Co-beta-adenosyltransferase [c];0.0;moderate;0.0;0.0;0.5336239398573442
+1119;S-methyl-5'-thioadenosine amidohydrolase [c];0.0;low;1.0;0.0;
+1120;O-Succinyl-L-homoserine succinate-lyase (adding cysteine) [c];0.0;low;1.0;0.0;
+1121;N-acetyl-L-citrulline amidohydrolase [c];0.0;high;0.0;0.0;1.2268237198425267
+1122;ATP:alpha-D-glucose 6-phosphotransferase [c];1.0;high;1.0;0.0;1.0444127251408413
+1123;R07412 [c];0.0;low;1.0;0.0;
+1124;Nitrate reductase cytochrome-c type (2 protons translocated) [c];0.0;;;;
+1125;cytochrome-bd oxidase (2 protons translocated) [c];11.0;high;1.0;0.0;1.1304842885098532
+1126;cytochrome oxidase cbb3 (Ubiquinol-8: 2 protons) [c];0.0;low;1.0;0.0;
+1127;ATP phosphohydrolase (disaccharide-importing) [c];0.0;high;0.0;0.0;1.092863923522967
+1128;Adenosylcobalamin transport via ABC system (periplasm) [c];0.0;moderate;0.0;0.0;0.0804006163065216
+1129;D-alanyl-D-alanine (DalaDala) transport via ABC system (periplasm) [c];0.0;low;1.0;0.0;
+1130;NAD(P) transhydrogenase (periplasm) [c];0.0;low;1.0;0.0;
+1131;K(+)-importing ATPase [c];0.0;low;1.0;0.0;
+1132;ABC-5-RXN.cp [c];0.0;moderate;0.0;0.0;0.0804006163065216
+1133;F(1)-ATPase [c];0.0;low;1.0;0.0;
+1134;maltohexaose transport via ABC system (periplasm) [c];0.0;low;1.0;0.0;
+1135;hydrogenase (ubiquinone-8: 2 protons) (periplasm) [c];1.0;high;1.0;0.0;1.209555285095235
+1136;Nitrate reductase (Menaquinol-8) (periplasm) [c];0.0;;;;
+1137;cytochrome-bd reductase (ubiquinol: 2 protons) [c];9.0;high;1.0;0.0;1.1304842885098532
+1138;cytochrome oxidase cbb3 (Ubiquinol-8: 2 protons) [c];0.0;low;1.0;0.0;
+1139;cytochrome-bd reductase (menaquinol: 2 protons) [c];2.0;high;1.0;0.0;1.1304842885098532
+1140;Nitrate reductase (Ubiquinol-8) (periplasm) [c];0.0;;;;
+1141;cytochrome-c oxidase (2 protons translocated) [c];-164.31818;high;0.0;1.0;1.0481164723333751
+1142;thiamin phosphate synthase [c];0.0;high;0.0;0.0;1.037978490786371
+1143;[c];0.0;moderate;0.0;0.0;0.1066702346609172
+1144;adenylyltransferase and sulfurtransferase MOCS3 [c];0.0;moderate;0.0;0.0;0.329713457543122
+1145;glycine oxidase [c];0.0;low;1.0;0.0;
+1146;RXN-11481.c [c];0.0;moderate;0.0;0.0;0.1172338659109856
+1147;2,3,4,5-tetrahydrodipicolinate:NADP+ 4-oxidoreductase [c];0.0;low;1.0;0.0;
+1148;2-(2-carboxy-4-methylthiazol-5-yl)ethyl phosphate isomerase [c];0.0;low;1.0;0.0;
+1149;adenylyl-molybdopterin:molybdate molybdate transferase (AMP-forming) [c];0.0;low;1.0;0.0;
+1150;[c];0.0;low;1.0;0.0;
+1151;2,5-diamino-6-ribitylamino-4(3H)-pyrimidinone 5'-phosphate deaminase [c];0.0;moderate;0.0;0.0;0.2610180660405382
+1152;RXN-11484.c [c];0.0;low;1.0;0.0;
+1153;2,3,4,5-tetrahydrodipicolinate:NAD+ 4-oxidoreductase [c];0.0;low;1.0;0.0;
+1154;RXN-11477.c [c];0.0;moderate;0.0;0.0;0.1172338659109856
+1155;L-lysine:8-amino-7-oxononanoate aminotransferase [c];0.0;moderate;0.0;0.0;0.8270818008676171
+1156;thiocarboxylated molybdopterin synthase:cyclic pyranopterin monophosphate sulfurtransferase [c];0.0;moderate;0.0;0.0;0.1066702346609172
+1157;MobA [c];0.0;low;1.0;0.0;
+1158;[c];0.0;low;1.0;0.0;
+1159;[c];0.0;high;0.0;0.0;1.1957634559623151
+1160;7-aminomethyl-7-carbaguanine:NADP+ oxidoreductase [c];0.0;high;0.0;0.0;1.0016595820551095
+1161;"L-serine hydro-lyase (adding homocysteine; L-cystathionine-forming) [c]";0.0;moderate;0.0;0.0;0.791274106781563
+1162;RXN-721.d [c];0.0;low;1.0;0.0;
+1163;proline oxidase [c];4.0;high;1.0;0.0;1.1328847608934438
+1164;protoporphyrinogen oxidase [c];0.0;moderate;0.0;0.0;0.5564185755261952
+1165;adenylyl-sulfate reductase (thioredoxin) [c];0.0;high;0.0;0.0;1.1188071244522702
+1166;(2E,6E)-farnesyl-diphosphate:isopentenyl-diphosphate farnesyltranstransferase (adding 5 isopentenyl units) [c];0.0;high;0.0;0.0;1.0722930193361673
+1167;4,4'-diapophytoene:FAD oxidoreductase [c];0.0;high;0.0;0.0;1.0308241900243391
+1168;4,4'-diapophytoene:FAD oxidoreductase [c];0.0;high;0.0;0.0;1.0308241900243391
+1169;4,4'-diapophytoene:FAD oxidoreductase [c];0.0;high;0.0;0.0;1.0308241900243391
+1170;4,4'-diapophytoene:FAD oxidoreductase [c];0.0;high;0.0;0.0;1.0308241900243391
+1171;RXN-9996.c [c];0.0;low;1.0;0.0;
+1172;L-proline transport via diffusion (extracellular to periplasm) [c];0.0;low;1.0;0.0;
+1173;cobalt (Co+2) transport via diffusion (extracellular to periplasm) [c];0.0;moderate;0.0;0.0;0.615314594544332
+1174;chloride (Cl-1) transport via diffusion (extracellular to periplasm) [c];0.0;low;1.0;0.0;
+1175;Geranoyl-CoA:carbon-dioxide ligase (ADP-forming) [c];0.0;low;1.0;0.0;
+1176;Mercury (Hg+2) ABC transporter (periplasm) [c];0.0;low;1.0;0.0;
+1177;octanoyl:GcvH transferase [c];0.0;moderate;0.0;0.0;0.4045280154962657
+1178;RXN-3443.c [c];0.0;low;1.0;0.0;
+1179;D-galactose 1-epimerase [c];0.0;moderate;0.0;0.0;0.1856231695960603
+1180;Lactose galactohydrolase [c];1.0;moderate;1.0;0.0;0.4945861772423126
+1181;phosphoglucose mutase [c];-1.0;low;0.0;0.0;
+1182;reduced coenzyme F420:NADP+ oxidoreductase [c];0.0;low;1.0;0.0;
+1183;NADPH-thioredoxin reductase [c];0.0;moderate;0.0;0.0;0.0220486381645421
+1184;5,10-methylenetetrahydromethanopterin:glycine hydroxymethyltransferase [c];0.0;low;1.0;0.0;
+1185;7-carboxy-7-carbaguanine:ammonia ligase (ADP-forming) [c];0.0;moderate;0.0;0.0;0.1351478257688334
+1186;6-carboxy-5,6,7,8-tetrahydropterin ammonia-lyase [c];0.0;moderate;0.0;0.0;0.9746953735505
+1187;7,8-dihydroneopterin 3'-triphosphate acetaldehyde-lyase (6-carboxy-5,6,7,8-tetrahydropterin and triphosphate-forming) [c];0.0;high;0.0;0.0;1.0194657912575016
+1188;trans,trans,cis-geranylgeranyl-diphosphate:isopentenyl-diphosphate geranylgeranylcistransferase [c];0.0;low;1.0;0.0;
+1189;ditrans,hexacis-nonaprenyl-diphosphate:isopentenyl-diphosphate nonaprenylcistransferase [c];0.0;low;1.0;0.0;
+1190;TRANS-RXN-244.cp [c];0.0;moderate;0.0;0.0;0.4473897699208295
+1191;TRANS-RXN-242.cp [c];1.0;moderate;1.0;0.0;0.4473897699208295
+1192;RXN-11482.c [c];0.0;low;1.0;0.0;
+1193;"L-aspartate-4-semialdehyde hydro-lyase [adding pyruvate and cyclizing; (2S,4S)-4-hydroxy-2,3,4,5-tetrahydrodipicolinate-forming] [c]";0.0;low;1.0;0.0;
+1194;RXN-11478.c [c];0.0;low;1.0;0.0;
+1195;thiC (gene name) [c];0.0;high;0.0;0.0;1.122806969862871
+1196;biotin synthase [c];0.0;moderate;0.0;0.0;0.9117244381481768
+1197;3-hydroxypropionate:NADP+ oxidoreductase [c];0.0;low;1.0;0.0;
+1198;protoheme IX farnesyltransferase [c];0.0;low;1.0;0.0;
+1199;sulfide:quinone oxidoreductase [c];0.0;;;;
+1200;maltodextrin phosphorylase [c];0.0;low;1.0;0.0;
+1201;Flavodoxin--NADP(+) reductase [c];0.0;low;1.0;0.0;
+1202;Zn2+:proton symport [c];0.0;moderate;0.0;0.0;0.3054255465662612
+1203;cysteine:[ThiI sulfur-carrier protein]-L-cysteine sulfurtransferase desulfurase [c];0.0;low;1.0;0.0;
+1204;pyruvate reversible transport via proton symport [c];503.72727;;;;
+1205;carbamate hydro-lyase [c];0.0;;;;
+1206;R03314 [c];35.636364;;;;
+1207;Tetrathionate transport in via proton symport [c];0.0;;;;
+1208;R06605 [c];0.0;;;;
+1209;R07420 [c];0.0;;;;
+1210;R04175 [c];0.0;;;;
+1211;acetate reversible transport via proton symport [c];-32.636364;;;;
+1212;R04336 [c];0.0;;;;
+1213;R06063 [c];0.0;;;;
+1214;formate transport in via proton symport [c];0.0;;;;
+1215;R01652 [c];0.0;;;;
+1216;S-(hydroxymethyl)glutathione synthase [c];0.0;;;;
+1217;ATP aminohydrolase [c];1.0;;;;
+1218;TRANS-RXNAVI-26568.ce [c];513.5;;;;
+1219;R06064 [c];0.0;;;;
+1220;Methanol diffusion [c];0.0;;;;
+1221;CO2 transporter via diffusion [c];-1000.0;;;;
+1222;RXN-8243.c [c];0.0;;;;
+1223;Glycine oxidase;0.0;;;;
+1224;enterobactin Fe(III) binding (spontaneous) [e];-1000.0;;;;
+1225;ethanol transport via diffusion (extracellular to periplasm) [c];0.0;;;;
+1226;acetaldehyde transport via diffusion (extracellular to periplasm) [c];0.0;;;;
+1227;nitric oxide transport via diffusion (extracellular to periplasm) [c];0.0;;;;
+1228;hydrogen transport via diffusion (extracellular to periplasm) [c];-1.0;;;;
+1229;nitrious oxide transport via diffusion (extracellular to periplasm) [c];0.0;;;;
+1230;D-lactate transport via proton symport (periplasm) [c];22.0;;;;
+1231;h2s transport (periplasm) [c];235.63636;;;;
+1232;sulfite transport via diffusion (extracellular to periplasm) [c];1.0;;;;
+1233;thiosulfate transport via diffusion (extracellular to periplasm) [c];1.0;;;;
+1234;ATP hydrolysis;0.0;;;;
+1235;2-octaprenylphenol hydroxylase;0.0;;;;
+1236;R04467;0.0;;;;
+1237;Acetyl-CoA:L-2,3,4,5-tetrahydrodipicolinate N2-acetyltransferase;0.0;;;;
+1238;Pyridoxal transport;0.0;;;;
+1239;L-ornithine carboxy-lyase (putrescine-forming);0.0;;;;
+1240;stearyl-ACP:[acyl-carrier-protein] transferase;0.0;;;;
+1241;L-Methionine S-oxide transport via proton symport;-5.0;;;;
+1242;Fe2+:NAD+ oxidoreductase;0.0;;;;
+1243;calcium transport in/out via proton antiporter;0.0;;;;
+1244;4-hydroxybenzaldehyde:NAD+ oxidoreductase;0.0;;;;
+1245;R05614;0.0;;;;
+1246;R07280;0.0;;;;
+1247;Phospholipase A1 (phosphatidate, n-C18:0) (periplasm);0.0;;;;
+1248;spermidine transport via ABC system;0.0;;;;
+1249;N6-Acetyl-LL-2,6-diaminoheptanedioate amidohydrolase;0.0;;;;
+1250;glycolaldehyde:NAD+ oxidoreductase;0.0;;;;
+1251;2-octaprenyl-6-methoxyphenol hydroxylase;0.0;;;;
+1252;R05222;0.0;;;;
+1253;(S)-4-Amino-5-oxopentanoate:NADP+ 5-oxidoreductase;0.0;;;;
+1254;Pyridoxine:NADP+ 4-oxidoreductase;0.0;;;;
+1255;phosphatidylglycerol phosphate phosphatase (periplasm, n-C18:0);0.0;;;;
+1256;Uridine ribohydrolase;4.0;;;;
+1257;R06558;0.0;;;;
+1258;2-Octaprenyl-3-methyl-6-methoxy-1,4-benzoquinone ,NADPH2:oxygen oxidoreductase;0.0;;;;
+1259;all-trans-octaprenyl-diphosphate:4-hydroxybenzoate 3-octaprenyltransferase;0.0;;;;
+1260;R05223;0.0;;;;
+1261;thiazole phosphate synthesis;0.0;;;;
+1262;GPPSYN-RXN;0.0;;;;
+1263;manganese transport in via proton symport;0.0;;;;
+1264;ATP:L-glutamate 1-phosphotransferase;0.0;;;;
+1265;ATP:pyridoxine 5'-phosphotransferase;0.0;;;;
+1266;Glycolate oxidase;0.0;;;;
+1267;4-hydroxy-benzyl-alcohol dehydrogenase;0.0;;;;
+1268;3-octaprenyl-4-hydroxybenzoate carboxy-lyase;0.0;;;;
+1269;Nicotinate-nucleotide:dimethylbenzimidazole phospho-D-ribosyltransferase;0.0;;;;
+1270;S-adenosyl-L-methionine:3-(all-trans-octaprenyl)benzene-1,2-diol 2-O-methyltransferase;0.0;;;;
+1271;GramNegativeBiomass;0.0;;;;
+1272;Exchange for Maltose [e];0.0;;;;
+1273;Exchange for L-Histidine [e];0.0;;;;
+1274;Exchange for Cd2+ [e];0.0;;;;
+1275;Exchange for Ferrichrome [e];0.0;;;;
+1276;Exchange for Tetrathionate [e];0.0;;;;
+1277;Exchange for L-Methionine S-oxide [e];4.0;;;;
+1278;Exchange for BIOT [e];0.0;;;;
+1279;Exchange for L-Methionine [e];-4.0;;;;
+1280;Exchange for Mg [e];0.0;;;;
+1281;Exchange for Acetate [e];32.636364;;;;
+1282;Exchange for ARSENOBETAINE [e];0.0;;;;
+1283;Exchange for Cbl [e];0.0;;;;
+1284;Exchange for Cys-Gly [e];0.0;;;;
+1285;Exchange for Fumarate [e];0.0;;;;
+1286;Exchange for H2S [e];235.63636;;;;
+1287;Exchange for Sulfate [e];-2.0;;;;
+1288;Exchange for Pyridoxal [e];0.0;;;;
+1289;Exchange for Spermidine [e];0.0;;;;
+1290;Exchange for PPi [e];22.0;;;;
+1291;Exchange for D-Mannitol [e];0.0;;;;
+1292;Exchange for Pb [e];0.0;;;;
+1293;Exchange for L-Proline [e];0.0;;;;
+1294;Exchange for Glycerol-3-phosphate [e];0.0;;;;
+1295;Exchange for Ornithine [e];-1.0;;;;
+1296;Exchange for Salicin [e];0.0;;;;
+1297;Exchange for Phosphate [e];-44.0;;;;
+1298;Exchange for N-Acetyl-D-glucosamine [e];0.0;;;;
+1299;Exchange for Pyruvate [e];-503.72727;;;;
+1300;Exchange for Ethanol [e];0.0;;;;
+1301;Exchange for D-Methionine [e];0.0;;;;
+1302;Exchange for Hg2+ [e];0.0;;;;
+1303;Exchange for Vitamin B12 [e];0.0;;;;
+1304;Exchange for Butyrate [e];1.0;;;;
+1305;Exchange for L-Homoserine [e];1.0;;;;
+1306;Exchange for Na+ [e];0.0;;;;
+1307;Exchange for Acetaldehyde [e];0.0;;;;
+1308;Exchange for Molybdate [e];0.0;;;;
+1309;Exchange for L-methionine R-oxide [e];0.0;;;;
+1310;Exchange for Ursin [e];0.0;;;;
+1311;Exchange for Sucrose [e];0.0;;;;
+1312;Exchange for Dulcose [e];0.0;;;;
+1313;Exchange for BET [e];0.0;;;;
+1314;Exchange for L-Leucine [e];0.0;;;;
+1315;Exchange for H2O [e];0.0;;;;
+1316;Exchange for Sulfite [e];1.0;;;;
+1317;Exchange for H2 [e];-1.0;;;;
+1318;Exchange for L-Lysine [e];0.0;;;;
+1319;Exchange for K+ [e];0.0;;;;
+1320;Exchange for Nitrous oxide [e];0.0;;;;
+1321;Exchange for Cu2+ [e];0.0;;;;
+1322;Exchange for fe3 [e];1000.0;;;;
+1323;Exchange for D-Fructose [e];0.0;;;;
+1324;Exchange for GLUM [e];-2.0;;;;
+1325;Exchange for Gly-Cys [e];-234.63636;;;;
+1326;Exchange for Ala-Ala [e];0.0;;;;
+1327;Exchange for CO2 [e];1000.0;;;;
+1328;Exchange for H+ [e];-329.45455;;;;
+1329;Exchange for Ca2+ [e];0.0;;;;
+1330;Exchange for Zn2+ [e];0.0;;;;
+1331;Exchange for Cl- [e];0.0;;;;
+1332;Exchange for TRHL [e];1.0;;;;
+1333;Exchange for L-Threonine [e];0.0;;;;
+1334;Exchange for Heme [e];0.0;;;;
+1335;Exchange for L-Glutamate [e];1.0;;;;
+1336;Exchange for Fe-enterochlin [e];-1000.0;;;;
+1337;Exchange for Ni2+ [e];0.0;;;;
+1338;Exchange for Mn2+ [e];0.0;;;;
+1339;Exchange for Arsenate [e];0.0;;;;
+1340;Exchange for Maltohexaose [e];0.0;;;;
+1341;Exchange for Enterobactin [e];1000.0;;;;
+1342;Exchange for Amylotriose [e];0.0;;;;
+1343;Exchange for Arsenite [e];0.0;;;;
+1344;Exchange for 4-Hydroxybenzoate [e];0.0;;;;
+1345;Exchange for Butyro-betaine [e];0.0;;;;
+1346;Exchange for D-Mannose [e];0.0;;;;
+1347;Exchange for Chitobiose [e];0.0;;;;
+1348;Exchange for Formate [e];0.0;;;;
+1349;Exchange for D-Malate [e];0.0;;;;
+1350;Exchange for Calomide [e];0.0;;;;
+1351;Exchange for Methanol [e];0.0;;;;
+1352;Exchange for Succinate [e];0.0;;;;
+1353;Exchange for NH3 [e];471.27273;;;;
+1354;Exchange for L-Isoleucine [e];0.0;;;;
+1355;Exchange for Co2+ [e];0.0;;;;
+1356;Exchange for D-Glucose [e];0.0;;;;
+1357;Exchange for Acetoacetate [e];419.27273;;;;
+1358;Exchange for L-Valine [e];0.0;;;;
+1359;Exchange for NO [e];0.0;;;;
+1360;Exchange for O2 [e];-513.5;;;;
+1361;Exchange for crotonobetaine [e];0.0;;;;
+1362;Exchange for D-Lactate [e];-22.0;;;;
+1363;Exchange for H2S2O3 [e];0.0;;;;
+1364;Demand for glycogen(n-1) [c];0.0;;;;
+1365;Demand for Biomass [c];0.0;;;;
+1366;Demand for S-Adenosyl-4-methylthio-2-oxobutanoate [c];0.0;;;;
