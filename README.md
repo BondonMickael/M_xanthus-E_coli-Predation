@@ -3,4 +3,5 @@
 ## Creating the predation model
 - Create Dynamic environment
 - Make reaction for predation
-- Add Palmitate (Fatty Acid) importation
+- Add plot for Biomass, Flux of Biomass and FVA flux for choosen reaction
+- Add Fatty Acid importation: Palmitate and Myristic Acid
