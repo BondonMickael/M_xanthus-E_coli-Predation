@@ -1,0 +1,13 @@
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache files
+__pycache__/
+
+# Ignore test file
+predation_example_tests.ipynb
+predation_example_nw.ipynb
+mitomammal_example_test.ipynb
+
+# Ignore temporal files
+.~*

@@ -1,0 +1,358 @@
+HEX1	Glycolysis
+G6PPer	Glycolysis
+PGI	Glycolysis
+PFK	Glycolysis
+FBP	Glycolysis
+FBA	Glycolysis
+TPI	Glycolysis
+GAPD	
+PGK	Glycolysis
+PGM	Glycolysis
+ENO	
+PYK	
+r0122	
+PEPCK	Glycolysis
+LDH_L	Glycolysis
+G6PDH2r	
+PGL	Pentose Phosphate Pathway
+GND	Pentose Phosphate Pathway
+RPI	Pentose Phosphate Pathway
+RPE	Pentose Phosphate Pathway
+TKT1	Pentose Phosphate Pathway
+TALA	Pentose Phosphate Pathway
+TKT2	Pentose Phosphate Pathway
+PDHm	Pyruvate Metabolism	Tricarboxylic Acid Cycle
+CSm	Tricarboxylic Acid Cycle
+ACONTm	Tricarboxylic Acid Cycle
+ICDHxm	Tricarboxylic Acid Cycle
+ICDHyrm	Tricarboxylic Acid Cycle
+AKGDm	Tricarboxylic Acid Cycle
+SUCOAS1m	Tricarboxylic Acid Cycle
+SUCOASm	Tricarboxylic Acid Cycle
+FUMm	Tricarboxylic Acid Cycle
+MDHm	Tricarboxylic Acid Cycle
+CI_mitoMap	Oxidative Phosphorylation (mt)	Oxidative Phosphorylation
+CII_mitoMap	Oxidative Phosphorylation
+CIII_mitoMap	Oxidative Phosphorylation (mt)	Oxidative Phosphorylation
+CIV_mitoMap	Oxidative Phosphorylation (mt)	Oxidative Phosphorylation
+CV_mitoMap	Oxidative Phosphorylation (mt)	Oxidative Phosphorylation
+PEPCKm	Pyruvate Metabolism
+PCm	Amino Acid Metabolism
+ME2m	Pyruvate Metabolism
+ME1m	Pyruvate Metabolism
+r0081	Amino Acid Metabolism
+ACITLm_mitoMap	
+NDPK1m	Replication & Transcription
+NNT_mitoMap	
+ADK1m	Nucleotide Metabolism
+ME2	Pyruvate Metabolism
+ALATA_L	
+NDPK1	Replication & Transcription	Nucleotide Metabolism
+FUM	Tricarboxylic Acid Cycle
+ADK1	
+ICDHy	Tricarboxylic Acid Cycle
+ACONT	
+ACITL	
+ASPTA	Fatty Acid Degradation and Beta-oxidation
+MDH	Tricarboxylic Acid Cycle
+AKGMALtm	Mitochondrial Carrier
+ASPGLUmB_mitoMap	Calcium Signaling & Transport
+ASPTAm	Amino Acid Metabolism
+G3PD1	Oxidative Phosphorylation
+r0205	Oxidative Phosphorylation
+FACOAL160i	Fatty Acid Degradation and Beta-oxidation	Fatty Acid Biosynthesis and Elongation
+C160CPT1	Fatty Acid Degradation and Beta-oxidation
+PPA	
+r2435	Fatty Acid Metabolism
+C160CPT2	Fatty Acid Degradation and Beta-oxidation
+PPAm	Translation
+ACOT2_mitoMap	Fatty Acid Biosynthesis and Elongation
+ACADLC16_mitoMap	Fatty Acid Degradation and Beta-oxidation	Oxidative Phosphorylation
+MECR16C_mitoMap	Fatty Acid Biosynthesis and Elongation
+MTPC16_mitoMap	Fatty Acid Degradation and Beta-oxidation
+ACADLC14_mitoMap	Fatty Acid Degradation and Beta-oxidation	Oxidative Phosphorylation
+MECR14C_mitoMap	Fatty Acid Biosynthesis and Elongation
+MTPC14_mitoMap	Fatty Acid Degradation and Beta-oxidation
+r1447_mitoMap	Fatty Acid Degradation and Beta-oxidation	Oxidative Phosphorylation
+r0638	Fatty Acid Biosynthesis and Elongation
+r0660	Fatty Acid Biosynthesis and Elongation
+r0722	Fatty Acid Degradation and Beta-oxidation
+r0724	Fatty Acid Degradation and Beta-oxidation
+r1451	Fatty Acid Degradation and Beta-oxidation	Oxidative Phosphorylation
+r0735	Fatty Acid Biosynthesis and Elongation
+r0728	Fatty Acid Biosynthesis and Elongation
+r0726	Fatty Acid Degradation and Beta-oxidation
+r0634	Fatty Acid Degradation and Beta-oxidation
+r1448	Fatty Acid Degradation and Beta-oxidation	Oxidative Phosphorylation
+r0633	Fatty Acid Biosynthesis and Elongation
+r0731	Fatty Acid Biosynthesis and Elongation
+r0730	Fatty Acid Degradation and Beta-oxidation
+r0732	Fatty Acid Degradation and Beta-oxidation
+r1450	Fatty Acid Degradation and Beta-oxidation	Oxidative Phosphorylation
+r0791	Fatty Acid Biosynthesis and Elongation
+r0734	Fatty Acid Biosynthesis and Elongation
+r0733	Fatty Acid Degradation and Beta-oxidation
+r0287	Fatty Acid Degradation and Beta-oxidation
+r1446	Fatty Acid Degradation and Beta-oxidation	Oxidative Phosphorylation
+ECOAH1m	Fatty Acid Biosynthesis and Elongation
+HACD1m	Fatty Acid Degradation and Beta-oxidation
+ACACT1rm	Amino Acid Metabolism
+ACCOAC	
+MCOATA	
+ACOATA	
+r0678	
+r0691	
+r0681	
+r0682	
+r0760	
+r0761	
+r0762	
+r0763	
+r0764	
+r0694	
+r0695	
+r0765	
+r0766	
+r0692	
+r0693	
+r0767	
+r0768	
+r0769	
+r0770	
+r0712	
+r0713	
+r0701	
+r0702	
+r0771	
+r0772	
+r0696	
+r0697	
+r0773	
+FA160ACPH	
+FACOAL40im	Fatty Acid Biosynthesis and Elongation
+BDHm	Fatty Acid Metabolism
+OCOAT1m	Amino Acid Metabolism
+HMGCOASim	Amino Acid Metabolism
+HMGLm	Amino Acid Metabolism
+LEUTAm	Amino Acid Metabolism
+OIVD1m	Amino Acid Metabolism	Tricarboxylic Acid Cycle
+r0655	Amino Acid Metabolism
+MCCCrm	Amino Acid Metabolism
+MGCHrm	Amino Acid Metabolism
+ILETAm	Amino Acid Metabolism
+OIVD3m	Amino Acid Metabolism	Tricarboxylic Acid Cycle
+r0603	Fatty Acid Degradation and Beta-oxidation
+ECOAH9m	Fatty Acid Biosynthesis and Elongation
+HACD9m	Fatty Acid Degradation and Beta-oxidation
+ACACT10m	Fatty Acid Degradation and Beta-oxidation
+VALTAm	Amino Acid Metabolism
+OIVD2m	Amino Acid Metabolism	Tricarboxylic Acid Cycle
+r0560	Fatty Acid Degradation and Beta-oxidation
+ECOAH12m	Fatty Acid Biosynthesis and Elongation
+3HBCOAHLm	Amino Acid Metabolism
+HIBDm	Fatty Acid Degradation and Beta-oxidation	Amino Acid Metabolism
+ACCOALm	Fatty Acid Metabolism
+MMSAD1m	Amino Acid Metabolism
+PPCOACm	Amino Acid Metabolism
+MMEm	Amino Acid Metabolism
+MMMm	
+MMCDm	Fatty Acid Biosynthesis and Elongation
+RE2649M	Fatty Acid Biosynthesis and Elongation
+THRD_L	
+r1154	Amino Acid Metabolism	Tricarboxylic Acid Cycle
+2HBO	Glycolysis
+METAT	
+METAT2_mitoMap	
+AHC	
+ADNK1	
+CYSTS	
+CYSTGL	
+CYSO	
+3SALATAi	Fatty Acid Degradation and Beta-oxidation
+3SPYRSP	
+CYSTA	Fatty Acid Degradation and Beta-oxidation
+CYSTAm	Amino Acid Metabolism
+MCPST	Amino Acid Metabolism
+MCPSTm_mitoMap	Amino Acid Metabolism
+r0595m_mitoMap	Amino Acid Metabolism
+r0595B_mitoMap	Amino Acid Metabolism
+MCLOR	Glycolysis
+r0193	
+TRPO2	
+FKYNH	
+KYN3OX	Amino Acid Metabolism
+HKYNH	
+3HAO	
+PCLAD	
+2OXOADPTmB_mitoMap	Mitochondrial Carrier
+2OXOADPTmC_mitoMap	Mitochondrial Carrier
+2OXOADOXm	Amino Acid Metabolism	Tricarboxylic Acid Cycle
+r0541	Fatty Acid Degradation and Beta-oxidation
+SACCD3m	Amino Acid Metabolism
+r0525	Amino Acid Metabolism
+AASAD3m	Pyruvate Metabolism
+R03103_mitoMap	Pyruvate Metabolism
+r0450	Amino Acid Metabolism
+PPD2CSPc_mitoMap	
+LPCOXc_mitoMap	
+r0594	Pyruvate Metabolism
+2AMADPTmB_mitoMap	Mitochondrial Carrier
+2AMADPTmC_mitoMap	Mitochondrial Carrier
+PROD2mB_mitoMap	Amino Acid Metabolism
+G5SADrm	
+r0074	Amino Acid Metabolism
+GLU5Km	
+G5SDym	Amino Acid Metabolism
+P5CRm	Amino Acid Metabolism
+P5CRxm	Amino Acid Metabolism
+ORNTArm	Amino Acid Metabolism
+ORNDC	
+PTRCOX1	
+r0464c_mitoMap	Pyruvate Metabolism
+ABUTD	Pyruvate Metabolism
+ARGDCm	
+AGMTm	
+PTRCAT1m_mitoMap	
+APRTO2m_mitoMap	Amino Acid Metabolism
+NABTNOm	Fatty Acid Degradation and Beta-oxidation	Pyruvate Metabolism
+GLUDC	
+ABTArm	Amino Acid Metabolism
+r0178	Amino Acid Metabolism
+GLUDxm	Amino Acid Metabolism
+GLUDym	Amino Acid Metabolism
+GLUDxi	Amino Acid Metabolism
+GLUDy	Amino Acid Metabolism
+GLNS	Amino Acid Metabolism
+GLUNm	Amino Acid Metabolism
+GLUN_mitoMap	Amino Acid Metabolism
+PGCD	
+PSERT	
+PSP_L	
+GHMT2r	Folate & Pterine Metabolism
+FOLR2	
+DHFR	
+MTHFD	Folate & Pterine Metabolism
+MTHFC	Folate & Pterine Metabolism
+FTCD	
+FTHFL	Folate & Pterine Metabolism
+FTHFDH	Folate & Pterine Metabolism
+r0060	
+GHMT2rm	Folate & Pterine Metabolism
+GCCam	Amino Acid Metabolism
+GCCbim	Amino Acid Metabolism
+GCCcm	Tricarboxylic Acid Cycle
+r0514	
+r0226	
+MTHFDm	Folate & Pterine Metabolism
+MTHFD2m	Folate & Pterine Metabolism
+MTHFCm	Folate & Pterine Metabolism
+FTHFLm	Folate & Pterine Metabolism
+FTHFDHm_mitoMap	Folate & Pterine Metabolism
+GLYATm	Heme Biosynthesis
+AOBUTDsm	
+AACTOORm_mitoMap	Amino Acid Metabolism
+LGTHLm_mitoMap	
+GLYOXm	Pyruvate Metabolism
+LDH_Dm_mitoMap	
+CBPSam	Nitrogen Metabolism
+OCBTm	Nitrogen Metabolism
+NOS1	
+NOS2	
+r0129	
+AMPTASECG	
+GLUCYS	ROS Defense
+GTHS	ROS Defense
+r0399	
+DHPR	Amino Acid Metabolism
+TYRTA	Fatty Acid Degradation and Beta-oxidation
+TYRTB_mitoMap	
+34HPPOR	
+HGNTOR	
+MACACI	Amino Acid Metabolism
+FUMAC	
+ASNS1	
+r0127	
+HISD	
+URCN	
+IZPN	
+GluForTx	
+APAT2rm	Amino Acid Metabolism
+MMSAD3m	Amino Acid Metabolism
+MMSAD3m2_mitoMap	Amino Acid Metabolism
+ASP1DC	
+CKc	
+CK	Amino Acid Metabolism
+ACOAHi	
+ALCD2yf	
+ALCD2if	
+ACALDtm	
+ALDD2xm	Fatty Acid Degradation and Beta-oxidation	Pyruvate Metabolism
+ALDD2x	Pyruvate Metabolism
+ACSm	Pyruvate Metabolism
+ACS	Pyruvate Metabolism
+ADSL1	Nucleotide Metabolism
+ADSS	
+AMPD1	
+ARGN	Nitrogen Metabolism
+ARGSL	Nitrogen Metabolism
+ARGSS	Amino Acid Metabolism
+ARGNm	Nitrogen Metabolism
+ALASm	Heme Biosynthesis
+PPBNGS	Heme Biosynthesis
+HMBS	Heme Biosynthesis
+UPP3S	Heme Biosynthesis
+UPPDC1	Heme Biosynthesis
+CPPPGO	Heme Biosynthesis
+PPPGOmB_mitoMap	Heme Biosynthesis
+FCLTm	Heme Biosynthesis
+HOXG	
+BILIRED	
+BILIRED2_mitoMap	
+PCHOLPm_hs	
+GLYK	Replication & Transcription
+GPAMm_hsB_mitoMap	Metabolism of Lipids & Lipoproteins
+AGPAT1B_mitoMap	
+CDSm	Import & Sorting
+PGPPTm	Cardiolipin Biosynthesis
+PGPP_hsm_mitoMap	
+CLS_hsm_mitoMap	Cardiolipin Biosynthesis
+CLPN_mitoMap	Cardiolipin Biosynthesis
+CYTK1m	Replication & Transcription
+NDPK3m	Replication & Transcription
+SPODMm	ROS Defense
+GTHP	
+GTHPm	ROS Defense
+GTHO	ROS Defense
+GTHOm	ROS Defense
+CITtamB	Mitochondrial Carrier
+r0913	Mitochondrial Carrier
+CITtbm	Mitochondrial Carrier
+r0917	Mitochondrial Carrier
+r0917b_mitoMap	Mitochondrial Carrier
+PIt2mB_mitoMap	Mitochondrial Carrier
+ATPtmB_mitoMap	Mitochondrial Dynamics
+HtmB_mitoMap	Mitochondrial Carrier
+MALtm	Mitochondrial Carrier
+MALSO3tm	Mitochondrial Carrier
+MALTSULtm	Mitochondrial Carrier
+MALSO4tm	Mitochondrial Carrier
+SUCCt2m	Mitochondrial Carrier
+r0830	Mitochondrial Carrier
+r0830B_mitoMap	Mitochondrial Carrier
+r0829	Mitochondrial Carrier
+SUCCt3m_mitoMap	Mitochondrial Carrier
+COAtmB_mitoMap	Mitochondrial Carrier
+COAtmC_mitoMap	Mitochondrial Carrier
+GLUt2mB_mitoMap	Mitochondrial Carrier
+ORNt4mB_mitoMap	Mitochondrial Carrier
+r2398B_mitoMap	Mitochondrial Carrier
+r2402B_mitoMap	Mitochondrial Carrier
+LYStmB_mitoMap	Mitochondrial Carrier
+ORNt3mB_mitoMap	Mitochondrial Carrier
+ARGtmB_mitoMap	Mitochondrial Carrier
+r1427	Mitochondrial Carrier
+PYRt2m	Pyruvate Metabolism
+ACACt2mB_mitoMap	Pyruvate Metabolism
+FE2tm	Fe-S cluster biosynthesis
+PSFLIPm	
+PEFLIPm	

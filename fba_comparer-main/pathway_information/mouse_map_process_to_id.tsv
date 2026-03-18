@@ -1,0 +1,24 @@
+Glycolysis	HEX1	G6PPer	PGI	PFK	FBP	FBA	TPI	PGK	PGM	PEPCK	LDH_L	2HBO	MCLOR
+Pentose Phosphate Pathway	PGL	GND	RPI	RPE	TKT1	TALA	TKT2
+Pyruvate Metabolism	PDHm	PEPCKm	ME2m	ME1m	ME2	AASAD3m	R03103_mitoMap	r0594	r0464c_mitoMap	ABUTD	NABTNOm	GLYOXm	ALDD2xm	ALDD2x	ACSm	ACS	PYRt2m	ACACt2mB_mitoMap
+Tricarboxylic Acid Cycle	PDHm	CSm	ACONTm	ICDHxm	ICDHyrm	AKGDm	SUCOAS1m	SUCOASm	FUMm	MDHm	FUM	ICDHy	MDH	OIVD1m	OIVD3m	OIVD2m	r1154	2OXOADOXm	GCCcm
+Oxidative Phosphorylation (mt)	CI_mitoMap	CIII_mitoMap	CIV_mitoMap	CV_mitoMap
+Oxidative Phosphorylation	CI_mitoMap	CII_mitoMap	CIII_mitoMap	CIV_mitoMap	CV_mitoMap	G3PD1	r0205	ACADLC16_mitoMap	ACADLC14_mitoMap	r1447_mitoMap	r1451	r1448	r1450	r1446
+Amino Acid Metabolism	PCm	r0081	ASPTAm	ACACT1rm	OCOAT1m	HMGCOASim	HMGLm	LEUTAm	OIVD1m	r0655	MCCCrm	MGCHrm	ILETAm	OIVD3m	VALTAm	OIVD2m	3HBCOAHLm	HIBDm	MMSAD1m	PPCOACm	MMEm	r1154	CYSTAm	MCPST	MCPSTm_mitoMap	r0595m_mitoMap	r0595B_mitoMap	KYN3OX	2OXOADOXm	SACCD3m	r0525	r0450	PROD2mB_mitoMap	r0074	G5SDym	P5CRm	P5CRxm	ORNTArm	APRTO2m_mitoMap	ABTArm	r0178	GLUDxm	GLUDym	GLUDxi	GLUDy	GLNS	GLUNm	GLUN_mitoMap	GCCam	GCCbim	AACTOORm_mitoMap	DHPR	MACACI	APAT2rm	MMSAD3m	MMSAD3m2_mitoMap	CK	ARGSS
+Replication & Transcription	NDPK1m	NDPK1	GLYK	CYTK1m	NDPK3m
+Nucleotide Metabolism	ADK1m	NDPK1	ADSL1
+Fatty Acid Degradation and Beta-oxidation	ASPTA	FACOAL160i	C160CPT1	C160CPT2	ACADLC16_mitoMap	MTPC16_mitoMap	ACADLC14_mitoMap	MTPC14_mitoMap	r1447_mitoMap	r0722	r0724	r1451	r0726	r0634	r1448	r0730	r0732	r1450	r0733	r0287	r1446	HACD1m	r0603	HACD9m	ACACT10m	r0560	HIBDm	3SALATAi	CYSTA	r0541	NABTNOm	TYRTA	ALDD2xm
+Mitochondrial Carrier	AKGMALtm	2OXOADPTmB_mitoMap	2OXOADPTmC_mitoMap	2AMADPTmB_mitoMap	2AMADPTmC_mitoMap	CITtamB	r0913	CITtbm	r0917	r0917b_mitoMap	PIt2mB_mitoMap	HtmB_mitoMap	MALtm	MALSO3tm	MALTSULtm	MALSO4tm	SUCCt2m	r0830	r0830B_mitoMap	r0829	SUCCt3m_mitoMap	COAtmB_mitoMap	COAtmC_mitoMap	GLUt2mB_mitoMap	ORNt4mB_mitoMap	r2398B_mitoMap	r2402B_mitoMap	LYStmB_mitoMap	ORNt3mB_mitoMap	ARGtmB_mitoMap	r1427
+Calcium Signaling & Transport	ASPGLUmB_mitoMap
+Fatty Acid Biosynthesis and Elongation	FACOAL160i	ACOT2_mitoMap	MECR16C_mitoMap	MECR14C_mitoMap	r0638	r0660	r0735	r0728	r0633	r0731	r0791	r0734	ECOAH1m	FACOAL40im	ECOAH9m	ECOAH12m	MMCDm	RE2649M
+Fatty Acid Metabolism	r2435	BDHm	ACCOALm
+Translation	PPAm
+Folate & Pterine Metabolism	GHMT2r	MTHFD	MTHFC	FTHFL	FTHFDH	GHMT2rm	MTHFDm	MTHFD2m	MTHFCm	FTHFLm	FTHFDHm_mitoMap
+Heme Biosynthesis	GLYATm	ALASm	PPBNGS	HMBS	UPP3S	UPPDC1	CPPPGO	PPPGOmB_mitoMap	FCLTm
+Nitrogen Metabolism	CBPSam	OCBTm	ARGN	ARGSL	ARGNm
+ROS Defense	GLUCYS	GTHS	SPODMm	GTHPm	GTHO	GTHOm
+Metabolism of Lipids & Lipoproteins	GPAMm_hsB_mitoMap
+Import & Sorting	CDSm
+Cardiolipin Biosynthesis	PGPPTm	CLS_hsm_mitoMap	CLPN_mitoMap
+Mitochondrial Dynamics	ATPtmB_mitoMap
+Fe-S cluster biosynthesis	FE2tm

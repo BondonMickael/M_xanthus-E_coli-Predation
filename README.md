@@ -6,5 +6,9 @@
 - Add plot for Biomass, Flux of Biomass and FVA flux for choosen reaction
 - Add Fatty Acid importation: Palmitate and Myristic Acid
 
+## Looking at the difference between predation and alone
+- Try using iMAT
+- Try using FBA Comparer
+
 ## Side quest
 - Create Genetic Algorithm
