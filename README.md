@@ -8,7 +8,7 @@
 
 ## Looking at the difference between predation and alone
 - Try using iMAT
-- Try using FBA Comparer
+- Use FBA Comparer
 
 ## Side quest
 - Create Genetic Algorithm
