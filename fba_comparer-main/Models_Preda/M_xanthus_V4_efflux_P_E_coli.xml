@@ -21939,7 +21939,6 @@
       <parameter sboTerm="SBO:0000625" id="R_rxn03384_c_upper_bound" value="10.0758131572512" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_rxn02504_c_lower_bound" value="-3.83141762452108" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_rxn02504_c_upper_bound" value="3.83141762452108" units="mmol_per_gDW_per_hr" constant="true"/>
-      <parameter sboTerm="SBO:0000625" id="R_rxn00262_c_lower_bound" value="-7.8910899160349" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_rxn00262_c_upper_bound" value="7.8910899160349" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_rxn03173_c_upper_bound" value="5.93462134181137" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_rxn03039_c_lower_bound" value="-2.05429200293471" units="mmol_per_gDW_per_hr" constant="true"/>
@@ -22203,7 +22202,6 @@
       <parameter sboTerm="SBO:0000625" id="R_rxn02159_c_lower_bound" value="-0.684764000978235" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_rxn02159_c_upper_bound" value="0.684764000978235" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_rxn10222_c_upper_bound" value="4.5977011494253" units="mmol_per_gDW_per_hr" constant="true"/>
-      <parameter sboTerm="SBO:0000625" id="R_rxn00269_c_lower_bound" value="-1.33692019238608" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_rxn00269_c_upper_bound" value="1.33692019238608" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_rxn10263_c_lower_bound" value="-4.74443629249206" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_rxn10263_c_upper_bound" value="4.74443629249206" units="mmol_per_gDW_per_hr" constant="true"/>
@@ -22787,7 +22785,6 @@
       <parameter sboTerm="SBO:0000625" id="R_rxn02312_c_upper_bound" value="7.28784543898265" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_rxn02895_c_lower_bound" value="-8.11934458302765" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_rxn02895_c_upper_bound" value="8.11934458302765" units="mmol_per_gDW_per_hr" constant="true"/>
-      <parameter sboTerm="SBO:0000625" id="R_rxn07295_c_lower_bound" value="-1.04344990625255" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_rxn07295_c_upper_bound" value="1.04344990625255" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_rxn02934_c_lower_bound" value="-1.30431238281569" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_rxn02934_c_upper_bound" value="1.30431238281569" units="mmol_per_gDW_per_hr" constant="true"/>
@@ -23665,14 +23662,12 @@
       <parameter sboTerm="SBO:0000625" id="R_rxn14420_c_upper_bound" value="2.98361457569088" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_rxn09001_c_lower_bound" value="-100" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_rxn09001_c_upper_bound" value="100" units="mmol_per_gDW_per_hr" constant="true"/>
-      <parameter sboTerm="SBO:0000625" id="R_rxn14415_c_lower_bound" value="-0.0652156191407843" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_rxn14415_c_upper_bound" value="0.0652156191407843" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_rxn23043_c_upper_bound" value="7.61392353468657" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_rxn41896_c_lower_bound" value="-4.02706448194343" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_rxn41896_c_upper_bound" value="4.02706448194343" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_rxn21729_c_lower_bound" value="-3.48903562403196" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_rxn21729_c_upper_bound" value="3.48903562403196" units="mmol_per_gDW_per_hr" constant="true"/>
-      <parameter sboTerm="SBO:0000625" id="R_rxn23045_c_lower_bound" value="-1.04344990625255" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_rxn23045_c_upper_bound" value="1.04344990625255" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_rxn21862_c_upper_bound" value="2.5108013369202" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_rxn39452_c_lower_bound" value="-7.82587429689412" units="mmol_per_gDW_per_hr" constant="true"/>
@@ -25795,7 +25790,7 @@
           </fbc:and>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction metaid="meta_R_rxn00262_c" sboTerm="SBO:0000176" id="R_rxn00262_c" name="L-Aspartic acid:oxygen oxidoreductase (deaminating) [c]" reversible="true" fast="false" fbc:lowerFluxBound="R_rxn00262_c_lower_bound" fbc:upperFluxBound="R_rxn00262_c_upper_bound">
+      <reaction metaid="meta_R_rxn00262_c" sboTerm="SBO:0000176" id="R_rxn00262_c" name="L-Aspartic acid:oxygen oxidoreductase (deaminating) [c]" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="R_rxn00262_c_upper_bound">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_R_rxn00262_c">
@@ -31382,7 +31377,7 @@
           <fbc:geneProductRef fbc:geneProduct="G_MXAN_2556"/>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction metaid="meta_R_rxn00269_c" sboTerm="SBO:0000176" id="R_rxn00269_c" name="glycine:oxygen oxidoreductase (deaminating) [c]" reversible="true" fast="false" fbc:lowerFluxBound="R_rxn00269_c_lower_bound" fbc:upperFluxBound="R_rxn00269_c_upper_bound">
+      <reaction metaid="meta_R_rxn00269_c" sboTerm="SBO:0000176" id="R_rxn00269_c" name="glycine:oxygen oxidoreductase (deaminating) [c]" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="R_rxn00269_c_upper_bound">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_R_rxn00269_c">
@@ -43294,7 +43289,7 @@
           <fbc:geneProductRef fbc:geneProduct="G_MXAN_2916"/>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction metaid="meta_R_rxn07295_c" sboTerm="SBO:0000176" id="R_rxn07295_c" name="glycine oxidase [c]" reversible="true" fast="false" fbc:lowerFluxBound="R_rxn07295_c_lower_bound" fbc:upperFluxBound="R_rxn07295_c_upper_bound">
+      <reaction metaid="meta_R_rxn07295_c" sboTerm="SBO:0000176" id="R_rxn07295_c" name="glycine oxidase [c]" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="R_rxn07295_c_upper_bound">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_R_rxn07295_c">
@@ -61392,7 +61387,7 @@
           <fbc:geneProductRef fbc:geneProduct="G_MXAN_5559"/>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction metaid="meta_R_rxn14415_c" sboTerm="SBO:0000655" id="R_rxn14415_c" name="cytochrome-c oxidase (2 protons translocated) [c]" reversible="true" fast="false" fbc:lowerFluxBound="R_rxn14415_c_lower_bound" fbc:upperFluxBound="R_rxn14415_c_upper_bound">
+      <reaction metaid="meta_R_rxn14415_c" sboTerm="SBO:0000655" id="R_rxn14415_c" name="cytochrome-c oxidase (2 protons translocated) [c]" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="R_rxn14415_c_upper_bound">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_R_rxn14415_c">
@@ -61512,7 +61507,7 @@
           <fbc:geneProductRef fbc:geneProduct="G_MXAN_2588"/>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction metaid="meta_R_rxn23045_c" sboTerm="SBO:0000176" id="R_rxn23045_c" name="glycine oxidase [c]" reversible="true" fast="false" fbc:lowerFluxBound="R_rxn23045_c_lower_bound" fbc:upperFluxBound="R_rxn23045_c_upper_bound">
+      <reaction metaid="meta_R_rxn23045_c" sboTerm="SBO:0000176" id="R_rxn23045_c" name="glycine oxidase [c]" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="R_rxn23045_c_upper_bound">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_R_rxn23045_c">
