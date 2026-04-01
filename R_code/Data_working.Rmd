@@ -1,0 +1,24 @@
+---
+title: "Data_Looking"
+output: html_document
+date: "2026-03-31"
+---
+```{r}
+WT_vs_4preys = na.omit(WT_vs_4preys)
+summary(WT_vs_4preys)
+```
+
+```{r}
+WT_vs_4preys_filteres = WT_vs_4preys[WT_vs_4preys$GeneNames != "No old locus tag",]
+WT_vs_4preys_filteres = WT_vs_4preys_filteres[WT_vs_4preys_filteres$GeneNames != "",]
+```
+
+```{r}
+WT_vs_4preys_final <- WT_vs_4preys_filteres[,-1]
+rownames(WT_vs_4preys_final) <- WT_vs_4preys_filteres[,1]
+```
+
+```{r}
+write.csv(WT_vs_4preys, "~/Documents/Data/WT_vs_4preys_final_V2.csv", row.names = TRUE)
+```
+
