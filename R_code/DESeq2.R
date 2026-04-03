@@ -4,9 +4,10 @@ library(apeglm)
 library(gprofiler2)
 library(enrichR)
 library(ggplot2)
+library(clusterProfiler)
 
 ##----Import Data----
-Predation = read.csv2(file = "~/Documents/Data/WT_vs_4preys_final_V2.csv", 
+Predation = read.csv2(file = "~/Documents/Data/WT_vs_4preys_final.csv", 
                       header = TRUE, sep = ',', dec = '.', row.names="X")
 Predation = na.omit(Predation)
 Predation = subset(Predation, select = -c(K1, K2, K3, KC1, KC2, KC3, Y1, Y2, Y3)) # remove KC and K
@@ -42,7 +43,7 @@ for(i in coldata$colnames.Predation.){
 
 coldata_final = coldata[,-1]
 rownames(coldata_final) = coldata[,1]
-cond <- c(1,1,1,2,2,2,3,3,3,4,4,4)
+
 ##----Create/Perform DESeq2 (Diff Express Analysis)---
 dds = DESeqDataSetFromMatrix(countData = Predation,
                              colData = coldata_final,
@@ -79,7 +80,7 @@ topT = as.data.frame(res_E3)
 with(topT, plot(log2FoldChange, -log10(padj), pch=20, main="Volcano plot", cex=1.0, xlab=bquote(~Log[2]~fold~change), ylab=bquote(~-log[10]~P~value)))
 with(subset(topT, padj<0.05 | abs(log2FoldChange)>2), points(log2FoldChange, -log10(padj), pch=20, col="cyan", cex=0.5))
 with(subset(topT, padj<0.05 & abs(log2FoldChange)>2), points(log2FoldChange, -log10(padj), pch=20, col="red", cex=0.5))
-#with(subset(topT, padj<0.05 & abs(log2FoldChange)>2), text(log2FoldChange, -log10(padj), labels=subset(rownames(topT), topT$padj<0.05 & abs(topT$log2FoldChange)>2), cex=0.8, pos=3))
+with(subset(topT, padj<0.05 & abs(log2FoldChange)>4), text(log2FoldChange, -log10(padj), labels=subset(rownames(topT), topT$padj<0.05 & abs(topT$log2FoldChange)>4), cex=0.8, pos=3))
 
 #Add lines for absolute FC>2 and P-value cut-off at FDR Q<0.05
 abline(v=0, col="black", lty=3, lwd=1.0)
@@ -87,7 +88,6 @@ abline(v=-2, col="black", lty=4, lwd=2.0)
 abline(v=2, col="black", lty=4, lwd=2.0)
 abline(h=-log10(0.05), col="black", lty=4, lwd=2.0)
 #abline(h=-log10(max(topT$pvalue[topT$padj<0.05], na.rm=TRUE)), col="black", lty=4, lwd=2.0)
-# There is 29 genes in red, same as list
 
 ##----Take Significantly Expressed Genes----
 sum(na.omit(res_C$padj < 0.05 & abs(res_C$log2FoldChange) > 2))
@@ -110,6 +110,41 @@ Liste_Genes = Genes_B[Genes_B %in% Genes_E3]
 Liste_Genes = Liste_Genes[Liste_Genes %in% Genes_C]
 lapply(Liste_Genes, write, "~/Documents/R/Liste_Genes", append=TRUE, ncolumns=1000)
 
+##----Take only up or down----
+#----Up----
+Genes_id_up = res_C$padj < 0.05 & res_C$log2FoldChange > 2
+Genes_C_up = na.omit(res_C@rownames[Genes_id_up]) 
+
+Genes_id_up = res_B$padj < 0.05 & res_B$log2FoldChange > 2
+Genes_B_up = na.omit(res_B@rownames[Genes_id_up]) 
+
+Genes_id_up = res_E$padj < 0.05 & res_E$log2FoldChange > 2
+Genes_E_up = na.omit(res_E@rownames[Genes_id_up]) 
+
+Genes_id_up = res_E3$padj < 0.05 & res_E3$log2FoldChange > 2
+Genes_E3_up = na.omit(res_E3@rownames[Genes_id_up]) 
+
+Liste_Genes_up = Genes_B_up[Genes_B_up %in% Genes_E3_up]
+Liste_Genes_up = Liste_Genes_up[Liste_Genes_up %in% Genes_C_up]
+lapply(Liste_Genes_up, write, "~/Documents/R/Liste_Genes_up", append=TRUE, ncolumns=1000)
+
+#----Down----
+Genes_id_down = res_C$padj < 0.05 & res_C$log2FoldChange < -2
+Genes_C_down = na.omit(res_C@rownames[Genes_id_down]) 
+
+Genes_id_down = res_B$padj < 0.05 & abs(res_B$log2FoldChange) < -2
+Genes_B_down = na.omit(res_B@rownames[Genes_id_down]) 
+
+Genes_id_down = res_E$padj < 0.05 & res_E$log2FoldChange < -2
+Genes_E_down = na.omit(res_E@rownames[Genes_id_down]) 
+
+Genes_id_down = res_E3$padj < 0.05 & res_E3$log2FoldChange < -2
+Genes_E3_down = na.omit(res_E3@rownames[Genes_id_down]) 
+
+Liste_Genes_down = Genes_B_down[Genes_B_down %in% Genes_E3_down]
+Liste_Genes_down = Liste_Genes_down[Liste_Genes_down %in% Genes_C_down]
+lapply(Liste_Genes_down, write, "~/Documents/R/Liste_Genes_down", append=TRUE, ncolumns=1000)
+
 ##----Functional Enrichment Analysis enrichR----
 dbs = c("GO_Molecular_Function_2025", "GO_Cellular_Component_2025", 
         "GO_Biological_Process_2025","Reactome_Pathways_2024")
@@ -118,3 +153,5 @@ plotEnrich(FEA2[['GO_Biological_Process_2025']], showTerms = 18) + theme(axis.te
                                                                          axis.title = element_text(size = 12),
                                                                          legend.text = element_text(size = 12),
                                                                          legend.title = element_text(size = 12))
+
+##----Functional Enrichment Analysis clusterProfiler----
