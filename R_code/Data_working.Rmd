@@ -4,12 +4,15 @@ output: html_document
 date: "2026-03-31"
 ---
 ```{r}
-WT_vs_4preys = na.omit(WT_vs_4preys)
-summary(WT_vs_4preys)
+WT_vs_4preys_FEA = na.omit(WT_vs_4preys_FEA)
+summary(WT_vs_4preys_FEA)
+```
+```{r}
+WT_vs_4preys_FEA = subset(WT_vs_4preys_FEA, select = -c(X)) # remove X
 ```
 
 ```{r}
-WT_vs_4preys_filteres = WT_vs_4preys[WT_vs_4preys$GeneNames != "No old locus tag",]
+WT_vs_4preys_filteres = WT_vs_4preys_FEA[WT_vs_4preys_FEA$GeneNames != "No old locus tag",]
 WT_vs_4preys_filteres = WT_vs_4preys_filteres[WT_vs_4preys_filteres$GeneNames != "",]
 ```
 
@@ -19,6 +22,6 @@ rownames(WT_vs_4preys_final) <- WT_vs_4preys_filteres[,1]
 ```
 
 ```{r}
-write.csv(WT_vs_4preys, "~/Documents/Data/WT_vs_4preys_final_V2.csv", row.names = TRUE)
+write.csv(WT_vs_4preys_final, "~/Documents/Data/WT_vs_4preys_final_V3.csv", row.names = TRUE)
 ```
 

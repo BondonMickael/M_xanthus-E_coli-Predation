@@ -4,7 +4,6 @@ library(apeglm)
 library(gprofiler2)
 library(enrichR)
 library(ggplot2)
-library(clusterProfiler)
 
 ##----Import Data----
 Predation = read.csv2(file = "~/Documents/Data/WT_vs_4preys_final.csv", 
@@ -74,13 +73,14 @@ plotMA(resLFC_E3, ylim=c(-2,2), main = "E. coli 1/3 shrink")
 #res[order(res$log2FoldChange,decreasing = TRUE),]
 
 ##----Volcano plot----
-topT = as.data.frame(res_E3)
+topT = as.data.frame(res_C)
 
 #Adjusted P values (FDR Q values)
-with(topT, plot(log2FoldChange, -log10(padj), pch=20, main="Volcano plot", cex=1.0, xlab=bquote(~Log[2]~fold~change), ylab=bquote(~-log[10]~P~value)))
+with(topT, plot(log2FoldChange, -log10(padj), pch=20, main= substitute(paste("Volcano plot for ", italic('M. xanthus'), " alone vs predation ", italic('Caulobacter'))), cex=1.0, xlab=bquote(~Log[2]~fold~change), ylab=bquote(~-log[10]~P~value)))
 with(subset(topT, padj<0.05 | abs(log2FoldChange)>2), points(log2FoldChange, -log10(padj), pch=20, col="cyan", cex=0.5))
 with(subset(topT, padj<0.05 & abs(log2FoldChange)>2), points(log2FoldChange, -log10(padj), pch=20, col="red", cex=0.5))
-with(subset(topT, padj<0.05 & abs(log2FoldChange)>4), text(log2FoldChange, -log10(padj), labels=subset(rownames(topT), topT$padj<0.05 & abs(topT$log2FoldChange)>4), cex=0.8, pos=3))
+with(topT[rownames(topT) %in% genes_list, ], text(log2FoldChange, -log10(padj), labels=subset(rownames(topT), topT$padj<0.05 & abs(topT$log2FoldChange)>4), cex=0.8, pos=3))
+#with(subset(topT, padj<0.05 & abs(log2FoldChange)>4), text(log2FoldChange, -log10(padj), labels=subset(rownames(topT), topT$padj<0.05 & abs(topT$log2FoldChange)>4), cex=0.8, pos=3))
 
 #Add lines for absolute FC>2 and P-value cut-off at FDR Q<0.05
 abline(v=0, col="black", lty=3, lwd=1.0)
@@ -132,7 +132,7 @@ lapply(Liste_Genes_up, write, "~/Documents/R/Liste_Genes_up", append=TRUE, ncolu
 Genes_id_down = res_C$padj < 0.05 & res_C$log2FoldChange < -2
 Genes_C_down = na.omit(res_C@rownames[Genes_id_down]) 
 
-Genes_id_down = res_B$padj < 0.05 & abs(res_B$log2FoldChange) < -2
+Genes_id_down = res_B$padj < 0.05 & res_B$log2FoldChange < -2
 Genes_B_down = na.omit(res_B@rownames[Genes_id_down]) 
 
 Genes_id_down = res_E$padj < 0.05 & res_E$log2FoldChange < -2
@@ -142,16 +142,6 @@ Genes_id_down = res_E3$padj < 0.05 & res_E3$log2FoldChange < -2
 Genes_E3_down = na.omit(res_E3@rownames[Genes_id_down]) 
 
 Liste_Genes_down = Genes_B_down[Genes_B_down %in% Genes_E3_down]
-Liste_Genes_down = Liste_Genes_down[Liste_Genes_down %in% Genes_C_down]
+Liste_Genes_down = Genes_E3_down[Genes_E3_down %in% Genes_C_down]
 lapply(Liste_Genes_down, write, "~/Documents/R/Liste_Genes_down", append=TRUE, ncolumns=1000)
 
-##----Functional Enrichment Analysis enrichR----
-dbs = c("GO_Molecular_Function_2025", "GO_Cellular_Component_2025", 
-        "GO_Biological_Process_2025","Reactome_Pathways_2024")
-FEA2 = enrichr(Liste_Genes, dbs)
-plotEnrich(FEA2[['GO_Biological_Process_2025']], showTerms = 18) + theme(axis.text = element_text(size = 12),
-                                                                         axis.title = element_text(size = 12),
-                                                                         legend.text = element_text(size = 12),
-                                                                         legend.title = element_text(size = 12))
-
-##----Functional Enrichment Analysis clusterProfiler----

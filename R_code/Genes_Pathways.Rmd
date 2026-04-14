@@ -1,0 +1,27 @@
+---
+title: "Genes_Pathways"
+output: html_document
+date: "2026-04-14"
+---
+```{r}
+WT_vs_Ecol_ratio1_3 = subset(WT_vs_Ecol_ratio1_3, select = -c(X)) # remove X
+```
+
+```{r}
+WT_vs_Ecol_ratio1_3_filter = WT_vs_Ecol_ratio1_3[grepl("fatty", WT_vs_Ecol_ratio1_3[["orgdb_Name"]]) | grepl("lipid", WT_vs_Ecol_ratio1_3[["orgdb_Name"]]), ]
+```
+
+```{r}
+genes_list = WT_vs_Ecol_ratio1_3_filter$orgdb_old_MXAN
+```
+
+
+```{r}
+enrichment_BP_filter = enrichment_BP[grepl("Fatty", enrichment_BP[["Pathway"]]) | grepl("fatty", enrichment_BP[["Pathway"]]) | grepl("Lipid", enrichment_BP[["Pathway"]]) | grepl("lipid", enrichment_BP[["Pathway"]]), ]
+```
+
+```{r}
+genes_list = strsplit(enrichment_BP_filter$Genes, " ")
+genes_list = unlist(genes_list, recursive = FALSE)
+genes_list
+```
