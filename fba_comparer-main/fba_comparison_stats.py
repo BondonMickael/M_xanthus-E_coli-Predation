@@ -449,10 +449,10 @@ def bar_plot_flux_variation(
     ## create and return bar plot
     fig = px.bar(
         sorted_flux[start:end],
-        x="ID",
+        x="Name",
         y="Std_dev",
-        hover_data=["Name"] + conditions,
-        hover_name="ID",
+        hover_data=["ID"] + conditions,
+        hover_name="Name",
         color_discrete_sequence=[color],
     )
     return fig
