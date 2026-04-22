@@ -7,7 +7,7 @@
 - Add Fatty Acid importation: Palmitate and Myristic Acid
 
 ## Looking at the difference between predation and alone - Python
-- Try using iMAT
+- Try iMAT
 - Use FBA Comparer
     - Most affected pathway
     - Most affected reaction
@@ -17,5 +17,5 @@
 - DESeq2
 - ShinyGO
 
-## Side quest
+## Side Quest
 - Create Genetic Algorithm
