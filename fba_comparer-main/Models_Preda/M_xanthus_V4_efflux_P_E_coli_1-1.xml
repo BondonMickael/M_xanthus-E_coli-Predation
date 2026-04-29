@@ -64936,12 +64936,12 @@
           <speciesReference species="M_pi_c" stoichiometry="39.9983999593376" constant="true"/>
         </listOfProducts>
       </reaction>
-      <reaction metaid="meta_R_EX_malt_e" sboTerm="SBO:0000627" id="R_EX_malt_e" name="Exchange for Maltose [e]" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
+      <reaction metaid="meta_R_EX_malt_e" sboTerm="SBO:0000627" id="R_EX_malt_e" name="Exchange for Maltose [e]" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
           <speciesReference species="M_malt_e" stoichiometry="1" constant="true"/>
         </listOfReactants>
       </reaction>
-      <reaction metaid="meta_R_EX_his_L_e" sboTerm="SBO:0000627" id="R_EX_his_L_e" name="Exchange for L-Histidine [e]" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
+      <reaction metaid="meta_R_EX_his_L_e" sboTerm="SBO:0000627" id="R_EX_his_L_e" name="Exchange for L-Histidine [e]" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
           <speciesReference species="M_his_L_e" stoichiometry="1" constant="true"/>
         </listOfReactants>
@@ -64971,7 +64971,7 @@
           <speciesReference species="M_btn_e" stoichiometry="1" constant="true"/>
         </listOfReactants>
       </reaction>
-      <reaction metaid="meta_R_EX_met_L_e" sboTerm="SBO:0000627" id="R_EX_met_L_e" name="Exchange for L-Methionine [e]" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
+      <reaction metaid="meta_R_EX_met_L_e" sboTerm="SBO:0000627" id="R_EX_met_L_e" name="Exchange for L-Methionine [e]" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
           <speciesReference species="M_met_L_e" stoichiometry="1" constant="true"/>
         </listOfReactants>
@@ -64981,7 +64981,7 @@
           <speciesReference species="M_mg2_e" stoichiometry="1" constant="true"/>
         </listOfReactants>
       </reaction>
-      <reaction metaid="meta_R_EX_ac_e" sboTerm="SBO:0000627" id="R_EX_ac_e" name="Exchange for Acetate [e]" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
+      <reaction metaid="meta_R_EX_ac_e" sboTerm="SBO:0000627" id="R_EX_ac_e" name="Exchange for Acetate [e]" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
           <speciesReference species="M_ac_e" stoichiometry="1" constant="true"/>
         </listOfReactants>
@@ -65036,7 +65036,7 @@
           <speciesReference species="M_mnl_e" stoichiometry="1" constant="true"/>
         </listOfReactants>
       </reaction>
-      <reaction metaid="meta_R_EX_pro_L_e" sboTerm="SBO:0000627" id="R_EX_pro_L_e" name="Exchange for L-Proline [e]" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
+      <reaction metaid="meta_R_EX_pro_L_e" sboTerm="SBO:0000627" id="R_EX_pro_L_e" name="Exchange for L-Proline [e]" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
           <speciesReference species="M_pro_L_e" stoichiometry="1" constant="true"/>
         </listOfReactants>
@@ -65046,7 +65046,7 @@
           <speciesReference species="M_glyc3p_e" stoichiometry="1" constant="true"/>
         </listOfReactants>
       </reaction>
-      <reaction metaid="meta_R_EX_orn_e" sboTerm="SBO:0000627" id="R_EX_orn_e" name="Exchange for Ornithine [e]" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
+      <reaction metaid="meta_R_EX_orn_e" sboTerm="SBO:0000627" id="R_EX_orn_e" name="Exchange for Ornithine [e]" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
           <speciesReference species="M_orn_e" stoichiometry="1" constant="true"/>
         </listOfReactants>
@@ -65146,7 +65146,7 @@
           <speciesReference species="M_h2_e" stoichiometry="1" constant="true"/>
         </listOfReactants>
       </reaction>
-      <reaction metaid="meta_R_EX_lys_L_e" sboTerm="SBO:0000627" id="R_EX_lys_L_e" name="Exchange for L-Lysine [e]" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
+      <reaction metaid="meta_R_EX_lys_L_e" sboTerm="SBO:0000627" id="R_EX_lys_L_e" name="Exchange for L-Lysine [e]" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
           <speciesReference species="M_lys_L_e" stoichiometry="1" constant="true"/>
         </listOfReactants>
@@ -65171,7 +65171,7 @@
           <speciesReference species="M_Fe3_e" stoichiometry="1" constant="true"/>
         </listOfReactants>
       </reaction>
-      <reaction metaid="meta_R_EX_fru_e" sboTerm="SBO:0000627" id="R_EX_fru_e" name="Exchange for D-Fructose [e]" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
+      <reaction metaid="meta_R_EX_fru_e" sboTerm="SBO:0000627" id="R_EX_fru_e" name="Exchange for D-Fructose [e]" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
           <speciesReference species="M_fru_e" stoichiometry="1" constant="true"/>
         </listOfReactants>
@@ -65186,12 +65186,12 @@
           <speciesReference species="M_gly_cys_L_e" stoichiometry="1" constant="true"/>
         </listOfReactants>
       </reaction>
-      <reaction metaid="meta_R_EX_alaala_e" sboTerm="SBO:0000627" id="R_EX_alaala_e" name="Exchange for Ala-Ala [e]" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
+      <reaction metaid="meta_R_EX_alaala_e" sboTerm="SBO:0000627" id="R_EX_alaala_e" name="Exchange for Ala-Ala [e]" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
           <speciesReference species="M_alaala_e" stoichiometry="1" constant="true"/>
         </listOfReactants>
       </reaction>
-      <reaction metaid="meta_R_EX_co2_e" sboTerm="SBO:0000627" id="R_EX_co2_e" name="Exchange for CO2 [e]" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
+      <reaction metaid="meta_R_EX_co2_e" sboTerm="SBO:0000627" id="R_EX_co2_e" name="Exchange for CO2 [e]" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
           <speciesReference species="M_co2_e" stoichiometry="1" constant="true"/>
         </listOfReactants>
@@ -65226,12 +65226,12 @@
           <speciesReference species="M_thr_L_e" stoichiometry="1" constant="true"/>
         </listOfReactants>
       </reaction>
-      <reaction metaid="meta_R_EX_pheme_e" sboTerm="SBO:0000627" id="R_EX_pheme_e" name="Exchange for Heme [e]" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
+      <reaction metaid="meta_R_EX_pheme_e" sboTerm="SBO:0000627" id="R_EX_pheme_e" name="Exchange for Heme [e]" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
           <speciesReference species="M_pheme_e" stoichiometry="1" constant="true"/>
         </listOfReactants>
       </reaction>
-      <reaction metaid="meta_R_EX_glu_L_e" sboTerm="SBO:0000627" id="R_EX_glu_L_e" name="Exchange for L-Glutamate [e]" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
+      <reaction metaid="meta_R_EX_glu_L_e" sboTerm="SBO:0000627" id="R_EX_glu_L_e" name="Exchange for L-Glutamate [e]" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
           <speciesReference species="M_glu_L_e" stoichiometry="1" constant="true"/>
         </listOfReactants>
@@ -65286,7 +65286,7 @@
           <speciesReference species="M_chitob_e" stoichiometry="1" constant="true"/>
         </listOfReactants>
       </reaction>
-      <reaction metaid="meta_R_EX_for_e" sboTerm="SBO:0000627" id="R_EX_for_e" name="Exchange for Formate [e]" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
+      <reaction metaid="meta_R_EX_for_e" sboTerm="SBO:0000627" id="R_EX_for_e" name="Exchange for Formate [e]" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
           <speciesReference species="M_for_e" stoichiometry="1" constant="true"/>
         </listOfReactants>

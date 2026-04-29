@@ -143,5 +143,8 @@ Genes_E3_down = na.omit(res_E3@rownames[Genes_id_down])
 
 Liste_Genes_down = Genes_B_down[Genes_B_down %in% Genes_E3_down]
 Liste_Genes_down = Genes_E3_down[Genes_E3_down %in% Genes_C_down]
-lapply(Liste_Genes_down, write, "~/Documents/R/Liste_Genes_down", append=TRUE, ncolumns=1000)
+
+#----Take list----
+lapply(Genes_E_up, write, "~/Documents/R/Genes_List/Liste_Genes_E1_up", append=TRUE, ncolumns=1000)
+lapply(Genes_E_down, write, "~/Documents/R/Genes_List/Liste_Genes_E1_down", append=TRUE, ncolumns=1000)
 

@@ -380,7 +380,7 @@ def scatter_plot_fluxes(fba, conditions, font_size=8):
 
 def correlation_matrix(fba, conditions, color="Blues"):
     """
-    Function to create a correlation matrix between the fluxes of coditions
+    Function to create a correlation matrix between the fluxes of conditions
 
     Parameters
     ----------
