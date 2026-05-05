@@ -65176,7 +65176,7 @@
           <speciesReference species="M_fru_e" stoichiometry="1" constant="true"/>
         </listOfReactants>
       </reaction>
-      <reaction metaid="meta_R_EX_gam_e" sboTerm="SBO:0000627" id="R_EX_gam_e" name="Exchange for GLUM [e]" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
+      <reaction metaid="meta_R_EX_gam_e" sboTerm="SBO:0000627" id="R_EX_gam_e" name="Exchange for GLUM [e]" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
           <speciesReference species="M_gam_e" stoichiometry="1" constant="true"/>
         </listOfReactants>
