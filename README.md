@@ -95,3 +95,13 @@ Preda.plot_biomass()
 ```shell
 Preda.plot_FVA("Pred", "rxn08704_c")
 ```
+
+- Environment: plot the metabolites of the environment through time, you can look either to imported and / or secreted
+
+![image](image/Env.png)
+
+```shell
+Preda.plot_env() #only imported
+Preda.plot_env(imported=False, secreted=True) #only secreted
+Preda.plot_env(secreted=True) #both
+```
