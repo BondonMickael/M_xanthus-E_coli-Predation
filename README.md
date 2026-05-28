@@ -58,9 +58,9 @@ from tqdm import tqdm
 - Set up a dictionnary for the environment with full name metabolites with the first letter in capital and the quantity
 
 ```shell
-prey = read_xml("prey.xml")
-pred = read_xml("pred.xml")
-env = {Glucose: 1000}
+prey = read_sbml_model("prey.xml")
+pred = read_sbml_model("pred.xml")
+env = {"Glucose": 1000, "Ammonium": 1000}
 ```
 
 ### 2.2 Predation
@@ -78,34 +78,34 @@ Preda = Predation(prey, pred, env, tf=10)
 ### 2.3 Plot
 - Classical plot:
     - Flux
+    ```shell
+    Preda.plot_flux()
+    ```
 
     ![image](image/flux.png)
     - Biomass
+    ```shell
+    Preda.plot_biomass()
+    ```
 
     ![image](image/biomass.png)
 
-```shell
-Preda.plot_flux()
-Preda.plot_biomass()
-```
 - FVA: Give from wich model and which reaction
     - Model: the model you want: Pred, pred, Predator, predator, Prey, prey
     - R: reaction wanted. Should be in the model !
-
-![image](image/fva_plot.png)
-
 ```shell
 Preda.plot_FVA(Model="Pred", R="rxn08704_c")
 ```
 
+![image](image/fva_plot.png)
+
 - Environment: plot the metabolites of the environment through time, you can look either to imported and / or secreted
     - imported: True or False, should be the imported metabolites. True by default
     - secreted: True or False, should be the secreted metabolites. False by default
-
-![image](image/Env.png)
-
 ```shell
 Preda.plot_env() #only imported
 Preda.plot_env(imported=False, secreted=True) #only secreted
 Preda.plot_env(secreted=True) #both
 ```
+
+![image](image/Env.png)
