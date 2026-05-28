@@ -89,8 +89,8 @@ Preda.plot_flux()
 Preda.plot_biomass()
 ```
 - FVA: Give from wich model and which reaction
-      - Model: the model you want: Pred, pred, Predator, predator, Prey, prey
-      - R: reaction wanted. Should be in the model !
+    - Model: the model you want: Pred, pred, Predator, predator, Prey, prey
+    - R: reaction wanted. Should be in the model !
 
 ![image](image/fva_plot.png)
 
@@ -99,8 +99,8 @@ Preda.plot_FVA(Model="Pred", R="rxn08704_c")
 ```
 
 - Environment: plot the metabolites of the environment through time, you can look either to imported and / or secreted
-      - imported: True or False, should be the imported metabolites. True by default
-      - secreted: True or False, should be the secreted metabolites. False by default
+    - imported: True or False, should be the imported metabolites. True by default
+    - secreted: True or False, should be the secreted metabolites. False by default
 
 ![image](image/Env.png)
 
