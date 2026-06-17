@@ -5,7 +5,6 @@
   - [1.2. Looking at the difference between predation and alone - Python](#12-looking-at-the-difference-between-predation-and-alone---python)
   - [1.3. Looking at the difference between predation and alone - R](#13-looking-at-the-difference-between-predation-and-alone---r)
   - [1.4. Side Quest](#14-side-quest)
-  - [1.5. Non Conluent Test](#15-non-conluent-test)
 - [2. Predation Model](#2-predation-model)
   - [2.1. Setup](#21-setup)
   - [2.2. Predation](#22-predation)
@@ -33,12 +32,9 @@
 ### 1.4 Side Quest
 - Create Genetic Algorithm
 
-### 1.5 Non Conluent Test
-- Essentiality Combination
-
 ## 2 Predation Model
 
-This model aims to recreate the dynamic of predation using metabolic modelling, it has been made on python version 1.12.12
+This model aims to recreate the dynamic of predation using metabolic modelling, it has been made on python version 1.12.12. The model can be found in the file named "[Predation_object.ipynb](https://github.com/BondonMickael/M_xanthus-E_coli-Predation/blob/main/notebooks/Predation_object.ipynb)" in the notebook folder.
 
 ### 2.1 Setup
 - Import necessary package.
